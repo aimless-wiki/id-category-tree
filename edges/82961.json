@@ -1,0 +1,1 @@
+{"name": "Unggas", "id": 82961, "predecessors": [{"name": "Burung", "id": 43009}, {"name": "Daging", "id": 68226}, {"name": "Hewan_ternak", "id": 15861}, {"name": "Peternakan", "id": 109408}], "successors": [{"name": "Ayam", "id": 205181}, {"name": "Bebek", "id": 893704}]}

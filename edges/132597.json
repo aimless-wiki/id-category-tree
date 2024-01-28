@@ -1,0 +1,1 @@
+{"name": "Bus_komputer", "id": 132597, "predecessors": [{"name": "Jaringan_komputer", "id": 53462}, {"name": "Perangkat_keras", "id": 35390}, {"name": "Komputer", "id": 13294}, {"name": "Protokol_Internet", "id": 132711}], "successors": []}

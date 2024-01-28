@@ -1,0 +1,1 @@
+{"name": "Produsen_pesawat", "id": 16935, "predecessors": [{"name": "Perusahaan_manufaktur", "id": 130615}, {"name": "Pesawat", "id": 314447}], "successors": [{"name": "Boeing", "id": 28762}, {"name": "Perusahaan_helikopter", "id": 1032195}]}

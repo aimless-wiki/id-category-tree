@@ -1,0 +1,1 @@
+{"name": "Konstruksi_kapal", "id": 49069, "predecessors": [{"name": "Kapal", "id": 46507}, {"name": "Konstruksi", "id": 49068}, {"name": "Pelayaran", "id": 271076}, {"name": "Disiplin_teknik", "id": 269991}], "successors": [{"name": "Perusahaan_pembuat_kapal", "id": 142011}, {"name": "Kapal_yang_sedang_dirancang", "id": 290368}]}

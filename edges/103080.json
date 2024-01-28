@@ -1,0 +1,1 @@
+{"name": "Pencemaran", "id": 103080, "predecessors": [{"name": "Lingkungan", "id": 48598}, {"name": "Manusia", "id": 8549}, {"name": "Kesehatan", "id": 14387}], "successors": [{"name": "Pencemaran_udara", "id": 1157474}, {"name": "Pencemaran_air", "id": 1179872}]}

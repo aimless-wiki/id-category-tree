@@ -1,0 +1,1 @@
+{"name": "Instrumen_pesawat_terbang", "id": 1072310, "predecessors": [{"name": "Alat_pengukur", "id": 88292}, {"name": "Komponen_pesawat_udara", "id": 130027}], "successors": [{"name": "Avionik", "id": 126524}]}

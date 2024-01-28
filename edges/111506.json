@@ -1,0 +1,1 @@
+{"name": "Teknik_kimia", "id": 111506, "predecessors": [{"name": "Disiplin_teknik", "id": 269991}, {"name": "Kimia", "id": 6255}], "successors": [{"name": "Proses_kimia", "id": 62224}, {"name": "Ilmu_material", "id": 266965}, {"name": "Distilasi", "id": 111504}]}

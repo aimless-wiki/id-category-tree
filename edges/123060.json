@@ -1,0 +1,1 @@
+{"name": "Peralatan_telekomunikasi", "id": 123060, "predecessors": [{"name": "Telekomunikasi", "id": 13805}, {"name": "Alat", "id": 56219}], "successors": [{"name": "Telepon", "id": 37162}, {"name": "Telepon_genggam", "id": 110507}, {"name": "Satelit_komunikasi", "id": 200347}, {"name": "Kabel_komunikasi_bawah_laut", "id": 1757170}]}

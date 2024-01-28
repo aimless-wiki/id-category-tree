@@ -1,0 +1,1 @@
+{"name": "Pasar_keuangan", "id": 209741, "predecessors": [{"name": "Keuangan", "id": 15188}], "successors": [{"name": "Pasar_modal", "id": 200242}, {"name": "Bursa_efek", "id": 13344}, {"name": "IBEX-35", "id": 1746564}]}

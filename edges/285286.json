@@ -1,0 +1,1 @@
+{"name": "Vaksin", "id": 285286, "predecessors": [{"name": "Bioteknologi", "id": 48408}, {"name": "Obat", "id": 34699}], "successors": [{"name": "Vaksin_Covid-19", "id": 3200027}]}

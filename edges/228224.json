@@ -1,0 +1,1 @@
+{"name": "Roti", "id": 228224, "predecessors": [{"name": "Makanan", "id": 19275}, {"name": "Makanan_pokok", "id": 1419560}], "successors": [{"name": "Pastri", "id": 142886}, {"name": "Roti_lapis", "id": 2518788}]}

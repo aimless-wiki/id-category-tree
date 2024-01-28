@@ -1,0 +1,1 @@
+{"name": "Windows", "id": 15049, "predecessors": [{"name": "Perangkat_keras", "id": 35390}, {"name": "Perangkat_lunak_Microsoft", "id": 94491}, {"name": "Sistem_operasi", "id": 71756}, {"name": "Model_bisnis", "id": 132321}], "successors": [{"name": "Komponen_Windows", "id": 132515}]}

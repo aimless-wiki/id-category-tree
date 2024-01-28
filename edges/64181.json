@@ -1,0 +1,1 @@
+{"name": "Teater", "id": 64181, "predecessors": [{"name": "Hiburan", "id": 8543}, {"name": "Seni_pertunjukan", "id": 104355}], "successors": [{"name": "Tokoh_teater_Indonesia", "id": 75852}, {"name": "Genre_teater", "id": 815179}]}

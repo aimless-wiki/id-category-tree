@@ -1,0 +1,1 @@
+{"name": "Batuan", "id": 83810, "predecessors": [{"name": "Geologi", "id": 8522}, {"name": "Petrologi", "id": 86190}, {"name": "Isi", "id": 358984}, {"name": "Alam", "id": 70769}, {"name": "Struktur_Bumi", "id": 331544}], "successors": [{"name": "Batuan_beku", "id": 86188}, {"name": "Batuan_metamorf", "id": 127073}, {"name": "Batuan_sedimen", "id": 127083}]}

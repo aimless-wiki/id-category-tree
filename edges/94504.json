@@ -1,0 +1,1 @@
+{"name": "Perusahaan_internet", "id": 94504, "predecessors": [{"name": "Internet", "id": 8541}, {"name": "Industri", "id": 30058}, {"name": "Jaringan_komputer", "id": 53462}], "successors": [{"name": "Google", "id": 81565}, {"name": "Yahoo!", "id": 94503}]}

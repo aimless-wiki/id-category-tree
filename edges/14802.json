@@ -1,0 +1,1 @@
+{"name": "Mekanika", "id": 14802, "predecessors": [{"name": "Fisika", "id": 8523}], "successors": [{"name": "Mekanika_kuantum", "id": 15147}, {"name": "Mekanika_fluida", "id": 130328}, {"name": "Mekanika_klasik", "id": 266961}, {"name": "Osilator", "id": 371905}]}

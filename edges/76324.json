@@ -1,0 +1,1 @@
+{"name": "Mata_uang", "id": 76324, "predecessors": [{"name": "Keuangan", "id": 15188}, {"name": "Uang", "id": 38523}], "successors": [{"name": "Mata_uang_Eropa", "id": 995964}, {"name": "Uang_elektronik", "id": 1462926}, {"name": "Koin", "id": 2586404}, {"name": "Dinar", "id": 466394}, {"name": "Dolar", "id": 1171704}]}

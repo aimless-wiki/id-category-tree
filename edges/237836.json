@@ -1,0 +1,1 @@
+{"name": "Makanan_hasil_fermentasi", "id": 237836, "predecessors": [{"name": "Makanan", "id": 19275}, {"name": "Bioteknologi", "id": 48408}, {"name": "Proses_kimia", "id": 62224}], "successors": [{"name": "Keju", "id": 106822}, {"name": "Kimchi", "id": 1737344}]}

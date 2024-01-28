@@ -1,0 +1,1 @@
+{"name": "Telepon", "id": 37162, "predecessors": [{"name": "Peralatan_telekomunikasi", "id": 123060}, {"name": "Telekomunikasi", "id": 13805}], "successors": [{"name": "Telepon_genggam", "id": 110507}]}

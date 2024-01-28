@@ -1,0 +1,1 @@
+{"name": "Reaksi_kimia", "id": 128859, "predecessors": [{"name": "Proses_kimia", "id": 62224}], "successors": [{"name": "Reaksi_organik", "id": 184830}, {"name": "Reaksi_nama", "id": 294405}, {"name": "Katalisis", "id": 321417}, {"name": "Kimia_kesetimbangan", "id": 1872267}, {"name": "Mekanisme_reaksi", "id": 1976688}, {"name": "Reduktor", "id": 2352115}]}

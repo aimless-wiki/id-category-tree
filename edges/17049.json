@@ -1,0 +1,1 @@
+{"name": "Penerbit", "id": 17049, "predecessors": [{"name": "Buku", "id": 66447}, {"name": "Media", "id": 56383}, {"name": "Industri", "id": 30058}], "successors": [{"name": "Percetakan", "id": 70122}, {"name": "Perusahaan_penerbit_Indonesia", "id": 111494}]}

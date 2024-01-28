@@ -1,0 +1,1 @@
+{"name": "Kimia_nuklir", "id": 101078, "predecessors": [{"name": "Fisika_nuklir", "id": 47340}, {"name": "Kimia", "id": 6255}], "successors": [{"name": "Radioaktivitas", "id": 14254}, {"name": "Isotop", "id": 69911}]}

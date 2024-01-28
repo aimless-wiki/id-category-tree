@@ -1,0 +1,1 @@
+{"name": "Gempa_bumi", "id": 15843, "predecessors": [{"name": "Bencana_alam", "id": 31078}, {"name": "Seismologi", "id": 51908}, {"name": "Struktur_Bumi", "id": 331544}], "successors": [{"name": "Gempa_bumi_tahun_2009", "id": 345085}, {"name": "Gempa_bumi_tahun_2010", "id": 469142}, {"name": "Gempa_bumi_tahun_2023", "id": 3838453}]}

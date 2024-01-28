@@ -1,0 +1,1 @@
+{"name": "Jenis_planet", "id": 358158, "predecessors": [{"name": "Planet", "id": 17268}], "successors": [{"name": "Planet_kebumian", "id": 364819}, {"name": "Satelit_Saturnus", "id": 769376}]}

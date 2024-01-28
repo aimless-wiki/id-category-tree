@@ -1,0 +1,1 @@
+{"name": "Tank", "id": 30148, "predecessors": [{"name": "Kendaraan_tempur_lapis_baja", "id": 111406}], "successors": [{"name": "Senjata_anti-tank", "id": 265908}, {"name": "Meriam_tank", "id": 2698252}, {"name": "Tank_tempur_utama", "id": 403179}]}

@@ -1,0 +1,1 @@
+{"name": "Protokol_jaringan", "id": 132581, "predecessors": [{"name": "Jaringan_komputer", "id": 53462}], "successors": [{"name": "Protokol_Internet", "id": 132711}, {"name": "Protokol_lapisan_aplikasi", "id": 132716}]}

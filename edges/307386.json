@@ -1,0 +1,1 @@
+{"name": "Bus", "id": 307386, "predecessors": [{"name": "Transportasi_bus", "id": 307387}, {"name": "Kendaraan", "id": 14396}], "successors": [{"name": "Bus_pariwisata_di_Indonesia", "id": 3599354}, {"name": "Bus_kota_di_Surabaya", "id": 3598562}, {"name": "Bus_raya_terpadu_di_Indonesia", "id": 3599361}]}

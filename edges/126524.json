@@ -1,0 +1,1 @@
+{"name": "Avionik", "id": 126524, "predecessors": [{"name": "Elektronika", "id": 17194}, {"name": "Instrumen_pesawat_terbang", "id": 1072310}, {"name": "Komponen_pesawat_udara", "id": 130027}], "successors": [{"name": "Perusahaan_avionik", "id": 1073183}, {"name": "Radar_pesawat_terbang", "id": 1074109}]}

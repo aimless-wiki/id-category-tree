@@ -1,0 +1,1 @@
+{"name": "Farmakologi", "id": 70754, "predecessors": [{"name": "Obat", "id": 34699}, {"name": "Biokimia", "id": 48164}, {"name": "Ilmu_kesehatan", "id": 129904}], "successors": [{"name": "Obat", "id": 34699}, {"name": "Kode_ATC", "id": 237279}, {"name": "Perusahaan_farmasi", "id": 222643}]}

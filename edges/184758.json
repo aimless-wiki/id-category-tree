@@ -1,0 +1,1 @@
+{"name": "Ilmu_pangan", "id": 184758, "predecessors": [{"name": "Ilmu_terapan", "id": 51290}, {"name": "Industri_pangan", "id": 68227}, {"name": "Pertanian", "id": 8530}], "successors": [{"name": "Ilmu_perikanan", "id": 1169638}, {"name": "Keamanan_pangan", "id": 1178511}]}

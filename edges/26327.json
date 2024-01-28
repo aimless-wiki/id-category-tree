@@ -1,0 +1,1 @@
+{"name": "Minuman_beralkohol", "id": 26327, "predecessors": [{"name": "Alkohol", "id": 74250}, {"name": "Minuman", "id": 16067}], "successors": [{"name": "Bir", "id": 51827}, {"name": "Koktail", "id": 314434}]}

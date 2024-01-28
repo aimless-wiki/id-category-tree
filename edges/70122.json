@@ -1,0 +1,1 @@
+{"name": "Percetakan", "id": 70122, "predecessors": [{"name": "Desain_grafis", "id": 97244}, {"name": "Penerbit", "id": 17049}, {"name": "Teknologi", "id": 8528}], "successors": [{"name": "Rupa_huruf", "id": 97242}, {"name": "Seni_grafis", "id": 103914}, {"name": "Kertas", "id": 136431}]}

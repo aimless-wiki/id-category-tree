@@ -1,0 +1,1 @@
+{"name": "Kayu", "id": 118439, "predecessors": [{"name": "Anatomi_tumbuhan", "id": 79224}, {"name": "Bahan_bangunan", "id": 115109}, {"name": "Botani", "id": 42580}, {"name": "Pohon", "id": 93790}, {"name": "Bahan", "id": 24992}, {"name": "Alam", "id": 70769}], "successors": [{"name": "Pohon_kayu", "id": 338512}, {"name": "Kertas", "id": 136431}]}

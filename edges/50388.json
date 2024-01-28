@@ -1,0 +1,1 @@
+{"name": "Perdagangan", "id": 50388, "predecessors": [{"name": "Bisnis", "id": 30060}], "successors": [{"name": "Pasar", "id": 19589}, {"name": "Rumah_makan", "id": 54751}, {"name": "Perdagangan_internasional", "id": 102748}, {"name": "Barang", "id": 135190}]}

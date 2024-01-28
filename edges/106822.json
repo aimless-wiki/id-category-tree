@@ -1,0 +1,1 @@
+{"name": "Keju", "id": 106822, "predecessors": [{"name": "Makanan_hasil_fermentasi", "id": 237836}, {"name": "Produk_susu", "id": 100913}], "successors": [{"name": "Keju_Italia", "id": 529978}, {"name": "Keju_Inggris", "id": 529981}, {"name": "Keju_Prancis", "id": 529986}]}

@@ -1,0 +1,1 @@
+{"name": "Virus_komputer", "id": 72104, "predecessors": [{"name": "Berkas", "id": 132780}, {"name": "Perangkat_lunak", "id": 29565}], "successors": [{"name": "Perangkat_lunak_antivirus", "id": 97118}]}

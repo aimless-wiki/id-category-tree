@@ -1,0 +1,1 @@
+{"name": "Mobil", "id": 26332, "predecessors": [{"name": "Otomotif", "id": 8532}, {"name": "Kendaraan", "id": 14396}, {"name": "Isi", "id": 358984}], "successors": [{"name": "Otomotif", "id": 8532}, {"name": "Mobil_sport", "id": 160284}, {"name": "Klasifikasi_mobil", "id": 181062}, {"name": "Hatchback", "id": 850605}, {"name": "Mobil_listrik", "id": 1066563}]}

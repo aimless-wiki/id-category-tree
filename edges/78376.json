@@ -1,0 +1,1 @@
+{"name": "Radar", "id": 78376, "predecessors": [{"name": "Komunikasi_data", "id": 48580}, {"name": "Elektronika", "id": 17194}], "successors": [{"name": "Radar_pesawat_terbang", "id": 1074109}, {"name": "Radar_maritim", "id": 1472250}, {"name": "Radar_darat", "id": 1472258}, {"name": "Radar_militer", "id": 1472261}, {"name": "Radar_antariksa", "id": 3165165}]}

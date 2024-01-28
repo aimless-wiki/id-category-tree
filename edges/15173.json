@@ -1,0 +1,1 @@
+{"name": "Cuaca", "id": 15173, "predecessors": [{"name": "Alam", "id": 70769}, {"name": "Meteorologi", "id": 15174}], "successors": [{"name": "Badai", "id": 128900}, {"name": "Angin", "id": 190072}, {"name": "Jenis_awan", "id": 765226}, {"name": "Siklon_tropis", "id": 281254}]}

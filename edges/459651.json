@@ -1,0 +1,1 @@
+{"name": "Aritmetika", "id": 459651, "predecessors": [{"name": "Angka", "id": 16630}, {"name": "Matematika", "id": 8519}], "successors": [{"name": "Aritmetika_dasar", "id": 459650}, {"name": "Eksponensial", "id": 52851}]}

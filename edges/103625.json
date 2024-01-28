@@ -1,0 +1,1 @@
+{"name": "Mikroprosesor", "id": 103625, "predecessors": [{"name": "Perangkat_keras", "id": 35390}, {"name": "Sirkuit_terpadu", "id": 17192}], "successors": [{"name": "Mikroprosesor_x86", "id": 132682}]}

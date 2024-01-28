@@ -1,0 +1,1 @@
+{"name": "Perencanaan_perkotaan", "id": 112473, "predecessors": [{"name": "Ilmu_sosial", "id": 51276}, {"name": "Kota", "id": 17588}, {"name": "Manajemen_lahan", "id": 1178797}, {"name": "Masyarakat", "id": 33784}, {"name": "Manajemen", "id": 40238}], "successors": [{"name": "Perencanaan_transportasi", "id": 285210}]}

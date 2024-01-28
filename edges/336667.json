@@ -1,0 +1,1 @@
+{"name": "Pengemasan", "id": 336667, "predecessors": [{"name": "Manajemen_produk", "id": 132722}], "successors": [{"name": "Tempat_penyimpanan", "id": 85504}, {"name": "Bahan_kemasan", "id": 336663}]}

@@ -1,0 +1,1 @@
+{"name": "Laboratorium", "id": 110177, "predecessors": [{"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Ilmu", "id": 48575}], "successors": [{"name": "Peralatan_laboratorium", "id": 110176}, {"name": "Metode_laboratorium", "id": 181064}]}

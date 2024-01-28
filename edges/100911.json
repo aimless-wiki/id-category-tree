@@ -1,0 +1,1 @@
+{"name": "Peralatan_dapur", "id": 100911, "predecessors": [{"name": "Alat", "id": 56219}, {"name": "Dapur", "id": 8545}, {"name": "Budaya", "id": 8546}], "successors": [{"name": "Alat_memasak", "id": 1753622}, {"name": "Peralatan_dapur_Indonesia", "id": 589737}]}

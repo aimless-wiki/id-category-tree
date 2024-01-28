@@ -1,0 +1,1 @@
+{"name": "Perusahaan_manufaktur_senjata", "id": 96941, "predecessors": [{"name": "Perusahaan_manufaktur", "id": 130615}, {"name": "Perusahaan_pertahanan", "id": 215610}, {"name": "Senjata", "id": 27967}, {"name": "Inovasi", "id": 425100}, {"name": "Perdagangan_internasional", "id": 102748}], "successors": [{"name": "Pindad", "id": 850201}]}

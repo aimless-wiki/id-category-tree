@@ -1,0 +1,1 @@
+{"name": "Bahan_nuklir", "id": 101089, "predecessors": [{"name": "Bahan", "id": 24992}, {"name": "Nuklir", "id": 62185}, {"name": "Teknologi_nuklir", "id": 142858}], "successors": [{"name": "Uranium", "id": 102870}, {"name": "Bahan_bakar_nuklir", "id": 1551817}]}

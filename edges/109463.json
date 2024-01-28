@@ -1,0 +1,1 @@
+{"name": "Sapi", "id": 109463, "predecessors": [{"name": "Hewan_berkuku_genap", "id": 287013}, {"name": "Hewan_ternak", "id": 15861}], "successors": [{"name": "Daging_sapi", "id": 109462}, {"name": "Penyakit_sapi", "id": 2883138}, {"name": "Ras_sapi_potong", "id": 2797070}]}

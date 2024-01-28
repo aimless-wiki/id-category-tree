@@ -1,0 +1,1 @@
+{"name": "Produsen_mesin_pesawat", "id": 183663, "predecessors": [{"name": "Mesin_pesawat", "id": 596102}, {"name": "Perusahaan_dirgantara", "id": 293586}, {"name": "Perusahaan_manufaktur", "id": 130615}, {"name": "Komponen_pesawat_udara", "id": 130027}], "successors": []}

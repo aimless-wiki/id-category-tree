@@ -1,0 +1,1 @@
+{"name": "Peternakan", "id": 109408, "predecessors": [{"name": "Hewan_ternak", "id": 15861}, {"name": "Ilmu_terapan", "id": 51290}, {"name": "Industri", "id": 30058}, {"name": "Pertanian", "id": 8530}, {"name": "Genetika", "id": 20975}], "successors": [{"name": "Hewan_ternak", "id": 15861}, {"name": "Unggas", "id": 82961}]}

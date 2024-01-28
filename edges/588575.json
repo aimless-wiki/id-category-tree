@@ -1,0 +1,1 @@
+{"name": "Ikan_konsumsi", "id": 588575, "predecessors": [{"name": "Bahan_makanan", "id": 65726}, {"name": "Ikan", "id": 28565}, {"name": "Ikan_komersial", "id": 1441410}], "successors": [{"name": "Hiu", "id": 197522}]}

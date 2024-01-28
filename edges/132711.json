@@ -1,0 +1,1 @@
+{"name": "Protokol_Internet", "id": 132711, "predecessors": [{"name": "Arsitektur_internet", "id": 132717}, {"name": "Protokol_jaringan", "id": 132581}, {"name": "Komunikasi_data", "id": 48580}], "successors": [{"name": "Protokol_lapisan_aplikasi", "id": 132716}, {"name": "Bus_komputer", "id": 132597}, {"name": "Pengkodean_karakter", "id": 138954}]}

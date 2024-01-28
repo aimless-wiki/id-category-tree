@@ -1,0 +1,1 @@
+{"name": "Linux", "id": 17411, "predecessors": [{"name": "Sistem_operasi", "id": 71756}, {"name": "Sistem_operasi_bebas", "id": 197049}, {"name": "Unix", "id": 71597}], "successors": [{"name": "Distribusi_Linux", "id": 56561}, {"name": "Perangkat_lunak_Linux", "id": 125127}]}

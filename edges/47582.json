@@ -1,0 +1,1 @@
+{"name": "Pangkat_militer", "id": 47582, "predecessors": [{"name": "Militer", "id": 10363}, {"name": "Pekerjaan", "id": 30061}], "successors": [{"name": "Jenderal", "id": 123494}, {"name": "Perwira_tinggi", "id": 123723}]}

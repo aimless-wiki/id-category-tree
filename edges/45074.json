@@ -1,0 +1,1 @@
+{"name": "Akuntansi", "id": 45074, "predecessors": [{"name": "Bisnis", "id": 30060}], "successors": [{"name": "Perpajakan", "id": 45003}, {"name": "Audit", "id": 53468}, {"name": "Laporan_keuangan", "id": 457371}]}

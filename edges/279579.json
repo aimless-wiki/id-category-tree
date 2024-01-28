@@ -1,0 +1,1 @@
+{"name": "Infrastruktur_rel", "id": 279579, "predecessors": [{"name": "Transportasi_rel", "id": 14534}, {"name": "Bangunan_dan_struktur", "id": 128890}], "successors": [{"name": "Persinyalan_kereta_api", "id": 2780731}, {"name": "Stasiun_kereta_api", "id": 21433}]}

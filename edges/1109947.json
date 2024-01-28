@@ -1,0 +1,1 @@
+{"name": "IPhone", "id": 1109947, "predecessors": [{"name": "Telepon_genggam_layar_sentuh", "id": 778605}, {"name": "Telepon_pintar", "id": 391741}, {"name": "Telepon_genggam", "id": 110507}], "successors": [{"name": "Perangkat_lunak_iOS", "id": 1101689}, {"name": "IOS_(Apple)", "id": 1109951}]}

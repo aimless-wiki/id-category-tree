@@ -1,0 +1,1 @@
+{"name": "Perahu", "id": 140179, "predecessors": [{"name": "Kapal", "id": 46507}, {"name": "Kendaraan", "id": 14396}, {"name": "Transportasi_air", "id": 14537}], "successors": [{"name": "Jenis_perahu", "id": 2395031}]}

@@ -1,0 +1,1 @@
+{"name": "Listrik", "id": 38817, "predecessors": [{"name": "Elektromagnetisme", "id": 15649}, {"name": "Energi", "id": 14807}], "successors": [{"name": "Elektronika", "id": 17194}, {"name": "Komponen_kelistrikan", "id": 379887}, {"name": "Kendaraan_listrik", "id": 761703}, {"name": "Motor_listrik", "id": 843861}]}

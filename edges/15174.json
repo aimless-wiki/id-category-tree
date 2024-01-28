@@ -1,0 +1,1 @@
+{"name": "Meteorologi", "id": 15174, "predecessors": [{"name": "Atmosfer", "id": 20265}, {"name": "Ilmu_terapan", "id": 51290}], "successors": [{"name": "Cuaca", "id": 15173}, {"name": "Siklon_tropis", "id": 281254}]}

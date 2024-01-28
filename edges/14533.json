@@ -1,0 +1,1 @@
+{"name": "Angkutan", "id": 14533, "predecessors": [{"name": "Transportasi", "id": 8527}], "successors": [{"name": "Pesawat_penumpang_sipil", "id": 321630}, {"name": "Pesawat_terbang", "id": 528052}, {"name": "Kendaraan_peluncur_antariksa", "id": 3250544}]}

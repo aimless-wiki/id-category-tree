@@ -1,0 +1,1 @@
+{"name": "Pertahanan", "id": 1849739, "predecessors": [{"name": "Keselamatan", "id": 98054}, {"name": "Masyarakat", "id": 33784}, {"name": "Kesehatan", "id": 14387}], "successors": [{"name": "Militer", "id": 10363}, {"name": "Perang", "id": 13261}, {"name": "Revolusi", "id": 58039}, {"name": "Pertempuran", "id": 84968}, {"name": "Perang_Kemerdekaan", "id": 675103}]}

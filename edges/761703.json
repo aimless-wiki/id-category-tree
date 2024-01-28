@@ -1,0 +1,1 @@
+{"name": "Kendaraan_listrik", "id": 761703, "predecessors": [{"name": "Listrik", "id": 38817}, {"name": "Pemeliharaan_Wikipedia", "id": 51259}, {"name": "Energi", "id": 14807}], "successors": [{"name": "Mobil_listrik", "id": 1066563}]}

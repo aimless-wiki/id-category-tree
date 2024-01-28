@@ -1,0 +1,1 @@
+{"name": "Standar_ISO", "id": 135611, "predecessors": [{"name": "Standar", "id": 79799}, {"name": "Organisasi_standar", "id": 180599}], "successors": [{"name": "ISO_3166", "id": 183930}, {"name": "ISO_4217", "id": 3030936}]}

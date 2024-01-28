@@ -1,0 +1,1 @@
+{"name": "Bahan_bakar_nuklir", "id": 1551817, "predecessors": [{"name": "Bahan_bakar", "id": 14800}, {"name": "Bahan_nuklir", "id": 101089}, {"name": "Teknologi_nuklir", "id": 142858}, {"name": "Bahan", "id": 24992}, {"name": "Alam", "id": 70769}], "successors": [{"name": "Uranium", "id": 102870}, {"name": "Perusahaan_bahan_bakar_nuklir", "id": 3164833}]}

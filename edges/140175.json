@@ -1,0 +1,1 @@
+{"name": "Bagian_kendaraan", "id": 140175, "predecessors": [{"name": "Otomotif", "id": 8532}, {"name": "Teknologi_otomotif", "id": 90991}], "successors": [{"name": "Ban", "id": 118020}]}

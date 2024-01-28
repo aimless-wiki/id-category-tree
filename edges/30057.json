@@ -1,0 +1,1 @@
+{"name": "Mode", "id": 30057, "predecessors": [{"name": "Budaya", "id": 8546}, {"name": "Desain", "id": 30062}, {"name": "Industri", "id": 30058}], "successors": [{"name": "Tekstil", "id": 30056}, {"name": "Pakaian", "id": 63440}, {"name": "Model", "id": 127001}, {"name": "Merek_adibusana", "id": 771397}]}

@@ -1,0 +1,1 @@
+{"name": "Mesin_roket", "id": 594530, "predecessors": [{"name": "Mesin", "id": 51071}, {"name": "Mesin_jet", "id": 183656}, {"name": "Roket", "id": 26373}, {"name": "Alam", "id": 70769}], "successors": [{"name": "Roket_tahap_atas", "id": 1876645}]}

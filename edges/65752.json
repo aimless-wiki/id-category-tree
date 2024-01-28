@@ -1,0 +1,1 @@
+{"name": "Darah", "id": 65752, "predecessors": [{"name": "Cairan_tubuh", "id": 79751}, {"name": "Sistem_kardiovaskular", "id": 65855}], "successors": [{"name": "Hematologi", "id": 37751}, {"name": "Sel_darah_putih", "id": 497143}]}

@@ -1,0 +1,1 @@
+{"name": "Cairan_tubuh", "id": 79751, "predecessors": [{"name": "Anatomi", "id": 15993}, {"name": "Anatomi_hewan", "id": 116706}, {"name": "Fisiologi_hewan", "id": 439547}, {"name": "Hematologi", "id": 37751}, {"name": "Kimia", "id": 6255}], "successors": [{"name": "Darah", "id": 65752}, {"name": "Susu", "id": 121772}]}

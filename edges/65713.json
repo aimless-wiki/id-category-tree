@@ -1,0 +1,1 @@
+{"name": "Makanan_siap_saji", "id": 65713, "predecessors": [{"name": "Makanan", "id": 19275}], "successors": [{"name": "Rumah_makan_siap_saji", "id": 54750}, {"name": "Piza", "id": 412889}, {"name": "Burger", "id": 2353221}]}

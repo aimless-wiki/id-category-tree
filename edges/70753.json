@@ -1,0 +1,1 @@
+{"name": "Farmasi", "id": 70753, "predecessors": [{"name": "Farmasi", "id": 70753}, {"name": "Ilmu_kesehatan", "id": 129904}], "successors": [{"name": "Farmasi", "id": 70753}, {"name": "Obat", "id": 34699}, {"name": "Antibiotika", "id": 132846}]}

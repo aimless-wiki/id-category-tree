@@ -1,0 +1,1 @@
+{"name": "Produsen_sepeda_motor", "id": 122981, "predecessors": [{"name": "Sepeda_motor", "id": 122982}], "successors": [{"name": "Honda", "id": 21316}, {"name": "Sepeda_motor_Suzuki", "id": 201542}, {"name": "Kendaraan_Suzuki", "id": 528825}]}

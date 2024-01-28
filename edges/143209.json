@@ -1,0 +1,1 @@
+{"name": "Gejala_penyakit", "id": 143209, "predecessors": [{"name": "Penyakit", "id": 13544}, {"name": "Fisiologi", "id": 45012}], "successors": [{"name": "Diabetes", "id": 37754}, {"name": "Radang", "id": 143204}]}
