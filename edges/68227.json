@@ -1,1 +1,1 @@
-{"name": "Industri_pangan", "id": 68227, "predecessors": [{"name": "Industri", "id": 30058}, {"name": "Budaya", "id": 8546}], "successors": [{"name": "Ilmu_pangan", "id": 184758}, {"name": "Wirausahawan_makanan_dan_minuman_Indonesia", "id": 3770043}]}
+{"name": "Industri_pangan", "id": 68227, "predecessors": [{"name": "Industri", "id": 30058}, {"name": "Budaya", "id": 8546}], "successors": [{"name": "Perusahaan_makanan", "id": 130614}, {"name": "Ilmu_pangan", "id": 184758}, {"name": "Wirausahawan_makanan_dan_minuman_Indonesia", "id": 3770043}]}

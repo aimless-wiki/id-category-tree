@@ -1,1 +1,1 @@
-{"name": "Produksi_film", "id": 359380, "predecessors": [{"name": "Produksi_dan_manufaktur", "id": 112276}, {"name": "Film", "id": 8544}], "successors": [{"name": "Istilah_film_dan_video", "id": 359383}, {"name": "Film_mancanegara", "id": 3532681}]}
+{"name": "Produksi_film", "id": 359380, "predecessors": [{"name": "Produksi_dan_manufaktur", "id": 112276}, {"name": "Film", "id": 8544}], "successors": [{"name": "Istilah_film_dan_video", "id": 359383}]}

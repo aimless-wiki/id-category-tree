@@ -1,1 +1,1 @@
-{"name": "Drama_televisi_Britania_Raya", "id": 3310975, "predecessors": [{"name": "Genre_televisi", "id": 285176}, {"name": "Seri_televisi", "id": 264831}], "successors": [{"name": "Drama_televisi_BBC", "id": 2799006}]}
+{"name": "Drama_televisi_Britania_Raya", "id": 3310975, "predecessors": [{"name": "Seri_televisi", "id": 264831}], "successors": [{"name": "Drama_televisi_BBC", "id": 2799006}]}
