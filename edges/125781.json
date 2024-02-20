@@ -1,1 +1,1 @@
-{"name": "Tembakau", "id": 125781, "predecessors": [{"name": "Tanaman_pertanian", "id": 1272675}, {"name": "Kesehatan", "id": 14387}], "successors": [{"name": "Rokok", "id": 45667}]}
+{"name": "Tembakau", "id": 125781, "predecessors": [{"name": "Tanaman_pertanian", "id": 1272675}, {"name": "Kesehatan", "id": 14387}, {"name": "Biokimia", "id": 48164}], "successors": [{"name": "Rokok", "id": 45667}]}

@@ -1,1 +1,1 @@
-{"name": "Protista", "id": 202293, "predecessors": [{"name": "Eukariota", "id": 109692}, {"name": "Mikroorganisme", "id": 202294}], "successors": [{"name": "Alga", "id": 442483}]}
+{"name": "Protista", "id": 202293, "predecessors": [{"name": "Mikroorganisme", "id": 202294}, {"name": "Biologi", "id": 8524}], "successors": [{"name": "Amoebozoa", "id": 407485}, {"name": "Alga", "id": 442483}]}

@@ -1,1 +1,1 @@
-{"name": "Senyawa_magnesium", "id": 1745865, "predecessors": [{"name": "Senyawa_kimia", "id": 16704}, {"name": "Unsur_kimia", "id": 13767}], "successors": [{"name": "Mineral_magnesium", "id": 1198219}]}
+{"name": "Senyawa_magnesium", "id": 1745865, "predecessors": [{"name": "Unsur_kimia", "id": 13767}, {"name": "Senyawa_kimia", "id": 16704}], "successors": [{"name": "Mineral_magnesium", "id": 1198219}]}

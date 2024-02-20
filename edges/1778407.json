@@ -1,1 +1,1 @@
-{"name": "Templat_senyawa_kimia", "id": 1778407, "predecessors": [{"name": "Templat_kimia", "id": 268149}], "successors": []}
+{"name": "Templat_senyawa_kimia", "id": 1778407, "predecessors": [{"name": "Templat_kimia", "id": 268149}, {"name": "Templat_navigasi_kimia", "id": 282179}], "successors": []}

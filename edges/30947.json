@@ -1,1 +1,1 @@
-{"name": "Pantai", "id": 30947, "predecessors": [{"name": "Bentang_alam", "id": 58297}], "successors": [{"name": "Geografi_pesisir", "id": 1007135}]}
+{"name": "Pantai", "id": 30947, "predecessors": [{"name": "Bentang_alam", "id": 58297}, {"name": "Bentang_alam_pesisir_dan_samudra", "id": 3304189}], "successors": [{"name": "Geografi_pesisir", "id": 1007135}]}
