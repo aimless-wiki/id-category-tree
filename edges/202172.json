@@ -1,1 +1,1 @@
-{"name": "Kuda", "id": 202172, "predecessors": [{"name": "Hewan_domestik", "id": 3890435}, {"name": "Hewan_ternak", "id": 15861}, {"name": "Mamalia", "id": 14566}], "successors": [{"name": "Kuda_mitologis", "id": 1006817}]}
+{"name": "Kuda", "id": 202172, "predecessors": [{"name": "Hewan_domestik", "id": 3890435}, {"name": "Hewan_ternak", "id": 15861}, {"name": "Mamalia", "id": 14566}], "successors": [{"name": "Berkuda", "id": 124465}, {"name": "Kuda_mitologis", "id": 1006817}]}

@@ -1,1 +1,1 @@
-{"name": "Pemain_bulu_tangkis_putra_Indonesia", "id": 3981182, "predecessors": [{"name": "Pemain_bulu_tangkis_Indonesia", "id": 534929}, {"name": "Jenis_kelamin", "id": 100838}, {"name": "Masyarakat", "id": 33784}], "successors": []}
+{"name": "Pemain_bulu_tangkis_putra_Indonesia", "id": 3981182, "predecessors": [{"name": "Olahragawan_Indonesia", "id": 40285}, {"name": "Jenis_kelamin", "id": 100838}, {"name": "Masyarakat", "id": 33784}], "successors": []}
