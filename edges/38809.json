@@ -1,1 +1,1 @@
-{"name": "Reptil", "id": 38809, "predecessors": [{"name": "Chordata", "id": 15994}, {"name": "Hewan", "id": 14568}], "successors": [{"name": "Reptil_Asia", "id": 780544}, {"name": "Ular", "id": 61482}, {"name": "Kadal", "id": 66538}, {"name": "Homalopsidae", "id": 1751047}, {"name": "Cyrtodactylus", "id": 2360026}]}
+{"name": "Reptil", "id": 38809, "predecessors": [{"name": "Chordata", "id": 15994}, {"name": "Hewan", "id": 14568}], "successors": [{"name": "Reptil_Asia", "id": 780544}, {"name": "Squamata", "id": 1580542}]}

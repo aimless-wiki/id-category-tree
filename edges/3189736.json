@@ -1,1 +1,1 @@
-{"name": "Stasiun_kereta_api_di_Belanda", "id": 3189736, "predecessors": [{"name": "Kerajaan_Belanda", "id": 302306}, {"name": "Stasiun_kereta_api", "id": 21433}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Transportasi_rel", "id": 14534}], "successors": []}
+{"name": "Stasiun_kereta_api_di_Belanda", "id": 3189736, "predecessors": [{"name": "Belanda", "id": 15565}, {"name": "Stasiun_kereta_api", "id": 21433}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Transportasi_rel", "id": 14534}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Stasiun_angkutan_cepat_di_Singapura", "id": 360024, "predecessors": [{"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Angkutan_cepat", "id": 23931}, {"name": "Ekonomi_Asia", "id": 131312}], "successors": []}
+{"name": "Stasiun_angkutan_cepat_di_Singapura", "id": 360024, "predecessors": [{"name": "Transportasi_di_Singapura", "id": 106534}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Angkutan_cepat", "id": 23931}], "successors": []}

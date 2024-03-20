@@ -1,1 +1,1 @@
-{"name": "Reproduksi", "id": 376541, "predecessors": [{"name": "Kehidupan", "id": 91073}, {"name": "Biologi", "id": 8524}], "successors": [{"name": "Seks", "id": 40024}, {"name": "Reproduksi_tumbuhan", "id": 376545}, {"name": "Seksualitas_manusia", "id": 3363140}]}
+{"name": "Reproduksi", "id": 376541, "predecessors": [{"name": "Kehidupan", "id": 91073}, {"name": "Biologi", "id": 8524}], "successors": [{"name": "Seks", "id": 40024}, {"name": "Reproduksi_tumbuhan", "id": 376545}, {"name": "Pengaturan_kelahiran", "id": 4255003}, {"name": "Seksualitas_manusia", "id": 3363140}]}

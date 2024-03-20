@@ -1,0 +1,1 @@
+{"name": "CPU", "id": 132539, "predecessors": [{"name": "Mikroprosesor", "id": 103625}, {"name": "Komputer", "id": 13294}, {"name": "Perangkat_keras", "id": 35390}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Pemeran_Sunda", "id": 1835492, "predecessors": [{"name": "Seniman_Sunda", "id": 1782499}, {"name": "Film_Indonesia", "id": 16076}], "successors": []}
+{"name": "Pemeran_Sunda", "id": 1835492, "predecessors": [{"name": "Pemeran_Indonesia", "id": 133275}, {"name": "Seniman_Sunda", "id": 1782499}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Batik", "id": 542033, "predecessors": [{"name": "Budaya_Indonesia", "id": 34600}, {"name": "Budaya_Jawa", "id": 30107}, {"name": "Pakaian_Indonesia", "id": 290065}, {"name": "Seni_di_Indonesia", "id": 133145}], "successors": [{"name": "Motif_batik", "id": 721692}]}
+{"name": "Batik", "id": 542033, "predecessors": [{"name": "Budaya_Indonesia", "id": 34600}, {"name": "Budaya_Jawa", "id": 30107}, {"name": "Pakaian_Indonesia", "id": 290065}, {"name": "Kriya", "id": 69342}], "successors": [{"name": "Motif_batik", "id": 721692}]}

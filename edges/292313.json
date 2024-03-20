@@ -1,1 +1,1 @@
-{"name": "Jenis_kapal_perang", "id": 292313, "predecessors": [{"name": "Jenis_kapal", "id": 81962}, {"name": "Kapal_perang", "id": 67073}], "successors": [{"name": "Kelas_kapal_perusak", "id": 2470548}]}
+{"name": "Jenis_kapal_perang", "id": 292313, "predecessors": [{"name": "Jenis_kapal", "id": 81962}, {"name": "Kapal_perang", "id": 67073}], "successors": [{"name": "Kelas_fregat", "id": 300673}, {"name": "Kelas_kapal_perusak", "id": 2470548}]}

@@ -1,1 +1,1 @@
-{"name": "Penyakit_viral", "id": 143580, "predecessors": [{"name": "Penyakit_menular", "id": 14135}, {"name": "Virologi", "id": 143409}, {"name": "Virus", "id": 229059}, {"name": "Penyakit", "id": 13544}], "successors": [{"name": "Influenza", "id": 749210}]}
+{"name": "Penyakit_viral", "id": 143580, "predecessors": [{"name": "Penyakit_menular", "id": 14135}, {"name": "Virologi", "id": 143409}, {"name": "Virus", "id": 229059}, {"name": "Penyakit", "id": 13544}], "successors": [{"name": "Influenza", "id": 749210}, {"name": "Obat_antivirus", "id": 3769476}]}

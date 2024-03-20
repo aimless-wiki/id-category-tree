@@ -1,1 +1,1 @@
-{"name": "Minyak_dan_gas_bumi", "id": 108034, "predecessors": [{"name": "Bahan_bakar", "id": 14800}], "successors": []}
+{"name": "Minyak_dan_gas_bumi", "id": 108034, "predecessors": [{"name": "Bahan_bakar", "id": 14800}], "successors": [{"name": "Minyak_bumi", "id": 21898}]}
