@@ -1,1 +1,1 @@
-{"name": "Proses_industri", "id": 71347, "predecessors": [{"name": "Industri", "id": 30058}, {"name": "Teknologi", "id": 8528}, {"name": "Sistem_ekonomi", "id": 1514066}], "successors": []}
+{"name": "Proses_industri", "id": 71347, "predecessors": [{"name": "Industri", "id": 30058}, {"name": "Teknologi", "id": 8528}, {"name": "Sistem_ekonomi", "id": 1514066}], "successors": [{"name": "Proses_metalurgi", "id": 1435139}]}

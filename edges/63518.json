@@ -1,1 +1,1 @@
-{"name": "Situs_web_berita", "id": 63518, "predecessors": [{"name": "Situs_web", "id": 21287}], "successors": [{"name": "Situs_web_berita_Indonesia", "id": 2518440}]}
+{"name": "Situs_web_berita", "id": 63518, "predecessors": [{"name": "Situs_web", "id": 21287}], "successors": [{"name": "Situs_web_berita_Amerika_Serikat", "id": 768193}, {"name": "Situs_web_berita_Indonesia", "id": 2518440}]}

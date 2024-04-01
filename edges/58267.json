@@ -1,1 +1,1 @@
-{"name": "Bendungan", "id": 58267, "predecessors": [{"name": "Perairan", "id": 204973}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Air", "id": 60051}, {"name": "Sungai", "id": 17592}], "successors": []}
+{"name": "Bendungan", "id": 58267, "predecessors": [{"name": "Perairan", "id": 204973}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Air", "id": 60051}, {"name": "Sungai", "id": 17592}], "successors": [{"name": "Bendungan_dan_waduk_di_Indonesia", "id": 118371}]}
