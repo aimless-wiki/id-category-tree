@@ -1,1 +1,1 @@
-{"name": "Sinetron_RCTI", "id": 1443854, "predecessors": [{"name": "Acara_televisi_RCTI", "id": 1400281}, {"name": "Sinetron_Indonesia", "id": 145671}], "successors": []}
+{"name": "Sinetron_RCTI", "id": 1443854, "predecessors": [{"name": "Acara_televisi_RCTI", "id": 1400281}, {"name": "Acara_televisi", "id": 45903}], "successors": []}

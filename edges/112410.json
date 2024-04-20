@@ -1,1 +1,1 @@
-{"name": "Pesantren", "id": 112410, "predecessors": [{"name": "Lembaga_pendidikan", "id": 2706754}, {"name": "Pendidikan", "id": 8531}], "successors": [{"name": "Pesantren_di_Indonesia", "id": 36585}]}
+{"name": "Pesantren", "id": 112410, "predecessors": [{"name": "Pendidikan", "id": 8531}, {"name": "Organisasi", "id": 33782}], "successors": [{"name": "Pesantren_di_Indonesia", "id": 36585}]}

@@ -1,1 +1,1 @@
-{"name": "Perusahaan_semikonduktor", "id": 91398, "predecessors": [{"name": "Perusahaan_elektronik", "id": 47191}, {"name": "Perusahaan_manufaktur", "id": 130615}, {"name": "Perusahaan_teknologi", "id": 1416442}, {"name": "Alat", "id": 56219}], "successors": []}
+{"name": "Perusahaan_semikonduktor", "id": 91398, "predecessors": [{"name": "Fabrikasi_alat_semikonduktor", "id": 83523}, {"name": "Perusahaan_elektronik", "id": 47191}, {"name": "Perusahaan_manufaktur", "id": 130615}, {"name": "Perusahaan_teknologi", "id": 1416442}], "successors": []}

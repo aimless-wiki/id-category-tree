@@ -1,1 +1,1 @@
-{"name": "Sinetron_SCTV", "id": 1196387, "predecessors": [{"name": "Acara_televisi_SCTV", "id": 1387573}, {"name": "Sinetron_Indonesia", "id": 145671}], "successors": []}
+{"name": "Sinetron_SCTV", "id": 1196387, "predecessors": [{"name": "Acara_televisi_SCTV", "id": 1387573}, {"name": "Acara_televisi", "id": 45903}], "successors": []}

@@ -1,0 +1,1 @@
+{"name": "Pengolahan_mineral", "id": 4260193, "predecessors": [{"name": "Pertambangan", "id": 48397}, {"name": "Proses_industri", "id": 71347}, {"name": "Proses_metalurgi", "id": 1435139}], "successors": [{"name": "Ekstraksi_bijih", "id": 4260194}]}

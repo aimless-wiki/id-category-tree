@@ -1,1 +1,1 @@
-{"name": "Sekolah_bisnis", "id": 1447656, "predecessors": [{"name": "Bisnis", "id": 30060}], "successors": []}
+{"name": "Sekolah_bisnis", "id": 1447656, "predecessors": [{"name": "Bisnis", "id": 30060}], "successors": [{"name": "Alumni_HEC_Paris", "id": 3987967}]}

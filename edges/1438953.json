@@ -1,1 +1,1 @@
-{"name": "Telenovela_Rede_Globo", "id": 1438953, "predecessors": [{"name": "Acara_televisi", "id": 45903}, {"name": "Penyiaran", "id": 304596}], "successors": []}
+{"name": "Telenovela_TV_Globo", "id": 1438953, "predecessors": [{"name": "Acara_televisi", "id": 45903}, {"name": "Drama", "id": 106647}], "successors": []}
