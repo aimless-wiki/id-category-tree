@@ -1,1 +1,1 @@
-{"name": "Dosen_Universitas_Gadjah_Mada", "id": 764311, "predecessors": [{"name": "Dosen_Indonesia", "id": 1777262}, {"name": "Universitas_Gadjah_Mada", "id": 821519}], "successors": [{"name": "Rektor_Universitas_Gadjah_Mada", "id": 821521}]}
+{"name": "Dosen_Universitas_Gadjah_Mada", "id": 764311, "predecessors": [{"name": "Dosen_Indonesia", "id": 1777262}, {"name": "Organisasi", "id": 33782}], "successors": [{"name": "Rektor_Universitas_Gadjah_Mada", "id": 821521}]}
