@@ -1,1 +1,1 @@
-{"name": "Merek_rokok", "id": 465600, "predecessors": [{"name": "Rokok", "id": 45667}, {"name": "Komunikasi", "id": 8533}], "successors": []}
+{"name": "Merek_rokok", "id": 465600, "predecessors": [{"name": "Rokok", "id": 45667}, {"name": "Komunikasi", "id": 8533}], "successors": [{"name": "Merek_rokok_Indonesia", "id": 3790458}]}

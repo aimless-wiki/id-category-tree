@@ -1,1 +1,1 @@
-{"name": "Militer_Jerman_Nazi", "id": 3365530, "predecessors": [{"name": "Jerman_Nazi", "id": 217194}, {"name": "Sejarah_Jerman", "id": 19647}], "successors": [{"name": "Tokoh_militer_Jerman_Nazi", "id": 3364541}, {"name": "Tokoh_Waffen-SS", "id": 3363683}]}
+{"name": "Militer_Jerman_Nazi", "id": 3365530, "predecessors": [{"name": "Jerman_Nazi", "id": 217194}, {"name": "Pemerintahan", "id": 47711}], "successors": [{"name": "Tokoh_militer_Jerman_Nazi", "id": 3364541}, {"name": "Tokoh_Waffen-SS", "id": 3363683}]}

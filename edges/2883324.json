@@ -1,1 +1,1 @@
-{"name": "Penyakit_parasitik", "id": 2883324, "predecessors": [{"name": "Penyakit", "id": 13544}], "successors": []}
+{"name": "Penyakit_parasitik", "id": 2883324, "predecessors": [{"name": "Penyakit", "id": 13544}], "successors": [{"name": "Malaria", "id": 270523}]}

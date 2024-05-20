@@ -1,1 +1,1 @@
-{"name": "Manufaktur_elektronik", "id": 1463027, "predecessors": [{"name": "Elektronika", "id": 17194}], "successors": [{"name": "Perusahaan_elektronik", "id": 47191}]}
+{"name": "Manufaktur_elektronik", "id": 1463027, "predecessors": [{"name": "Industri_elektronika", "id": 1416973}, {"name": "Manufaktur", "id": 130616}], "successors": [{"name": "Perusahaan_elektronik", "id": 47191}]}

@@ -1,1 +1,1 @@
-{"name": "Diplomasi", "id": 41069, "predecessors": [{"name": "Politik", "id": 8557}], "successors": [{"name": "Diplomat", "id": 101698}, {"name": "Perwakilan_diplomatik_di_Indonesia", "id": 3110666}]}
+{"name": "Diplomasi", "id": 41069, "predecessors": [{"name": "Politik", "id": 8557}], "successors": [{"name": "Diplomat", "id": 101698}, {"name": "Perwakilan_diplomatik_di_Indonesia", "id": 3110666}, {"name": "Menteri_luar_negeri", "id": 468572}, {"name": "Kementerian_luar_negeri", "id": 4280476}]}

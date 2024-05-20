@@ -1,1 +1,1 @@
-{"name": "Elektrokimia", "id": 48568, "predecessors": [{"name": "Elektromagnetisme", "id": 15649}, {"name": "Kimia_fisik", "id": 123039}], "successors": []}
+{"name": "Elektrokimia", "id": 48568, "predecessors": [{"name": "Elektromagnetisme", "id": 15649}, {"name": "Kimia_fisik", "id": 123039}], "successors": [{"name": "Elektrolisis", "id": 451607}]}

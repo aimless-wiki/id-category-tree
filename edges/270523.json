@@ -1,0 +1,1 @@
+{"name": "Malaria", "id": 270523, "predecessors": [{"name": "Plasmodium", "id": 984416}, {"name": "Penyakit", "id": 13544}, {"name": "Forensik", "id": 49001}, {"name": "Penyakit_parasitik", "id": 2883324}, {"name": "Penyakit_menular", "id": 14135}], "successors": [{"name": "Plasmodium", "id": 984416}]}

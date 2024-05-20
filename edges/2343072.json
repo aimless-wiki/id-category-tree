@@ -1,1 +1,1 @@
-{"name": "Genre_musik_pop", "id": 2343072, "predecessors": [{"name": "Genre_musik", "id": 127728}, {"name": "Musik", "id": 8564}], "successors": [{"name": "Grup_idola_Jepang", "id": 845719}]}
+{"name": "Genre_musik_pop", "id": 2343072, "predecessors": [{"name": "Genre_musik", "id": 127728}, {"name": "Musik", "id": 8564}], "successors": [{"name": "Pop_Jawa", "id": 3334430}, {"name": "Grup_idola_Jepang", "id": 845719}]}

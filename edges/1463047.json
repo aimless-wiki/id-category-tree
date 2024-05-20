@@ -1,1 +1,1 @@
-{"name": "Disinfektan", "id": 1463047, "predecessors": [{"name": "Mikrobiologi", "id": 79625}], "successors": []}
+{"name": "Disinfektan", "id": 1463047, "predecessors": [{"name": "Manufaktur", "id": 130616}, {"name": "Mikrobiologi", "id": 79625}], "successors": []}

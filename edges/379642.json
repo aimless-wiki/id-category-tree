@@ -1,1 +1,1 @@
-{"name": "Infanteri", "id": 379642, "predecessors": [{"name": "Satuan_militer", "id": 109335}], "successors": []}
+{"name": "Infanteri", "id": 379642, "predecessors": [{"name": "Satuan_militer", "id": 109335}], "successors": [{"name": "Brigade_di_Tentara_Nasional_Indonesia_Angkatan_Darat", "id": 122564}, {"name": "Batalion_Infanteri_Tentara_Nasional_Indonesia_Angkatan_Darat", "id": 3015497}]}

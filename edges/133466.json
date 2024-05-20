@@ -1,1 +1,1 @@
-{"name": "Psikiatri", "id": 133466, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}], "successors": [{"name": "Gangguan_mental", "id": 180471}]}
+{"name": "Psikiatri", "id": 133466, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}], "successors": [{"name": "Gangguan_mental", "id": 180471}, {"name": "Kesehatan_mental", "id": 3245073}]}

@@ -1,1 +1,1 @@
-{"name": "Penegak_hukum", "id": 1040064, "predecessors": [{"name": "Hukum", "id": 8535}], "successors": []}
+{"name": "Penegak_hukum", "id": 1040064, "predecessors": [{"name": "Hukum", "id": 8535}], "successors": [{"name": "Kementerian_dalam_negeri", "id": 4280452}]}

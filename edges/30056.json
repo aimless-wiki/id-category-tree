@@ -1,1 +1,1 @@
-{"name": "Tekstil", "id": 30056, "predecessors": [{"name": "Bahan", "id": 24992}, {"name": "Mode", "id": 30057}], "successors": [{"name": "Kain", "id": 1482964}]}
+{"name": "Tekstil", "id": 30056, "predecessors": [{"name": "Bahan", "id": 24992}, {"name": "Mode", "id": 30057}, {"name": "Manufaktur", "id": 130616}], "successors": [{"name": "Kain", "id": 1482964}]}
