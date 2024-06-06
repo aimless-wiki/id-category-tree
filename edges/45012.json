@@ -1,1 +1,1 @@
-{"name": "Fisiologi", "id": 45012, "predecessors": [{"name": "Biologi", "id": 8524}], "successors": [{"name": "Fisiologi_tumbuhan", "id": 79226}, {"name": "Fisiologi_hewan", "id": 439547}, {"name": "Penyakit_pernapasan", "id": 76313}, {"name": "Tidur", "id": 141787}, {"name": "Gejala_penyakit", "id": 143209}]}
+{"name": "Fisiologi", "id": 45012, "predecessors": [{"name": "Biologi", "id": 8524}], "successors": [{"name": "Fisiologi_tumbuhan", "id": 79226}, {"name": "Fisiologi_hewan", "id": 439547}, {"name": "Gejala_penyakit", "id": 143209}, {"name": "Tidur", "id": 141787}]}

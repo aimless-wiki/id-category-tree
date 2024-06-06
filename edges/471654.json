@@ -1,1 +1,1 @@
-{"name": "Urologi", "id": 471654, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}, {"name": "Anatomi_hewan", "id": 116706}, {"name": "Bedah", "id": 122067}], "successors": [{"name": "Penyakit_yang_ditularkan_melalui_hubungan_seksual", "id": 230519}]}
+{"name": "Urologi", "id": 471654, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}, {"name": "Anatomi", "id": 15993}, {"name": "Bedah", "id": 122067}], "successors": [{"name": "Penyakit_yang_ditularkan_melalui_hubungan_seksual", "id": 230519}]}

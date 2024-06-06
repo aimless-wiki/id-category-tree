@@ -1,1 +1,1 @@
-{"name": "Sistem_endokrin", "id": 65862, "predecessors": [{"name": "Kelenjar", "id": 82899}, {"name": "Anatomi", "id": 15993}], "successors": [{"name": "Hormon", "id": 79749}]}
+{"name": "Sistem_endokrin", "id": 65862, "predecessors": [{"name": "Kelenjar", "id": 82899}, {"name": "Anatomi", "id": 15993}], "successors": [{"name": "Hormon", "id": 79749}, {"name": "Penyakit_jantung", "id": 1853927}]}

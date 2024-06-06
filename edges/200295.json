@@ -1,1 +1,1 @@
-{"name": "Obat_antiperadangan_non-steroid", "id": 200295, "predecessors": [{"name": "Analgesik", "id": 200293}, {"name": "Obat", "id": 34699}, {"name": "Farmakologi", "id": 70754}], "successors": []}
+{"name": "Obat_antiperadangan_non-steroid", "id": 200295, "predecessors": [{"name": "Analgesik", "id": 200293}, {"name": "Antiinflamasi", "id": 4258600}, {"name": "Farmakologi", "id": 70754}], "successors": []}

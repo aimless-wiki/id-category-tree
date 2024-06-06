@@ -1,1 +1,1 @@
-{"name": "Ras_anjing", "id": 364121, "predecessors": [{"name": "Anjing", "id": 26339}, {"name": "Mamalia", "id": 14566}], "successors": []}
+{"name": "Ras_anjing", "id": 364121, "predecessors": [{"name": "Anjing", "id": 26339}, {"name": "Mamalia", "id": 14566}, {"name": "Isi", "id": 358984}], "successors": []}

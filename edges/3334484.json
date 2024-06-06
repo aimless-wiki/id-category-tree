@@ -1,1 +1,1 @@
-{"name": "Aplikasi_seluler", "id": 3334484, "predecessors": [{"name": "Aplikasi", "id": 132367}, {"name": "Perangkat_lunak", "id": 29565}], "successors": []}
+{"name": "Aplikasi_seluler", "id": 3334484, "predecessors": [{"name": "Aplikasi", "id": 132367}, {"name": "Perangkat_lunak", "id": 29565}, {"name": "Isi", "id": 358984}], "successors": []}

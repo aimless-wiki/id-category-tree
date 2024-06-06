@@ -1,1 +1,1 @@
-{"name": "Alat_memasak", "id": 1753622, "predecessors": [{"name": "Alat", "id": 56219}, {"name": "Peralatan_dapur", "id": 100911}, {"name": "Budaya", "id": 8546}], "successors": []}
+{"name": "Alat_memasak", "id": 1753622, "predecessors": [{"name": "Alat", "id": 56219}, {"name": "Peralatan_dapur", "id": 100911}, {"name": "Hobi", "id": 8542}], "successors": []}

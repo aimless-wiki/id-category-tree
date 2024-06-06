@@ -1,1 +1,1 @@
-{"name": "Taman", "id": 99924, "predecessors": [{"name": "Tempat_wisata", "id": 56974}, {"name": "Hiburan", "id": 8543}], "successors": [{"name": "Tumbuhan_taman", "id": 3496828}, {"name": "Film_Universal_Pictures", "id": 2176048}]}
+{"name": "Taman", "id": 99924, "predecessors": [{"name": "Tempat_wisata", "id": 56974}, {"name": "Hiburan", "id": 8543}], "successors": [{"name": "Film_Universal_Pictures", "id": 2176048}]}

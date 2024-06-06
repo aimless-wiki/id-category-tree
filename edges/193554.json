@@ -1,1 +1,1 @@
-{"name": "Jenis_perusahaan", "id": 193554, "predecessors": [{"name": "Perusahaan", "id": 17047}], "successors": [{"name": "Badan_usaha_milik_negara_di_Indonesia", "id": 12649}, {"name": "Bank_Pembangunan_Daerah", "id": 1170772}]}
+{"name": "Jenis_perusahaan", "id": 193554, "predecessors": [{"name": "Perusahaan", "id": 17047}, {"name": "Isi", "id": 358984}], "successors": [{"name": "Badan_usaha_milik_negara_di_Indonesia", "id": 12649}, {"name": "Bank_Pembangunan_Daerah", "id": 1170772}]}

@@ -1,1 +1,1 @@
-{"name": "Peramban_web", "id": 836036, "predecessors": [{"name": "Internet", "id": 8541}, {"name": "Perangkat_lunak", "id": 29565}], "successors": []}
+{"name": "Peramban_web", "id": 836036, "predecessors": [{"name": "Internet", "id": 8541}, {"name": "Isi", "id": 358984}], "successors": []}

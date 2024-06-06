@@ -1,1 +1,1 @@
-{"name": "Pengirim_pesan_instan", "id": 94496, "predecessors": [{"name": "Perangkat_lunak", "id": 29565}, {"name": "Protokol_lapisan_aplikasi", "id": 132716}], "successors": []}
+{"name": "Pengirim_pesan_instan", "id": 94496, "predecessors": [{"name": "Protokol_lapisan_aplikasi", "id": 132716}, {"name": "Isi", "id": 358984}], "successors": []}

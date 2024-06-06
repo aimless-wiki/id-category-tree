@@ -1,1 +1,1 @@
-{"name": "Penyakit_pernapasan", "id": 76313, "predecessors": [{"name": "Penyakit", "id": 13544}, {"name": "Fisiologi", "id": 45012}, {"name": "Anatomi", "id": 15993}], "successors": [{"name": "Influenza", "id": 749210}]}
+{"name": "Penyakit_pernapasan", "id": 76313, "predecessors": [{"name": "Penyakit", "id": 13544}, {"name": "Anatomi", "id": 15993}], "successors": [{"name": "Influenza", "id": 749210}]}

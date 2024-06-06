@@ -1,1 +1,1 @@
-{"name": "Penyakit_jantung", "id": 1853927, "predecessors": [{"name": "Penyakit", "id": 13544}, {"name": "Anatomi_hewan", "id": 116706}], "successors": []}
+{"name": "Penyakit_jantung", "id": 1853927, "predecessors": [{"name": "Penyakit", "id": 13544}, {"name": "Sistem_endokrin", "id": 65862}], "successors": []}

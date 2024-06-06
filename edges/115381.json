@@ -1,1 +1,1 @@
-{"name": "Peluru_kendali_permukaan_ke_udara", "id": 115381, "predecessors": [{"name": "Peluru_kendali", "id": 78394}, {"name": "Ilmu_sosial", "id": 51276}], "successors": [{"name": "Peluru_kendali_permukaan_ke_udara_angkatan_laut", "id": 3069268}]}
+{"name": "Peluru_kendali_permukaan_ke_udara", "id": 115381, "predecessors": [{"name": "Peluru_kendali", "id": 78394}, {"name": "Isi", "id": 358984}], "successors": [{"name": "Peluru_kendali_permukaan_ke_udara_angkatan_laut", "id": 3069268}]}

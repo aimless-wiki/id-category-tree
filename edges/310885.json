@@ -1,1 +1,1 @@
-{"name": "Templat_meta_Wikipedia", "id": 310885, "predecessors": [{"name": "Templat_dasar", "id": 72187}, {"name": "Templat_Wikipedia", "id": 127053}], "successors": [{"name": "Templat_ruang_nama_templat", "id": 185814}, {"name": "Templat_warna_teks", "id": 825777}]}
+{"name": "Templat_meta_Wikipedia", "id": 310885, "predecessors": [{"name": "Templat_dasar", "id": 72187}, {"name": "Templat_Wikipedia", "id": 127053}], "successors": [{"name": "Templat_ruang_nama_templat", "id": 185814}, {"name": "Templat_warna_teks", "id": 825777}, {"name": "Kasus_uji_templat", "id": 4003290}]}

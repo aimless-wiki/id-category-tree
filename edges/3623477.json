@@ -1,1 +1,1 @@
-{"name": "Artikel_perkeretaapian_kelas_C", "id": 3623477, "predecessors": [{"name": "Isi", "id": 358984}], "successors": [{"name": "Artikel_perkeretaapian_kelas_C_cukup_penting", "id": 3623574}]}
+{"name": "Artikel_perkeretaapian_kelas_C", "id": 3623477, "predecessors": [{"name": "Transportasi", "id": 8527}], "successors": [{"name": "Artikel_perkeretaapian_kelas_C_cukup_penting", "id": 3623574}]}

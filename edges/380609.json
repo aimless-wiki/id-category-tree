@@ -1,0 +1,1 @@
+{"name": "Perangkat_semikonduktor", "id": 380609, "predecessors": [{"name": "Industri_elektronika", "id": 1416973}, {"name": "Komponen_kelistrikan", "id": 379887}, {"name": "Semikonduktor", "id": 83527}], "successors": [{"name": "Sirkuit_terpadu", "id": 17192}, {"name": "MOSFET", "id": 3390966}]}

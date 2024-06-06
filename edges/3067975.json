@@ -1,1 +1,1 @@
-{"name": "Bahan_kimia_komoditas", "id": 3067975, "predecessors": [{"name": "Barang", "id": 135190}], "successors": []}
+{"name": "Bahan_kimia_komoditas", "id": 3067975, "predecessors": [{"name": "Barang", "id": 135190}, {"name": "Isi", "id": 358984}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Semikonduktor", "id": 83527, "predecessors": [{"name": "Bahan", "id": 24992}], "successors": [{"name": "Fabrikasi_alat_semikonduktor", "id": 83523}]}
+{"name": "Semikonduktor", "id": 83527, "predecessors": [{"name": "Bahan", "id": 24992}], "successors": [{"name": "Fabrikasi_alat_semikonduktor", "id": 83523}, {"name": "Perangkat_semikonduktor", "id": 380609}]}

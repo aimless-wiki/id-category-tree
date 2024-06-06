@@ -1,1 +1,1 @@
-{"name": "Steroid", "id": 500632, "predecessors": [{"name": "Lipid", "id": 270250}], "successors": [{"name": "Kortikosteroid", "id": 4258599}]}
+{"name": "Steroid", "id": 500632, "predecessors": [{"name": "Lipid", "id": 270250}, {"name": "Hidrokarbon", "id": 97202}, {"name": "Senyawa_organik", "id": 16703}, {"name": "Senyawa_aromatik", "id": 317190}], "successors": [{"name": "Kortikosteroid", "id": 4258599}]}

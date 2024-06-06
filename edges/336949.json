@@ -1,1 +1,1 @@
-{"name": "Jenis_bintang", "id": 336949, "predecessors": [{"name": "Bintang", "id": 17267}], "successors": []}
+{"name": "Jenis_bintang", "id": 336949, "predecessors": [{"name": "Bintang", "id": 17267}, {"name": "Isi", "id": 358984}], "successors": []}

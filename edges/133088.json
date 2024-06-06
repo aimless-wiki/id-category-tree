@@ -1,1 +1,1 @@
-{"name": "Paket_aplikasi_perkantoran", "id": 133088, "predecessors": [{"name": "Perangkat_lunak", "id": 29565}], "successors": [{"name": "Microsoft_Office", "id": 140009}]}
+{"name": "Paket_aplikasi_perkantoran", "id": 133088, "predecessors": [{"name": "Perangkat_lunak", "id": 29565}, {"name": "Isi", "id": 358984}], "successors": [{"name": "Microsoft_Office", "id": 140009}]}

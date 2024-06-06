@@ -1,1 +1,1 @@
-{"name": "Perusahaan_perangkat_lunak_Amerika_Serikat", "id": 290453, "predecessors": [{"name": "Perusahaan_Amerika_Serikat", "id": 93798}], "successors": [{"name": "Microsoft", "id": 15050}]}
+{"name": "Perusahaan_perangkat_lunak_Amerika_Serikat", "id": 290453, "predecessors": [{"name": "Perusahaan_Amerika_Serikat", "id": 93798}, {"name": "Komputer", "id": 13294}], "successors": [{"name": "Microsoft", "id": 15050}]}

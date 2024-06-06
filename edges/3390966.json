@@ -1,0 +1,1 @@
+{"name": "MOSFET", "id": 3390966, "predecessors": [{"name": "Elektronika_digital", "id": 110957}, {"name": "Jenis_transistor", "id": 378456}, {"name": "Perangkat_semikonduktor", "id": 380609}, {"name": "Sensor", "id": 151668}, {"name": "Sirkuit_terpadu", "id": 17192}], "successors": []}

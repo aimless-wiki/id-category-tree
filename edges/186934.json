@@ -1,1 +1,1 @@
-{"name": "Karakter_permainan_video", "id": 186934, "predecessors": [{"name": "Permainan_video", "id": 16866}, {"name": "Tokoh_fiktif", "id": 259502}], "successors": []}
+{"name": "Karakter_permainan_video", "id": 186934, "predecessors": [{"name": "Permainan_video", "id": 16866}, {"name": "Tokoh_fiktif", "id": 259502}], "successors": [{"name": "Protagonis_Nintendo", "id": 3751452}, {"name": "Petarung_Super_Smash_Bros.", "id": 4291394}]}

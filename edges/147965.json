@@ -1,1 +1,1 @@
-{"name": "Kardiologi", "id": 147965, "predecessors": [{"name": "Sistem_kardiovaskular", "id": 65855}, {"name": "Spesialisasi_medis", "id": 93822}], "successors": []}
+{"name": "Kardiologi", "id": 147965, "predecessors": [{"name": "Sistem_kardiovaskular", "id": 65855}, {"name": "Spesialisasi_medis", "id": 93822}], "successors": [{"name": "Antihipertensi", "id": 3353596}]}
