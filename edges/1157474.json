@@ -1,1 +1,1 @@
-{"name": "Pencemaran_udara", "id": 1157474, "predecessors": [{"name": "Pencemaran", "id": 103080}], "successors": [{"name": "Klorida", "id": 276205}, {"name": "Kloroarena", "id": 1862673}]}
+{"name": "Pencemaran_udara", "id": 1157474, "predecessors": [{"name": "Pencemaran", "id": 103080}], "successors": [{"name": "Klorida", "id": 276205}, {"name": "Organoklorida", "id": 1859311}, {"name": "Kloroarena", "id": 1862673}]}

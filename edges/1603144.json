@@ -1,1 +1,1 @@
-{"name": "Bahan_tambahan_makanan", "id": 1603144, "predecessors": [{"name": "Bahan_makanan", "id": 65726}], "successors": [{"name": "Pemanis", "id": 86747}]}
+{"name": "Bahan_tambahan_makanan", "id": 1603144, "predecessors": [{"name": "Bahan_makanan", "id": 65726}], "successors": [{"name": "Pemanis", "id": 86747}, {"name": "Eksipien", "id": 1464004}, {"name": "Perisa", "id": 3593490}]}

@@ -1,1 +1,1 @@
-{"name": "Antihistamin", "id": 4258590, "predecessors": [{"name": "Obat", "id": 34699}], "successors": []}
+{"name": "Antihistamin", "id": 4258590, "predecessors": [{"name": "Obat", "id": 34699}], "successors": [{"name": "Antagonis_reseptor_H1", "id": 4283460}]}
