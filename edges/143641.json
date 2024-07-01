@@ -1,1 +1,1 @@
-{"name": "Pengobatan_alternatif", "id": 143641, "predecessors": [{"name": "Kedokteran", "id": 37780}, {"name": "Obat", "id": 34699}], "successors": []}
+{"name": "Pengobatan_alternatif", "id": 143641, "predecessors": [{"name": "Kedokteran", "id": 37780}, {"name": "Obat", "id": 34699}], "successors": [{"name": "Suplemen_makanan", "id": 269711}]}

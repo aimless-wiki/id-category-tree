@@ -52,6 +52,7 @@
 8566 Pariwisata
 8571 Seni
 8585 Kabinet_Indonesia
+8588 Rumpun_bahasa_Sino-Tibet
 9099 Islam
 9542 Sepak_bola
 10025 Perang_Dingin
@@ -105,7 +106,7 @@
 13830 Tentara_Nasional_Indonesia_Angkatan_Laut
 13893 Konsol_permainan
 13938 Filipina
-13972 Bahasa_Roman
+13972 Rumpun_bahasa_Roman
 13973 Italia
 13976 Iran
 14013 Penemu_Jerman
@@ -316,7 +317,7 @@
 16712 Aljabar_linear
 16713 Rumpun_bahasa_Austronesia
 16715 Bahasa_Aram
-16716 Bahasa_Indo-Arya
+16716 Rumpun_bahasa_Indo-Arya
 16719 Danau
 16752 Kelahiran_1974
 16753 Kelahiran_1977
@@ -583,7 +584,7 @@
 21316 Honda
 21317 Kelahiran_1906
 21384 Rumah_sakit
-21389 Bahasa_Jermanik
+21389 Rumpun_bahasa_Jermanik
 21402 Kematian_1980
 21403 Sutradara
 21415 Gelar
@@ -1773,6 +1774,7 @@
 54737 Pakuhaji,_Tangerang
 54750 Rumah_makan_siap_saji
 54751 Rumah_makan
+54754 Rumah_makan_Indonesia
 54758 Tigaraksa,_Tangerang
 54776 Darul_Imarah,_Aceh_Besar
 54778 Darul_Kamal,_Aceh_Besar
@@ -2509,7 +2511,6 @@
 71087 Teknologi_telekomunikasi
 71104 Filsuf_Yunani
 71105 Filsuf_Prancis
-71114 Kata
 71151 Pemain_sepak_bola_Korea_Selatan
 71165 Wlingi,_Blitar
 71215 Mesopotamia
@@ -5242,6 +5243,7 @@
 146910 Templat_sejarah
 147077 Kelainan_bawaan
 147085 Pangeran
+147096 Stratigrafi
 147107 Surat_kabar_yang_diterbitkan_di_Amerika_Serikat
 147122 Pemeran_Singapura
 147243 Penyanyi_Filipina
@@ -5290,10 +5292,10 @@
 151959 Ulama_Arab_Saudi
 151962 Sayyid
 152019 Republik_Indonesia_Serikat
-152310 Bahasa_Italik
+152310 Rumpun_bahasa_Italik
 152403 Satuan_Polri
-152485 Bahasa_Keltik
-152487 Bahasa_Iran
+152485 Rumpun_bahasa_Keltik
+152487 Rumpun_bahasa_Iran
 152546 Kendaraan_Lexus
 152614 Pengadilan
 152634 Syuhada
@@ -5759,7 +5761,7 @@
 211445 Peserta_Puteri_Indonesia
 211449 Peserta_Miss_Indonesia
 212029 Bahasa_di_Indonesia
-212251 Bahasa_Turkik
+212251 Rumpun_bahasa_Turkik
 212613 Pahlawan_super
 212880 Kulit
 212928 User_de-4
@@ -6053,6 +6055,7 @@
 232461 Tokoh_bekas_negara
 232500 Tokoh_militer_Jerman
 232553 Perusahaan_yang_didirikan_tahun_2003
+233006 Artikel_Musik_kelas_awal
 233161 Kecamatan_di_Kabupaten_Bandung_Barat
 233473 Raja_Korea
 233519 Gereja_Masehi_Advent_Hari_Ketujuh
@@ -6099,6 +6102,7 @@
 236182 Kota_di_Utah
 236190 Kota_di_Tennessee
 236191 Kota_di_Texas
+236193 Kota_di_Wisconsin
 236398 Happy_Tree_Friends
 236437 Burung_Indonesia
 236676 Asteraceae
@@ -6131,6 +6135,7 @@
 239462 Raja_Denmark
 239649 Tokoh_Nepal
 239743 Politikus_Portugal
+239754 Seri_televisi_keagamaan
 239938 Daftar_kaisar
 239942 Raja_Norwegia
 239956 Politikus_Spanyol
@@ -6147,6 +6152,7 @@
 241066 Masyarakat_Indonesia
 241341 Suku_bangsa_di_Malaysia
 241764 Finalis_Wajah_Femina
+242516 Bahasa_Mongolik
 242584 Bangunan_dan_struktur_di_Bali
 242769 Bangsawan_Korea
 242816 Sejarah_Azerbaijan
@@ -9877,6 +9883,7 @@
 734169 Pengusaha_Inggris
 736279 Permainan_video_tembak-menembak_orang_pertama
 736426 Kejuaraan_Wimbledon_2011
+736478 Komunikasi_pemasaran
 736480 Buah_tropis
 736687 Munisipalitas_di_Filipina
 737393 Kartun
@@ -10325,6 +10332,7 @@
 806058 Senapan_dari_Amerika_Serikat
 806376 Senapan_runduk_peluru_7,62_mm
 806428 Senapan_runduk_semi-otomatis
+808443 Tokoh_Normandia
 808459 Senapan_runduk_aksi-baut
 808472 Marga_Oey
 808474 Marga_Liu
@@ -10473,6 +10481,7 @@
 841018 Artikel_Islam_penting
 841025 Artikel_Islam_cukup_penting
 841026 Artikel_Islam_kurang_penting
+841045 Artikel_Islam_kelas_C
 841048 Artikel_Islam_kelas_C_cukup_penting
 841820 Hidangan_Tionghoa-Indonesia
 842178 MPV
@@ -10723,6 +10732,7 @@
 897824 Templat_skuad_Kejuaraan_Eropa_UEFA_2004
 897825 Templat_skuad_tim_nasional_sepak_bola_Spanyol
 898318 Templat_skuad_Kejuaraan_Eropa_UEFA_2012
+898319 Templat_skuad_tim_nasional_sepak_bola_Polandia
 898336 Templat_skuad_tim_nasional_sepak_bola_Belanda
 898340 Templat_skuad_tim_nasional_sepak_bola_Denmark
 898347 Templat_skuad_tim_nasional_sepak_bola_Jerman
@@ -10949,7 +10959,6 @@
 967108 Pemain_pemenang_Kejuaraan_Eropa_UEFA
 967553 Ikan_Jepang
 967555 Ikan_Filipina
-967666 Pelatih_Manchester_City_F.C.
 967805 Naskah_Perjanjian_Lama
 967872 Pelatih_Chelsea_F.C.
 968524 Pembawa_acara_televisi_Korea_Selatan
@@ -10993,7 +11002,6 @@
 978306 Lagu_berbahasa_Jepang
 978317 Album_debut
 978980 Templat_skuad_tim_nasional_sepak_bola_Brasil
-979022 Evaluasi_penghapusan_yang_masih_didiskusikan
 979042 Pemain_Hull_City_A.F.C.
 979126 Pelatih_pemenang_Piala_Super_UEFA
 979130 Klub_pemenang_Piala_Super_UEFA
@@ -11292,6 +11300,7 @@
 1092059 Dewa-Dewi_Taoisme
 1092105 Marga_Marbun
 1092695 Perusahaan_yang_didirikan_tahun_1988
+1092702 Maskapai_penerbangan_Filipina
 1092969 Seri_televisi_Korea_Selatan_tahun_2013
 1093790 Mister_World
 1094009 Kejahatan_perang_Jepang
@@ -11508,6 +11517,7 @@
 1387573 Acara_televisi_SCTV
 1387633 Logam_paduan
 1388105 Pemeran_perempuan
+1388782 Filipina-Amerika
 1389033 Peluru_kendali_balistik_antar_benua
 1389622 Grup_musik_yang_didirikan_tahun_2013
 1390013 Peluru_kendali_jelajah_anti_kapal
@@ -13456,6 +13466,7 @@
 2172558 Kepala_Kepolisian_Daerah_Sulawesi_Selatan
 2172610 Kepala_Kepolisian_Daerah_Jawa_Barat
 2172639 Kepala_Kepolisian_Daerah_Jawa_Timur
+2172644 Kepala_Kepolisian_Daerah_Banten
 2172972 Kardinal_Brasil
 2173022 Pemeran_perempuan_Rusia
 2173116 Kepala_Kepolisian_Daerah_Sumatera_Selatan
@@ -14297,6 +14308,7 @@
 2629180 Seri_anime_tahun_2015
 2629181 Seri_anime_tahun_2016
 2629198 Pengguna_peserta_WikiLatih_tanggal_17_Juli_2018
+2629533 Artikel_Biografi_kelas_AB
 2631587 Pengguna_peserta_WikiLatih_tanggal_23_Juli_2018
 2631697 Artileri_75_mm
 2631805 Manga_tahun_2013
@@ -14407,6 +14419,7 @@
 2674698 Tempat_persinggahan_Israel_di_padang_gurun
 2675249 Layanan_video_sesuai_permintaan
 2675313 Grup_musik_tradisional_Indonesia
+2675878 Permainan_video_yang_dikembangkan_di_Tiongkok
 2676383 Hakim_Mahkamah_Konstitusi_Republik_Indonesia
 2677056 Grup_musik_soul_Indonesia
 2678153 Tokoh_Taurat
@@ -14619,6 +14632,7 @@
 2745605 Templat_kotak_pengguna_ponsel
 2746297 Tokoh_dari_Bangkok
 2747274 Gamelan_Bali
+2747465 Basilika_di_Jerman
 2747484 Stasiun_di_Jalur_Utama_Sōya
 2747497 Tokoh_dari_Lyon
 2747592 Stasiun_kereta_api_di_Prefektur_Hokkaido
@@ -15227,6 +15241,7 @@
 3000930 Aktris_dalam_perfilman_Hindi
 3001064 Kematian_2020
 3001263 Singapura_pada_Olimpiade_Musim_Panas
+3001976 Organisasi_Kesehatan_Dunia
 3002607 Artikel_Biologi_kelas_templat_NA
 3002613 Artikel_Biologi_kelas_kategori_NA
 3006079 Pengguna_peserta_WikiLatih_tanggal_25_Januari_2020
@@ -15431,6 +15446,7 @@
 3067975 Bahan_kimia_komoditas
 3068431 Angkatan_Tentara_Malaysia
 3068861 Hidangan_Jambi
+3068875 Hidangan_Gorontalo
 3069268 Peluru_kendali_permukaan_ke_udara_angkatan_laut
 3069275 Kematian_akibat_serangan_jantung
 3069970 Berkas_Creative_Commons_Attribution-ShareAlike_4.0
@@ -15596,6 +15612,7 @@
 3116817 Perenang_putri_Rusia
 3117705 Artikel_Indonesia_kelas_C_penting
 3117707 Artikel_Indonesia_kelas_C_cukup_penting
+3117708 Artikel_Indonesia_kelas_C_kurang_penting
 3117709 Artikel_Indonesia_kelas_awal_penting
 3117710 Artikel_Indonesia_kelas_awal_cukup_penting
 3117711 Artikel_Indonesia_kelas_awal_kurang_penting
@@ -15631,7 +15648,6 @@
 3134505 Artikel_Biografi_sangat_penting
 3134508 Artikel_Biografi_penting
 3134509 Artikel_Biografi_cukup_penting
-3134545 Artikel_Biografi_kelas_AB
 3134547 Artikel_Biografi_kelas_B
 3134548 Artikel_Biografi_kelas_C
 3134549 Artikel_Biografi_kelas_awal
@@ -15676,6 +15692,7 @@
 3151273 Templat_rintisan_kimia
 3151283 Templat_rintisan_transportasi
 3151289 Templat_rintisan_perusahaan
+3153337 Tokoh_dari_Enrekang
 3153970 Gambar_sampul_video_anime
 3153997 Cabang_olahraga_pada_Olimpiade_Musim_Panas_2020
 3154247 Istilah_hukum_dalam_bahasa_Latin
@@ -16084,6 +16101,7 @@
 3274141 Misi_Pesawat_Ulang_Alik
 3274605 Alumni_PMII
 3274752 Penerbangan_antariksa_berawak
+3274805 Film_India_tahun_2021
 3275575 Theridiidae
 3275707 Tokoh_dari_Klungkung
 3276056 Anggota_Konstituante_Republik_Indonesia
@@ -16217,6 +16235,7 @@
 3316901 Anggota_Dewan_Perwakilan_Belanda
 3316902 Anggota_Senat_Belanda
 3317865 Pengguna_pendukung_transportasi_publik
+3318334 Pendirian_tahun_1962_di_Indonesia
 3318538 Pemain_Kejuaraan_Eropa_UEFA_2000
 3319019 Templat_pandemi_Covid-19
 3319160 Kesehatan_perempuan
@@ -16229,7 +16248,7 @@
 3323120 Hutan_bakau
 3323305 Templat_bilah_sisi_Islam
 3323767 Pengisi_suara_Indonesia
-3324264 Artikel_Taiwan_kelas_templat
+3324222 ProyekWiki_Taiwan
 3324267 Artikel_Taiwan_kelas_kategori
 3324285 Artikel_Taiwan_kelas_rintisan
 3324287 Artikel_Taiwan_cukup_penting
@@ -16249,6 +16268,7 @@
 3325016 Pemeran_film_Malaysia
 3325018 Pemeran_televisi_Malaysia
 3325027 Pemeran_film_perempuan_Malaysia
+3325242 Artikel_Taiwan_kelas_templat
 3325285 Artikel_Malaysia_NA
 3325289 Artikel_Malaysia_sangat_penting
 3325291 Artikel_Malaysia_penting
@@ -16281,6 +16301,7 @@
 3328004 Lagu_Sabrina_Carpenter
 3328091 Artikel_Islam_NA
 3328099 Artikel_Islam_kelas_kategori_NA
+3328119 Artikel_Islam_kelas_C_penting
 3328124 Artikel_Islam_kelas_rintisan_cukup_penting
 3328126 Artikel_Islam_kelas_portal_NA
 3328128 Artikel_Islam_kelas_awal_penting
@@ -16384,6 +16405,7 @@
 3367115 Pemain_S.P.A.L.
 3367500 Pemain_Copa_América_2019
 3367531 Pemain_Copa_América_2015
+3367532 Pemain_Copa_América_Centenario
 3367923 Lumba-lumba_samudra
 3368736 Kartini
 3368738 Album_mini_tahun_2021
@@ -16454,6 +16476,9 @@
 3389574 Penerima_Bintang_Dharma
 3390016 Negeri_di_Kabupaten_Maluku_Tengah
 3390451 Wikipediawan_yang_tertarik_dengan_Indonesia
+3390457 Artikel_Menrva_cukup_penting
+3390461 Artikel_Menrva_sangat_penting
+3390474 Artikel_Menrva_penting
 3390966 MOSFET
 3393347 Ilmu_fotografi
 3394184 Artikel_Geografi_kelas_awal
@@ -16608,6 +16633,7 @@
 3534419 Disambiguasi_nama_Jepang
 3534490 Pengalihan_nama_Jepang
 3535642 Pemenang_balapan_Formula_Satu
+3537665 Pengguna_yang_meminta_buka_blokir
 3537739 Istilah_biologi
 3538592 Metal_ekstrim
 3541681 Artikel_Geografi_belum_dinilai_NA
@@ -16706,7 +16732,7 @@
 3623570 Artikel_perkeretaapian_cukup_penting
 3623571 Artikel_perkeretaapian_kelas_awal_kurang_penting
 3623574 Artikel_perkeretaapian_kelas_C_cukup_penting
-3627236 Bahasa_Indo-Eropa
+3627236 Rumpun_bahasa_Indo-Eropa
 3627413 Artikel_Formula_Satu_kelas_templat
 3627995 Sistem_struktural
 3628904 Genre_rok_alternatif
@@ -16799,6 +16825,7 @@
 3695605 Budaya_Gorontalo
 3695634 Mineral_makanan
 3695717 Pleuronectiformes
+3695800 Kontributor_ProyekWiki_Biografi
 3696991 Pengguna_pendukung_FC_Barcelona
 3697057 Daftar_calon_anggota_Dewan_Perwakilan_Rakyat_2019–2024
 3699772 Penyalahgunaan_jangka_panjang_Wikipedia
@@ -16824,6 +16851,7 @@
 3708810 Atasan
 3709104 Artikel_ProyekWiki_Agama
 3709692 Pengguna_peserta_WikiLatih_tanggal_25_September_2022
+3710101 Artikel_Biografi_kelas_rintisan_cukup_penting
 3711015 Mineral_luminesen
 3711858 Meranti
 3712144 Pulau_di_Barru
@@ -17515,8 +17543,10 @@
 3968215 Catatan_Commons
 3970726 Direktorat_Jenderal_Pengendalian_Daerah_Aliran_Sungai_dan_Hutan_Lindung
 3970810 DAS_Citarum
+3970822 DAS_Bekasi
 3971180 DAS_Serayu
 3971311 DAS_Progo
+3971353 Antagonis_muskarinik
 3971374 Pengguna_shio_tikus
 3971379 Pengguna_shio_macan
 3971380 Pengguna_shio_kerbau
@@ -17584,13 +17614,13 @@
 4020519 Pemain_bulu_tangkis_putra_Jepang
 4022332 Film_horor_Indonesia
 4026066 Takson_yang_diberi_nama_oleh_Carolus_Linnaeus
+4027827 Lagu_protes
 4030957 Puisi_Tionghoa
 4030986 Independent_Spirit_Awards
 4033979 Arsip_Halaman_Utama_2023
 4041108 Kejuaraan_U-17_OFC
 4045544 Daftar_calon_anggota_Dewan_Perwakilan_Rakyat_2024–2029
 4054428 Artikel_Kapal_kelas_awal
-4054474 Artikel_Kapal_kelas_C
 4054583 Artikel_Kapal_kelas_kategori
 4054618 Artikel_Kapal_kelas_templat
 4059108 Artikel_Tiongkok_kurang_penting
@@ -17616,6 +17646,7 @@
 4152004 Artikel_Tiongkok_kelas_C
 4152031 Pandemi_Covid-19_di_India
 4155344 Lagu_Fifth_Harmony
+4160353 Lagu_Meghan_Trainor
 4162265 Artikel_Musik_kelas_templat
 4162498 Lagu_Camila_Cabello
 4165540 Komandan_Jenderal_Akademi_Tentara_Nasional_Indonesia
@@ -17675,6 +17706,8 @@
 4204417 Film_tahun_2024
 4204960 Modulator_alosterik_positif_reseptor_GABAA
 4205789 Wanita_korban_pembunuhan
+4206842 Antagonis_reseptor_NMDA
+4207138 Seri_web_Indonesia_tahun_2024
 4207682 Tokoh_Lamongan
 4208640 Templat_skuad_Piala_Asia_AFC_2023
 4209535 Jenis_universitas_atau_perguruan_tinggi
@@ -17702,6 +17735,7 @@
 4217380 Katedral_Katolik_di_Korea_Selatan
 4217381 Katedral_Katolik_di_Australia
 4219657 Lagu_Imagine_Dragons
+4220024 Tumbuhan_berumah_dua
 4221536 Obat_yang_dikembangkan_oleh_GSK_plc
 4222829 Lagu_Pitbull_(penyanyi)
 4222882 Lagu_tahun_2024
@@ -17731,6 +17765,7 @@
 4238902 Katedral_Katolik_di_Jepang
 4238925 Basilika_di_Kanada
 4239474 Katedral_Katolik_di_Kanada
+4239545 Anggota_DPR_RI_2024–2029
 4239817 Pemain_bulu_tangkis_putra_Malaysia
 4240346 Katedral_Katolik_di_Nigeria
 4240356 Badan_Riset_dan_Inovasi_Nasional
@@ -17744,6 +17779,7 @@
 4241707 Katedral_Katolik_di_Ghana
 4241909 Permukiman_di_provinsi_Attapeu
 4241954 Katedral_Katolik_di_Ekuador
+4242228 Album_RCA_Records
 4242951 Hidangan_Ngawi
 4243022 Katedral_Katolik_di_Bolivia
 4243029 Katedral_Katolik_di_Papua_Nugini
@@ -17835,19 +17871,31 @@
 4267535 Program_televisi_berbahasa_Thai
 4267537 Telenovela_Thailand
 4267570 Artikel_Gulat_profesional_kelas_rintisan_kurang_penting
+4267682 Artikel_Politik_sangat_penting
+4267683 Artikel_Politik_penting
+4267684 Artikel_Politik_cukup_penting
+4267685 Artikel_Politik_kurang_penting
+4267686 Artikel_Politik_NA
+4267691 Artikel_Politik_kelas_B
+4267693 Artikel_Politik_kelas_awal
+4267694 Artikel_Politik_kelas_rintisan
 4267751 Program_televisi_berbahasa_Filipino
 4267752 Telenovela_berbahasa_Filipino
 4268339 Lagu_kebangsaan_Eropa
 4268560 Katedral_Katolik_di_Ukraina
 4269193 Artikel_Musik_NA
 4269219 Artikel_Musik_kelas_kategori
+4269338 Artikel_Musik_kelas_C
+4269349 Artikel_Musik_cukup_penting
 4269357 Artikel_Tiongkok_NA
 4269436 Musim_American_Idol
+4269611 Artikel_Kapal_cukup_penting
 4269653 Artikel_Kapal_kelas_rintisan
 4270101 Basilika_di_Argentina
 4270121 Basilika_di_Austria
 4270679 Katedral_Katolik_di_Kamerun
 4270779 County_di_Vermont
+4271507 Kantor_Wilayah_DJP
 4271515 Artikel_Jerman_kelas_kategori
 4271885 Artikel_Korea_kelas_rintisan
 4271912 Kejuaraan_Dunia_Dayung
@@ -17856,9 +17904,11 @@
 4272684 Artikel_Katolik_cukup_penting
 4273012 Artikel_Jepang_kelas_awal
 4273013 Artikel_Jepang_cukup_penting
+4273016 Artikel_Jepang_kelas_C
 4273017 Artikel_Jepang_kelas_rintisan
 4273118 Artikel_Jepang_kelas_kategori
 4273119 Artikel_Jepang_kelas_templat
+4273533 Artikel_Jepang_penting
 4273644 Artikel_Jepang_kurang_penting
 4273914 Semua_bot_Wikipedia
 4274793 Artikel_Amerika_Serikat_kurang_penting
@@ -17868,6 +17918,7 @@
 4275447 Artikel_Jepang_NA
 4275587 Artikel_Jepang_kelas_portal
 4276589 Lagu_5_Seconds_of_Summer
+4276625 Cabang_olahraga_pada_Olimpiade_Musim_Panas_2024
 4277096 Alumni_Akademi_Militer_1988_A
 4277668 Artikel_Israel_sangat_penting
 4277706 Semua_artikel_ProyekWiki_Tiongkok
@@ -17889,9 +17940,11 @@
 4282482 Alumni_Akademi_Militer_1973
 4282510 Lagu_Vampire_Weekend
 4283018 Anksiolitik
+4283023 Obat_yang_dikembangkan_oleh_Merck_&_Co.
 4283460 Antagonis_reseptor_H1
 4283673 Dayung_pada_Olimpiade_Musim_Panas
 4283677 Pengguna_peserta_WikiLatih_tanggal_15_Mei_2024
+4283787 Obat_yang_dikembangkan_oleh_Johnson_&_Johnson
 4284007 Alat_musik_petik
 4284217 Penghambat_CYP2D6
 4284506 Obat_yang_dikembangkan_oleh_AbbVie
@@ -17927,7 +17980,6 @@
 4292264 Templat_skuad_Kejuaraan_Eropa_UEFA_2024
 4292390 Artikel_Spanyol_kelas_kategori
 4292667 Artikel_Musik_kelas_rintisan
-4292672 Artikel_Musik_kelas_awal
 4292952 Story_has_outdated_text_with_regards_to_its_source_article
 4293410 Artikel_Israel_kelas_rintisan
 4293530 Artikel_Mesir_kelas_rintisan
@@ -17936,11 +17988,13 @@
 4293760 BBC_100_Women
 4293999 Artikel_Amerika_Serikat_cukup_penting
 4294260 Artikel_Amerika_Serikat_kelas_kategori
+4294273 Artikel_Amerika_Serikat_kelas_awal
 4294302 Artikel_Amerika_Serikat_kelas_rintisan_kurang_penting
 4295018 Obat_piatu
 4295262 Pantai_di_Kalimantan_Timur
 4295361 Lagu_yang_ditulis_oleh_Max_Martin
 4295363 Rekaman_lagu_yang_diproduksi_oleh_Max_Martin
+4295420 Garangan
 4296733 Artikel_Tiongkok_kelas_awal_kurang_penting
 4296952 Artikel_India_kurang_penting
 4296966 Artikel_India_kelas_rintisan
@@ -17948,3 +18002,15 @@
 4297484 Artikel_Aviasi_kelas_templat
 4298700 Gunung_berapi_di_Islandia
 4298839 Artikel_Yunani_kelas_kategori
+4301763 Obat_yang_dikembangkan_oleh_Pfizer
+4302548 Pemain_Copa_América_2024
+4303089 Alumni_Akademi_Militer_1986
+4303090 Alumni_Akademi_Militer_1983
+4303813 Artikel_Armenia_kelas_kategori
+4303827 Artikel_Italia_kelas_kategori
+4304191 Artikel_Musik_kurang_penting
+4304221 Artikel_Denmark_kelas_kategori
+4304453 Singel_RCA_Records
+4304657 Artikel_Bulu_tangkis_kelas_rintisan
+4304943 Artikel_Pramuka_kelas_portal
+4305186 Lagu_Mariah_Carey

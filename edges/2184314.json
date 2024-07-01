@@ -1,1 +1,1 @@
-{"name": "Artikel_Biografi_kelas_rintisan", "id": 2184314, "predecessors": [{"name": "ProyekWiki", "id": 52816}, {"name": "Pemeliharaan_Wikipedia", "id": 51259}], "successors": []}
+{"name": "Artikel_Biografi_kelas_rintisan", "id": 2184314, "predecessors": [{"name": "ProyekWiki", "id": 52816}, {"name": "Pemeliharaan_Wikipedia", "id": 51259}], "successors": [{"name": "Artikel_Biografi_kelas_rintisan_cukup_penting", "id": 3710101}, {"name": "Artikel_Biografi_kelas_rintisan_kurang_penting", "id": 3895126}]}

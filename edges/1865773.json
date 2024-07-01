@@ -1,1 +1,1 @@
-{"name": "Biologi_membran", "id": 1865773, "predecessors": [{"name": "Biologi_molekuler", "id": 3203542}, {"name": "Biologi_sel", "id": 78601}], "successors": [{"name": "Perpindahan_panas", "id": 3277514}]}
+{"name": "Biologi_membran", "id": 1865773, "predecessors": [{"name": "Biologi_molekuler", "id": 3203542}, {"name": "Biologi_sel", "id": 78601}], "successors": [{"name": "Perpindahan_panas", "id": 3277514}, {"name": "Antagonis_muskarinik", "id": 3971353}]}

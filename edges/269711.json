@@ -1,1 +1,1 @@
-{"name": "Suplemen_makanan", "id": 269711, "predecessors": [{"name": "Nutrisi", "id": 62093}, {"name": "Obat", "id": 34699}], "successors": []}
+{"name": "Suplemen_makanan", "id": 269711, "predecessors": [{"name": "Budaya", "id": 8546}, {"name": "Nutrisi", "id": 62093}, {"name": "Pengobatan_alternatif", "id": 143641}], "successors": []}

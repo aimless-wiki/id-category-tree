@@ -1,1 +1,1 @@
-{"name": "Biologi_sel", "id": 78601, "predecessors": [{"name": "Biologi", "id": 8524}], "successors": [{"name": "Sel", "id": 83345}, {"name": "Proses_seluler", "id": 355732}, {"name": "Biologi_membran", "id": 1865773}, {"name": "Hormon", "id": 79749}]}
+{"name": "Biologi_sel", "id": 78601, "predecessors": [{"name": "Biologi", "id": 8524}], "successors": [{"name": "Sel", "id": 83345}, {"name": "Proses_seluler", "id": 355732}, {"name": "Biologi_membran", "id": 1865773}, {"name": "Hormon", "id": 79749}, {"name": "Antagonis_reseptor_NMDA", "id": 4206842}]}
