@@ -1,1 +1,1 @@
-{"name": "Kota_Samarinda", "id": 52620, "predecessors": [{"name": "Ibu_kota_provinsi_di_Indonesia", "id": 244777}], "successors": [{"name": "Kelurahan_di_Kota_Samarinda", "id": 120785}, {"name": "Samarinda", "id": 2593767}]}
+{"name": "Kota_Samarinda", "id": 52620, "predecessors": [{"name": "Ibu_kota_provinsi_di_Indonesia", "id": 244777}, {"name": "Kota_di_Indonesia", "id": 47620}], "successors": [{"name": "Kelurahan_di_Kota_Samarinda", "id": 120785}, {"name": "Samarinda", "id": 2593767}]}

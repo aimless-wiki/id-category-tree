@@ -1,1 +1,1 @@
-{"name": "Ekonomika_pertanian", "id": 1178396, "predecessors": [{"name": "Pertanian", "id": 8530}, {"name": "Ekonomi", "id": 8560}], "successors": [{"name": "Perusahaan_makanan_Indonesia", "id": 303002}, {"name": "Perusahaan_perkebunan_Indonesia", "id": 371189}]}
+{"name": "Ekonomika_pertanian", "id": 1178396, "predecessors": [{"name": "Pertanian", "id": 8530}, {"name": "Ekonomi", "id": 8560}], "successors": [{"name": "Perusahaan_perkebunan_Indonesia", "id": 371189}]}

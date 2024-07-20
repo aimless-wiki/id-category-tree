@@ -1,1 +1,1 @@
-{"name": "Pesawat_latih_militer", "id": 186853, "predecessors": [{"name": "Pesawat", "id": 314447}], "successors": []}
+{"name": "Pesawat_latih_militer", "id": 186853, "predecessors": [{"name": "Pesawat", "id": 314447}, {"name": "Militer", "id": 10363}], "successors": []}

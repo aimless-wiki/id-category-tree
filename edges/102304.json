@@ -1,1 +1,1 @@
-{"name": "Basis_data", "id": 102304, "predecessors": [{"name": "Informasi", "id": 77026}, {"name": "Administrasi_publik", "id": 388025}], "successors": [{"name": "Sistem_manajemen_basis_data", "id": 132338}]}
+{"name": "Basis_data", "id": 102304, "predecessors": [{"name": "Informasi", "id": 77026}, {"name": "Dokumen", "id": 54351}], "successors": [{"name": "Sistem_manajemen_basis_data", "id": 132338}]}

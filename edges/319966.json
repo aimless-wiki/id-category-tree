@@ -1,1 +1,1 @@
-{"name": "Asetat", "id": 319966, "predecessors": [{"name": "Asam_karboksilat", "id": 263189}, {"name": "Asam_organik", "id": 118435}], "successors": []}
+{"name": "Asetat", "id": 319966, "predecessors": [{"name": "Asam_karboksilat", "id": 263189}, {"name": "Asam_organik", "id": 118435}], "successors": [{"name": "Ester_asetat", "id": 3613318}]}

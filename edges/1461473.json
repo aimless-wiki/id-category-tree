@@ -1,1 +1,1 @@
-{"name": "Kecelakaan_dan_insiden_penerbangan", "id": 1461473, "predecessors": [{"name": "Penerbangan", "id": 199725}, {"name": "Pesawat_terbang", "id": 528052}, {"name": "Bumi", "id": 58863}], "successors": [{"name": "Kecelakaan_dan_insiden_penerbangan_di_Rusia", "id": 1461638}, {"name": "Kecelakaan_dan_insiden_penerbangan_di_Indonesia", "id": 1461646}]}
+{"name": "Kecelakaan_dan_insiden_penerbangan", "id": 1461473, "predecessors": [{"name": "Penerbangan", "id": 199725}, {"name": "Pesawat_terbang", "id": 528052}, {"name": "Bumi", "id": 58863}], "successors": []}

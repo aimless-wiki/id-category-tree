@@ -1,1 +1,1 @@
-{"name": "Kementerian_Pertahanan_Indonesia", "id": 593375, "predecessors": [{"name": "Kementerian_Indonesia", "id": 50209}, {"name": "Kementerian_pertahanan_dan_keamanan", "id": 4280458}], "successors": []}
+{"name": "Kementerian_Pertahanan_Indonesia", "id": 593375, "predecessors": [{"name": "Kementerian_pertahanan_dan_keamanan", "id": 4280458}, {"name": "Kementerian_Indonesia", "id": 50209}], "successors": [{"name": "Menteri_Pertahanan_Indonesia", "id": 468628}]}

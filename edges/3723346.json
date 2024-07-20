@@ -1,1 +1,1 @@
-{"name": "Ikan_Samudra_Pasifik", "id": 3723346, "predecessors": [{"name": "Ikan", "id": 28565}, {"name": "Air", "id": 60051}], "successors": []}
+{"name": "Ikan_Samudra_Pasifik", "id": 3723346, "predecessors": [{"name": "Ikan_laut", "id": 588567}, {"name": "Air", "id": 60051}], "successors": []}

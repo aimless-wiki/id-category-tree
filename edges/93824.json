@@ -1,1 +1,1 @@
-{"name": "Dermatologi", "id": 93824, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}, {"name": "Anatomi", "id": 15993}], "successors": []}
+{"name": "Dermatologi", "id": 93824, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}, {"name": "Anatomi", "id": 15993}], "successors": [{"name": "Dermatoksin", "id": 4250213}]}

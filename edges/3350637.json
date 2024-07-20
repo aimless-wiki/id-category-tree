@@ -1,1 +1,1 @@
-{"name": "Stasiun_kereta_api_di_Jember", "id": 3350637, "predecessors": [{"name": "Stasiun_kereta_api_di_Jawa_Timur", "id": 340340}], "successors": []}
+{"name": "Stasiun_kereta_api_di_Jember", "id": 3350637, "predecessors": [{"name": "Kabupaten_Jember", "id": 51309}, {"name": "Stasiun_kereta_api_di_Jawa_Timur", "id": 340340}], "successors": []}

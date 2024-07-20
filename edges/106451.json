@@ -1,1 +1,1 @@
-{"name": "Maskapai_penerbangan_Prancis", "id": 106451, "predecessors": [{"name": "Perusahaan_Prancis", "id": 25640}, {"name": "Maskapai_penerbangan", "id": 15740}, {"name": "Transportasi_di_Prancis", "id": 106564}], "successors": []}
+{"name": "Maskapai_penerbangan_Prancis", "id": 106451, "predecessors": [{"name": "Perusahaan_Prancis", "id": 25640}, {"name": "Maskapai_penerbangan", "id": 15740}, {"name": "Eropa", "id": 15962}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Distribusi_Linux", "id": 56561, "predecessors": [{"name": "Linux", "id": 17411}], "successors": []}
+{"name": "Distribusi_Linux", "id": 56561, "predecessors": [{"name": "Linux", "id": 17411}], "successors": [{"name": "Turunan_Ubuntu", "id": 440559}]}

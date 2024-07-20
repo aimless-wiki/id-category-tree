@@ -1,1 +1,1 @@
-{"name": "Sastra_Inggris", "id": 76499, "predecessors": [{"name": "Inggris", "id": 14810}, {"name": "Sastra", "id": 8447}], "successors": [{"name": "Penulis_Inggris", "id": 13628}, {"name": "Penyair_Inggris", "id": 112438}]}
+{"name": "Sastra_Inggris", "id": 76499, "predecessors": [{"name": "Budaya", "id": 8546}, {"name": "Sastra", "id": 8447}], "successors": [{"name": "Penulis_Inggris", "id": 13628}, {"name": "Penyair_Inggris", "id": 112438}]}

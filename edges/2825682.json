@@ -1,1 +1,1 @@
-{"name": "Klub_sepak_bola_di_Kalimantan_Timur", "id": 2825682, "predecessors": [{"name": "Kalimantan", "id": 308547}], "successors": [{"name": "Pemain_Mitra_Kukar", "id": 1113634}, {"name": "Pemain_Persiba_Balikpapan", "id": 895831}]}
+{"name": "Klub_sepak_bola_di_Kalimantan_Timur", "id": 2825682, "predecessors": [{"name": "Kalimantan_Timur", "id": 42465}, {"name": "Kalimantan", "id": 308547}], "successors": [{"name": "Pemain_Persiba_Balikpapan", "id": 895831}]}

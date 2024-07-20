@@ -1,1 +1,1 @@
-{"name": "Senjata_api_dari_Amerika_Serikat", "id": 798366, "predecessors": [{"name": "Militer_Amerika_Serikat", "id": 106743}, {"name": "Senjata_api", "id": 65696}], "successors": []}
+{"name": "Senjata_api_dari_Amerika_Serikat", "id": 798366, "predecessors": [{"name": "Senjata_api", "id": 65696}, {"name": "Militer_Amerika_Serikat", "id": 106743}], "successors": [{"name": "Senapan_dari_Amerika_Serikat", "id": 806058}]}

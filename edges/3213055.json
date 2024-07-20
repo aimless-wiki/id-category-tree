@@ -1,1 +1,1 @@
-{"name": "Stasiun_Kyushu_Railway_Company", "id": 3213055, "predecessors": [{"name": "Perusahaan_kereta_api_Jepang", "id": 505476}, {"name": "Stasiun_kereta_api_di_Jepang", "id": 257353}], "successors": []}
+{"name": "Stasiun_Kyushu_Railway_Company", "id": 3213055, "predecessors": [{"name": "Stasiun_kereta_api_di_Jepang", "id": 257353}, {"name": "Perusahaan_kereta_api_Jepang", "id": 505476}, {"name": "Pemerintahan_Jepang", "id": 132003}], "successors": []}

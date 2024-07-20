@@ -1,1 +1,1 @@
-{"name": "Monumen", "id": 27956, "predecessors": [{"name": "Bangunan_dan_struktur", "id": 128890}], "successors": []}
+{"name": "Monumen", "id": 27956, "predecessors": [{"name": "Arsitektur_lanskap", "id": 1179223}, {"name": "Markah_tanah", "id": 237314}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Arkeologi", "id": 8561}, {"name": "Ritual_kematian", "id": 433579}], "successors": []}

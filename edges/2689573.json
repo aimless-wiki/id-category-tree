@@ -1,1 +1,1 @@
-{"name": "Gambar_sampul_novel_ringan", "id": 2689573, "predecessors": [{"name": "Gambar_sampul_buku_berlisensi_penggunaan_wajar", "id": 28473}, {"name": "Manga", "id": 14353}], "successors": []}
+{"name": "Gambar_sampul_novel_ringan", "id": 2689573, "predecessors": [{"name": "Novel_ringan", "id": 952734}, {"name": "Gambar_sampul_buku_berlisensi_penggunaan_wajar", "id": 28473}, {"name": "Manga", "id": 14353}], "successors": []}

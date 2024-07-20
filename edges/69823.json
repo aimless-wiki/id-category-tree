@@ -1,1 +1,1 @@
-{"name": "Kebumen,_Kebumen", "id": 69823, "predecessors": [{"name": "Kecamatan_di_Kabupaten_Kebumen", "id": 69808}], "successors": [{"name": "Tempat_wisata_di_Kabupaten_Kebumen", "id": 2878259}]}
+{"name": "Kebumen,_Kebumen", "id": 69823, "predecessors": [{"name": "Kabupaten_Kebumen", "id": 50647}, {"name": "Kecamatan_di_Kabupaten_Kebumen", "id": 69808}], "successors": [{"name": "Tempat_wisata_di_Kabupaten_Kebumen", "id": 2878259}]}

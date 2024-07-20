@@ -1,1 +1,1 @@
-{"name": "Kapal_perang_Jepang", "id": 290493, "predecessors": [{"name": "Kapal_perang", "id": 67073}, {"name": "Transportasi_di_Jepang", "id": 18928}, {"name": "Pemerintahan_Jepang", "id": 132003}], "successors": [{"name": "Kapal_perusak_Jepang", "id": 2606584}]}
+{"name": "Kapal_perang_Jepang", "id": 290493, "predecessors": [{"name": "Kapal_perang", "id": 67073}, {"name": "Transportasi_di_Jepang", "id": 18928}, {"name": "Asia", "id": 10800}], "successors": [{"name": "Kapal_perusak_Jepang", "id": 2606584}]}

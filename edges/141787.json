@@ -1,1 +1,1 @@
-{"name": "Tidur", "id": 141787, "predecessors": [{"name": "Fisiologi_hewan", "id": 439547}, {"name": "Perilaku", "id": 125166}, {"name": "Bagian_hari", "id": 230086}, {"name": "Fisiologi", "id": 45012}], "successors": [{"name": "Gangguan_tidur", "id": 210068}]}
+{"name": "Tidur", "id": 141787, "predecessors": [{"name": "Fisiologi_hewan", "id": 439547}, {"name": "Perilaku", "id": 125166}, {"name": "Bagian_hari", "id": 230086}, {"name": "Fisiologi", "id": 45012}], "successors": [{"name": "Gangguan_tidur", "id": 210068}, {"name": "Hipnotik", "id": 1872884}]}

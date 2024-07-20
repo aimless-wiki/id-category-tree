@@ -1,1 +1,1 @@
-{"name": "Stasiun_kereta_api_di_Cilacap", "id": 3360837, "predecessors": [{"name": "Stasiun_kereta_api_di_Jawa_Tengah", "id": 340342}], "successors": []}
+{"name": "Stasiun_kereta_api_di_Cilacap", "id": 3360837, "predecessors": [{"name": "Kabupaten_Cilacap", "id": 50637}, {"name": "Stasiun_kereta_api_di_Jawa_Tengah", "id": 340342}], "successors": []}

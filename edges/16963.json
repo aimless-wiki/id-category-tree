@@ -1,1 +1,1 @@
-{"name": "Serangan_teroris", "id": 16963, "predecessors": [{"name": "Terorisme", "id": 14711}, {"name": "Keamanan", "id": 27968}], "successors": []}
+{"name": "Serangan_teroris", "id": 16963, "predecessors": [{"name": "Penyerangan", "id": 4307586}, {"name": "Terorisme", "id": 14711}, {"name": "Keamanan", "id": 27968}], "successors": []}

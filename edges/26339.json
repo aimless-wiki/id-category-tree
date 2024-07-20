@@ -1,1 +1,1 @@
-{"name": "Anjing", "id": 26339, "predecessors": [{"name": "Hewan_domestik", "id": 3890435}, {"name": "Mamalia", "id": 14566}], "successors": [{"name": "Ras_anjing", "id": 364121}, {"name": "Penyakit_anjing", "id": 1570582}, {"name": "Anjing_gembala", "id": 2145836}]}
+{"name": "Anjing", "id": 26339, "predecessors": [{"name": "Canidae", "id": 677903}, {"name": "Hewan_domestik", "id": 3890435}], "successors": [{"name": "Ras_anjing", "id": 364121}, {"name": "Penyakit_anjing", "id": 1570582}, {"name": "Anjing_gembala", "id": 2145836}]}

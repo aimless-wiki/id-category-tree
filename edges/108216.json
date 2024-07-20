@@ -1,1 +1,1 @@
-{"name": "Limnologi", "id": 108216, "predecessors": [{"name": "Ilmu_kebumian", "id": 48578}], "successors": []}
+{"name": "Limnologi", "id": 108216, "predecessors": [{"name": "Ilmu_kebumian", "id": 48578}], "successors": [{"name": "DAS_Citarum", "id": 3970810}, {"name": "DAS_Bekasi", "id": 3970822}, {"name": "DAS_Brantas", "id": 3972712}, {"name": "DAS_Solo", "id": 3975059}, {"name": "DAS_Mahakam", "id": 3974727}]}

@@ -1,1 +1,1 @@
-{"name": "Ester", "id": 184849, "predecessors": [{"name": "Senyawa_organik", "id": 16703}], "successors": []}
+{"name": "Ester", "id": 184849, "predecessors": [{"name": "Senyawa_organik", "id": 16703}], "successors": [{"name": "Ester_karboksilat", "id": 3613322}]}

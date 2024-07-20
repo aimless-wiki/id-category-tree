@@ -1,1 +1,1 @@
-{"name": "Kapal_Amerika_Serikat", "id": 222219, "predecessors": [{"name": "Kapal", "id": 46507}, {"name": "Air", "id": 60051}], "successors": [{"name": "Kapal_perang_Amerika_Serikat", "id": 184602}]}
+{"name": "Kapal_Amerika_Serikat", "id": 222219, "predecessors": [{"name": "Ekonomi_Amerika_Serikat", "id": 46517}, {"name": "Kapal", "id": 46507}, {"name": "Air", "id": 60051}], "successors": [{"name": "Kapal_perang_Amerika_Serikat", "id": 184602}]}

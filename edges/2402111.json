@@ -1,1 +1,1 @@
-{"name": "Bom_pandu", "id": 2402111, "predecessors": [{"name": "Bom_yang_dijatuhkan_dari_udara", "id": 286195}], "successors": []}
+{"name": "Bom_pandu", "id": 2402111, "predecessors": [{"name": "Bom", "id": 13756}], "successors": [{"name": "Bom_pandu_Amerika_Serikat", "id": 4312294}]}

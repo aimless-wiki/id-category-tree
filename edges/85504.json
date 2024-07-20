@@ -1,1 +1,1 @@
-{"name": "Tempat_penyimpanan", "id": 85504, "predecessors": [{"name": "Alat", "id": 56219}, {"name": "Pengemasan", "id": 336667}, {"name": "Administrasi_publik", "id": 388025}], "successors": []}
+{"name": "Tempat_penyimpanan", "id": 85504, "predecessors": [{"name": "Alat", "id": 56219}, {"name": "Pengemasan", "id": 336667}, {"name": "Dokumen", "id": 54351}], "successors": []}

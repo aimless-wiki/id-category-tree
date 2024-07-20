@@ -1,1 +1,1 @@
-{"name": "Stasiun_kereta_api_di_Semarang", "id": 3360847, "predecessors": [{"name": "Kota_Semarang", "id": 50717}, {"name": "Stasiun_kereta_api_di_Jawa_Tengah", "id": 340342}], "successors": []}
+{"name": "Stasiun_kereta_api_di_Semarang", "id": 3360847, "predecessors": [{"name": "Kabupaten_Semarang", "id": 49245}, {"name": "Kota_Semarang", "id": 50717}, {"name": "Stasiun_kereta_api_di_Jawa_Tengah", "id": 340342}], "successors": []}

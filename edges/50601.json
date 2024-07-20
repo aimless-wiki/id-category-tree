@@ -1,1 +1,1 @@
-{"name": "Perdana_Menteri_Kamboja", "id": 50601, "predecessors": [{"name": "Pemerintahan", "id": 47711}, {"name": "Politikus", "id": 15479}, {"name": "Pekerjaan", "id": 30061}, {"name": "Asia", "id": 10800}], "successors": []}
+{"name": "Perdana_Menteri_Kamboja", "id": 50601, "predecessors": [{"name": "Menteri_Kamboja", "id": 2120084}, {"name": "Pemerintahan", "id": 47711}, {"name": "Politikus", "id": 15479}, {"name": "Pekerjaan", "id": 30061}], "successors": []}

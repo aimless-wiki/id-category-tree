@@ -1,1 +1,1 @@
-{"name": "Budaya_Lampung", "id": 2658215, "predecessors": [{"name": "Budaya_Indonesia", "id": 34600}], "successors": [{"name": "Tempat_wisata_di_Lampung", "id": 1860107}, {"name": "Klub_sepak_bola_di_Lampung", "id": 1464028}]}
+{"name": "Budaya_Lampung", "id": 2658215, "predecessors": [{"name": "Lampung", "id": 32502}, {"name": "Budaya_Indonesia", "id": 34600}], "successors": [{"name": "Tempat_wisata_di_Lampung", "id": 1860107}, {"name": "Klub_sepak_bola_di_Lampung", "id": 1464028}]}

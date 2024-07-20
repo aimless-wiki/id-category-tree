@@ -1,1 +1,1 @@
-{"name": "Arsitektur_lanskap", "id": 1179223, "predecessors": [{"name": "Arsitektur", "id": 8537}, {"name": "Desain", "id": 30062}, {"name": "Geografi", "id": 8558}], "successors": [{"name": "Tanah", "id": 1272679}]}
+{"name": "Arsitektur_lanskap", "id": 1179223, "predecessors": [{"name": "Arsitektur", "id": 8537}, {"name": "Desain", "id": 30062}, {"name": "Geografi", "id": 8558}], "successors": [{"name": "Monumen", "id": 27956}, {"name": "Tanah", "id": 1272679}]}

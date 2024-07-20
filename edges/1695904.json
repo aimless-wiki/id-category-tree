@@ -1,1 +1,1 @@
-{"name": "Daftar_episode_anime", "id": 1695904, "predecessors": [{"name": "Daftar", "id": 58265}], "successors": [{"name": "Episode_Naruto", "id": 2350510}, {"name": "Daftar_episode_Bleach", "id": 2705757}]}
+{"name": "Daftar_episode_anime", "id": 1695904, "predecessors": [{"name": "Budaya_Jepang", "id": 14352}, {"name": "Daftar", "id": 58265}], "successors": [{"name": "Episode_Naruto", "id": 2350510}, {"name": "Daftar_episode_Bleach", "id": 2705757}]}

@@ -1,1 +1,1 @@
-{"name": "Ritual_kematian", "id": 433579, "predecessors": [{"name": "Kematian", "id": 91074}, {"name": "Tradisi", "id": 133725}], "successors": []}
+{"name": "Ritual_kematian", "id": 433579, "predecessors": [{"name": "Kematian", "id": 91074}, {"name": "Tradisi", "id": 133725}], "successors": [{"name": "Monumen", "id": 27956}]}

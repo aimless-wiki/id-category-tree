@@ -1,1 +1,1 @@
-{"name": "Artikel_Geografi_kelas_templat", "id": 2609113, "predecessors": [{"name": "Geografi", "id": 8558}], "successors": [{"name": "Artikel_Geografi_kelas_templat_cukup_penting", "id": 2725224}]}
+{"name": "Artikel_Geografi_kelas_templat", "id": 2609113, "predecessors": [{"name": "Isi", "id": 358984}, {"name": "Geografi", "id": 8558}], "successors": [{"name": "Artikel_Geografi_kelas_templat_cukup_penting", "id": 2725224}]}

@@ -1,1 +1,1 @@
-{"name": "Pembangkit_listrik_tenaga_nuklir_menggunakan_reaktor_air_bertekanan", "id": 3932772, "predecessors": [{"name": "Reaktor_air_bertekanan", "id": 1826152}, {"name": "Reaktor_nuklir", "id": 142857}], "successors": []}
+{"name": "Pembangkit_listrik_tenaga_nuklir_dengan_reaktor_air_bertekanan", "id": 3932772, "predecessors": [{"name": "Reaktor_air_bertekanan", "id": 1826152}, {"name": "Reaktor_nuklir", "id": 142857}], "successors": []}

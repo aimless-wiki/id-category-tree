@@ -1,1 +1,1 @@
-{"name": "Militer_Malaysia", "id": 377616, "predecessors": [{"name": "Pemerintahan_Malaysia", "id": 244903}, {"name": "Masyarakat", "id": 33784}], "successors": [{"name": "Angkatan_Tentara_Malaysia", "id": 3068431}]}
+{"name": "Militer_Malaysia", "id": 377616, "predecessors": [{"name": "Pemerintahan_Malaysia", "id": 244903}, {"name": "Masyarakat", "id": 33784}, {"name": "Asia", "id": 10800}], "successors": [{"name": "Angkatan_Tentara_Malaysia", "id": 3068431}]}

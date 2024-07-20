@@ -1,1 +1,1 @@
-{"name": "Forensik", "id": 49001, "predecessors": [{"name": "Hukum", "id": 8535}, {"name": "Ilmu_terapan", "id": 51290}], "successors": [{"name": "Malaria", "id": 270523}, {"name": "Bunuh_diri", "id": 1562944}]}
+{"name": "Forensik", "id": 49001, "predecessors": [{"name": "Hukum", "id": 8535}, {"name": "Ilmu_terapan", "id": 51290}], "successors": [{"name": "Bunuh_diri", "id": 1562944}]}
