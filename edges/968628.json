@@ -1,1 +1,1 @@
-{"name": "Model_wanita_Korea_Selatan", "id": 968628, "predecessors": [{"name": "Model_Korea_Selatan", "id": 968622}, {"name": "Tokoh_Korea_Selatan", "id": 36292}], "successors": []}
+{"name": "Model_wanita_Korea_Selatan", "id": 968628, "predecessors": [{"name": "Model_Korea_Selatan", "id": 968622}, {"name": "Tokoh_Korea_Selatan", "id": 36292}, {"name": "Jenis_kelamin", "id": 100838}], "successors": []}

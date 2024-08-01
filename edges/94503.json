@@ -1,1 +1,1 @@
-{"name": "Yahoo!", "id": 94503, "predecessors": [{"name": "Perusahaan_Amerika_Serikat", "id": 93798}, {"name": "Perusahaan_internet", "id": 94504}, {"name": "Situs_web", "id": 21287}], "successors": []}
+{"name": "Yahoo!", "id": 94503, "predecessors": [{"name": "Situs_web", "id": 21287}, {"name": "Ekonomi_Amerika_Serikat", "id": 46517}], "successors": []}

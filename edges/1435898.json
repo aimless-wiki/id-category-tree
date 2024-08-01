@@ -1,1 +1,1 @@
-{"name": "Wanita_Romawi_kuno", "id": 1435898, "predecessors": [{"name": "Romawi_Kuno", "id": 51863}, {"name": "Tokoh_Italia", "id": 40481}, {"name": "Era_sejarah", "id": 75645}], "successors": []}
+{"name": "Wanita_Romawi_kuno", "id": 1435898, "predecessors": [{"name": "Romawi_Kuno", "id": 51863}, {"name": "Era_sejarah", "id": 75645}, {"name": "Jenis_kelamin", "id": 100838}], "successors": []}

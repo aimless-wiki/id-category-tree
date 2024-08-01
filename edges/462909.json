@@ -1,1 +1,1 @@
-{"name": "Sepeda", "id": 462909, "predecessors": [{"name": "Cabang_olahraga", "id": 140076}, {"name": "Kendaraan", "id": 14396}], "successors": [{"name": "Sepeda_motor", "id": 122982}]}
+{"name": "Sepeda", "id": 462909, "predecessors": [{"name": "Cabang_olahraga", "id": 140076}, {"name": "Energi", "id": 14807}, {"name": "Isi", "id": 358984}], "successors": [{"name": "Sepeda_motor", "id": 122982}]}

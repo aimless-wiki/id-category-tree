@@ -1,1 +1,1 @@
-{"name": "Infrastruktur_jalan", "id": 279582, "predecessors": [{"name": "Transportasi_darat", "id": 51861}, {"name": "Bangunan_dan_struktur", "id": 128890}], "successors": []}
+{"name": "Infrastruktur_jalan", "id": 279582, "predecessors": [{"name": "Transportasi_jalan", "id": 4315048}, {"name": "Bangunan_dan_struktur", "id": 128890}], "successors": [{"name": "Jalan_tol_di_Malaysia", "id": 1719617}, {"name": "Parkir", "id": 289118}]}

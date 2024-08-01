@@ -1,1 +1,1 @@
-{"name": "Parkir", "id": 289118, "predecessors": [{"name": "Lalu_lintas", "id": 259964}, {"name": "Transportasi_darat", "id": 51861}, {"name": "Dokumen", "id": 54351}], "successors": []}
+{"name": "Parkir", "id": 289118, "predecessors": [{"name": "Transportasi_jalan", "id": 4315048}, {"name": "Infrastruktur_jalan", "id": 279582}], "successors": []}

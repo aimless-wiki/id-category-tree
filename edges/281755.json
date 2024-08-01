@@ -1,1 +1,1 @@
-{"name": "Truk", "id": 281755, "predecessors": [{"name": "Kendaraan", "id": 14396}], "successors": [{"name": "Truk_pikap", "id": 1598686}]}
+{"name": "Truk", "id": 281755, "predecessors": [{"name": "Isi", "id": 358984}], "successors": [{"name": "Truk_pikap", "id": 1598686}]}

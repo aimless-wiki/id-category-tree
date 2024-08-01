@@ -1,1 +1,1 @@
-{"name": "Rumah_sakit", "id": 21384, "predecessors": [{"name": "Ilmu_kesehatan", "id": 129904}, {"name": "Rumah", "id": 38815}], "successors": [{"name": "Daftar_rumah_sakit_di_Indonesia", "id": 932322}]}
+{"name": "Rumah_sakit", "id": 21384, "predecessors": [{"name": "Ilmu_kesehatan", "id": 129904}, {"name": "Bangunan_dan_struktur", "id": 128890}], "successors": [{"name": "Daftar_rumah_sakit_di_Indonesia", "id": 932322}]}

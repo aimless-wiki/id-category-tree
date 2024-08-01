@@ -1,1 +1,1 @@
-{"name": "Kereta_kecepatan_tinggi", "id": 3895673, "predecessors": [{"name": "Transportasi_rel", "id": 14534}], "successors": []}
+{"name": "Kereta_kecepatan_tinggi", "id": 3895673, "predecessors": [{"name": "Transportasi_rel_penumpang", "id": 1414476}], "successors": [{"name": "Shinkansen", "id": 2777037}]}

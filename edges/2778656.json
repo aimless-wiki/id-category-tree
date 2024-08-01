@@ -1,1 +1,1 @@
-{"name": "Kereta_rel_listrik", "id": 2778656, "predecessors": [{"name": "Energi", "id": 14807}], "successors": [{"name": "Kereta_rel_listrik_di_Indonesia", "id": 975502}]}
+{"name": "Kereta_rel_listrik", "id": 2778656, "predecessors": [{"name": "Energi", "id": 14807}], "successors": [{"name": "Angkutan_cepat", "id": 23931}, {"name": "Jalur_kereta_rel_listrik_di_Indonesia", "id": 975502}, {"name": "Kereta_rel_listrik_di_Jepang", "id": 2876385}]}

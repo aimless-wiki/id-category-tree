@@ -1,1 +1,1 @@
-{"name": "Kidung_Natal", "id": 1055232, "predecessors": [{"name": "Musik_gereja", "id": 740198}, {"name": "Natal", "id": 308346}, {"name": "Tradisi_Natal", "id": 39030}, {"name": "Lagu", "id": 14443}, {"name": "Musik", "id": 8564}, {"name": "Kristen", "id": 11312}], "successors": []}
+{"name": "Kidung_Natal", "id": 1055232, "predecessors": [{"name": "Lagu_daerah", "id": 223150}, {"name": "Musik_gereja", "id": 740198}, {"name": "Natal", "id": 308346}, {"name": "Tradisi_Natal", "id": 39030}, {"name": "Musik", "id": 8564}, {"name": "Kristen", "id": 11312}], "successors": []}

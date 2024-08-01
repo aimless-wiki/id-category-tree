@@ -1,1 +1,1 @@
-{"name": "Maskapai_penerbangan_Britania_Raya", "id": 1082449, "predecessors": [{"name": "Perusahaan_Britania_Raya", "id": 106522}, {"name": "Maskapai_penerbangan", "id": 15740}], "successors": []}
+{"name": "Maskapai_penerbangan_Britania_Raya", "id": 1082449, "predecessors": [{"name": "Perusahaan_Britania_Raya", "id": 106522}, {"name": "Maskapai_penerbangan", "id": 15740}, {"name": "Britania_Raya", "id": 16973}], "successors": []}

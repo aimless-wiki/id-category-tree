@@ -1,1 +1,1 @@
-{"name": "Shinkansen", "id": 2777037, "predecessors": [{"name": "Transportasi_di_Jepang", "id": 18928}], "successors": [{"name": "Jalur_Hachinohe", "id": 3180565}]}
+{"name": "Shinkansen", "id": 2777037, "predecessors": [{"name": "Transportasi_di_Jepang", "id": 18928}, {"name": "Kereta_kecepatan_tinggi", "id": 3895673}], "successors": [{"name": "Jalur_Hachinohe", "id": 3180565}]}
