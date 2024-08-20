@@ -1,1 +1,1 @@
-{"name": "Kendaraan_tempur_lapis_baja_amphibi_beroda", "id": 1849417, "predecessors": [{"name": "Kendaraan_tempur_lapis_baja", "id": 111406}, {"name": "Isi", "id": 358984}], "successors": []}
+{"name": "Kendaraan_tempur_lapis_baja_amphibi_beroda", "id": 1849417, "predecessors": [{"name": "Kendaraan_tempur_lapis_baja", "id": 111406}, {"name": "Transportasi", "id": 8527}], "successors": []}

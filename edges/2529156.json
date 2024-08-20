@@ -1,1 +1,1 @@
-{"name": "Stasiun_kereta_api_di_Norwegia", "id": 2529156, "predecessors": [{"name": "Arsitektur", "id": 8537}, {"name": "Stasiun_kereta_api", "id": 21433}, {"name": "Bangunan_dan_struktur", "id": 128890}], "successors": []}
+{"name": "Stasiun_kereta_api_di_Norwegia", "id": 2529156, "predecessors": [{"name": "Stasiun_kereta_api", "id": 21433}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Arsitektur", "id": 8537}], "successors": []}

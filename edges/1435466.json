@@ -1,1 +1,1 @@
-{"name": "Klub_sepak_bola_di_Jawa_Barat", "id": 1435466, "predecessors": [{"name": "Klub_sepak_bola_Indonesia", "id": 18778}, {"name": "Jawa_Barat", "id": 16066}], "successors": [{"name": "Persib_Bandung", "id": 592541}]}
+{"name": "Klub_sepak_bola_di_Jawa_Barat", "id": 1435466, "predecessors": [{"name": "Jawa_Barat", "id": 16066}, {"name": "Klub_sepak_bola_Indonesia", "id": 18778}, {"name": "Sepak_bola_di_Indonesia", "id": 207864}], "successors": [{"name": "Persib_Bandung", "id": 592541}]}

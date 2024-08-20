@@ -1,1 +1,1 @@
-{"name": "Stadion_sepak_bola_di_Belanda", "id": 397041, "predecessors": [{"name": "Sepak_bola_di_Belanda", "id": 467437}, {"name": "Olahraga", "id": 8565}, {"name": "Belanda", "id": 15565}], "successors": [{"name": "Stadion_Eredivisie", "id": 966243}]}
+{"name": "Stadion_sepak_bola_di_Belanda", "id": 397041, "predecessors": [{"name": "Sepak_bola_di_Belanda", "id": 467437}, {"name": "Olahraga", "id": 8565}, {"name": "Isi", "id": 358984}], "successors": [{"name": "Stadion_Eredivisie", "id": 966243}]}

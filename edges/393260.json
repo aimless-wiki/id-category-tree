@@ -1,1 +1,1 @@
-{"name": "Pertahanan_hidup", "id": 393260, "predecessors": [{"name": "Keamanan", "id": 27968}], "successors": [{"name": "Kartografi", "id": 35560}]}
+{"name": "Pertahanan_hidup", "id": 393260, "predecessors": [{"name": "Keamanan", "id": 27968}, {"name": "Pendidikan", "id": 8531}], "successors": [{"name": "Kartografi", "id": 35560}]}

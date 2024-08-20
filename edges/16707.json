@@ -1,1 +1,1 @@
-{"name": "Bahrain", "id": 16707, "predecessors": [{"name": "Negara_kepulauan", "id": 234740}, {"name": "Timur_Tengah", "id": 17498}, {"name": "Teluk_Persia", "id": 268599}], "successors": [{"name": "Grand_Prix_Bahrain", "id": 41237}]}
+{"name": "Bahrain", "id": 16707, "predecessors": [{"name": "Negara_kepulauan", "id": 234740}, {"name": "Teluk_Persia", "id": 268599}, {"name": "Asia", "id": 10800}], "successors": [{"name": "Grand_Prix_Bahrain", "id": 41237}]}

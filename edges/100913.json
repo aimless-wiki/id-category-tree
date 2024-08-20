@@ -1,1 +1,1 @@
-{"name": "Produk_susu", "id": 100913, "predecessors": [{"name": "Makanan", "id": 19275}, {"name": "Susu", "id": 121772}], "successors": [{"name": "Keju", "id": 106822}, {"name": "Es_krim", "id": 143400}, {"name": "Cokelat", "id": 228231}]}
+{"name": "Produk_susu", "id": 100913, "predecessors": [{"name": "Makanan", "id": 19275}, {"name": "Produk_hewani", "id": 286163}, {"name": "Susu", "id": 121772}], "successors": [{"name": "Keju", "id": 106822}, {"name": "Es_krim", "id": 143400}, {"name": "Cokelat", "id": 228231}]}

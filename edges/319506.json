@@ -1,1 +1,1 @@
-{"name": "Cnidaria", "id": 319506, "predecessors": [{"name": "Animalia", "id": 1809741}, {"name": "Filum_hewan", "id": 1858354}, {"name": "Hewan_berbisa", "id": 1467138}], "successors": [{"name": "Cubozoa", "id": 1077393}]}
+{"name": "Cnidaria", "id": 319506, "predecessors": [{"name": "Filum_hewan", "id": 1858354}, {"name": "Hewan", "id": 14568}, {"name": "Hewan_berbisa", "id": 1467138}], "successors": [{"name": "Cubozoa", "id": 1077393}]}

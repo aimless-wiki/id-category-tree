@@ -1,1 +1,1 @@
-{"name": "Stereokimia", "id": 321564, "predecessors": [{"name": "Kimia_organik", "id": 16701}, {"name": "Fisika", "id": 8523}], "successors": [{"name": "Obat_enantiomerik_murni", "id": 4289560}]}
+{"name": "Stereokimia", "id": 321564, "predecessors": [{"name": "Kimia_organik", "id": 16701}, {"name": "Konsep_dalam_fisika", "id": 236304}], "successors": [{"name": "Obat_enantiomerik_murni", "id": 4289560}]}

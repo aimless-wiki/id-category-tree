@@ -1,1 +1,1 @@
-{"name": "Asuransi", "id": 26576, "predecessors": [{"name": "Lembaga_keuangan", "id": 157957}, {"name": "Industri", "id": 30058}, {"name": "Keuangan", "id": 15188}], "successors": [{"name": "Perusahaan_asuransi", "id": 120241}, {"name": "Perusahaan_asuransi_Indonesia", "id": 299954}]}
+{"name": "Asuransi", "id": 26576, "predecessors": [{"name": "Lembaga_keuangan", "id": 157957}, {"name": "Industri", "id": 30058}, {"name": "Keuangan", "id": 15188}], "successors": [{"name": "Perusahaan_asuransi", "id": 120241}]}

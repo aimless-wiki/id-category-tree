@@ -1,1 +1,1 @@
-{"name": "Sistem_struktural", "id": 3627995, "predecessors": [{"name": "Teknik_bangunan", "id": 269989}, {"name": "Teknik_sipil", "id": 53770}, {"name": "Teknologi", "id": 8528}], "successors": [{"name": "Atap", "id": 1463676}]}
+{"name": "Sistem_struktural", "id": 3627995, "predecessors": [{"name": "Rekayasa_struktur", "id": 266962}, {"name": "Teknik_bangunan", "id": 269989}, {"name": "Teknologi", "id": 8528}], "successors": [{"name": "Atap", "id": 1463676}]}

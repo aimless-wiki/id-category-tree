@@ -1,1 +1,1 @@
-{"name": "Film_Columbia_Pictures", "id": 1125250, "predecessors": [{"name": "Film", "id": 8544}, {"name": "Perusahaan_produksi_film_Amerika_Serikat", "id": 304290}], "successors": [{"name": "Film_Sony_Pictures_Animation", "id": 3042985}]}
+{"name": "Film_Columbia_Pictures", "id": 1125250, "predecessors": [{"name": "Film", "id": 8544}, {"name": "Perusahaan_produksi_film_Amerika_Serikat", "id": 304290}, {"name": "Amerika_(benua)", "id": 46519}], "successors": [{"name": "Film_Sony_Pictures_Animation", "id": 3042985}]}

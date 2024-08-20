@@ -1,1 +1,1 @@
-{"name": "Komputer_pribadi", "id": 132693, "predecessors": [{"name": "Perangkat_keras", "id": 35390}], "successors": [{"name": "Permainan_komputer", "id": 16418}]}
+{"name": "Komputer_pribadi", "id": 132693, "predecessors": [{"name": "Perangkat_keras", "id": 35390}], "successors": [{"name": "Permainan_komputer", "id": 16418}, {"name": "Windows", "id": 15049}]}

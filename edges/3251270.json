@@ -1,1 +1,1 @@
-{"name": "Penyanyi-penulis_lagu", "id": 3251270, "predecessors": [{"name": "Pemusik", "id": 24071}, {"name": "Penyanyi", "id": 21539}], "successors": [{"name": "Penyanyi-penulis_lagu_Indonesia", "id": 3806710}]}
+{"name": "Penyanyi-penulis_lagu", "id": 3251270, "predecessors": [{"name": "Pemusik", "id": 24071}, {"name": "Pencipta_lagu", "id": 1076435}, {"name": "Penyanyi", "id": 21539}], "successors": [{"name": "Penyanyi-penulis_lagu_Indonesia", "id": 3806710}]}

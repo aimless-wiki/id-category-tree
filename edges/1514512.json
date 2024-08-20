@@ -1,1 +1,1 @@
-{"name": "Desa_wisata", "id": 1514512, "predecessors": [{"name": "Desa", "id": 69810}, {"name": "Pariwisata", "id": 8566}], "successors": [{"name": "Desa_wisata_di_Indonesia", "id": 1514507}]}
+{"name": "Desa_wisata", "id": 1514512, "predecessors": [{"name": "Pariwisata", "id": 8566}, {"name": "Pembagian_administratif", "id": 70757}], "successors": [{"name": "Desa_wisata_di_Indonesia", "id": 1514507}]}

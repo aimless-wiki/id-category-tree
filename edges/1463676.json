@@ -1,1 +1,1 @@
-{"name": "Atap", "id": 1463676, "predecessors": [{"name": "Elemen_arsitektural", "id": 140422}, {"name": "Sistem_struktural", "id": 3627995}, {"name": "Teknik_sipil", "id": 53770}], "successors": []}
+{"name": "Atap", "id": 1463676, "predecessors": [{"name": "Elemen_arsitektural", "id": 140422}, {"name": "Rekayasa_struktur", "id": 266962}, {"name": "Sistem_struktural", "id": 3627995}], "successors": []}

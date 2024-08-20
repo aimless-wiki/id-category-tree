@@ -1,1 +1,1 @@
-{"name": "Rumah_sakit_di_Jawa_Barat", "id": 349903, "predecessors": [{"name": "Rumah_sakit_di_Indonesia", "id": 50451}, {"name": "Bangunan_dan_struktur_di_Indonesia", "id": 130008}, {"name": "Jawa_Barat", "id": 16066}], "successors": [{"name": "Rumah_sakit_di_Kota_Depok", "id": 3700728}]}
+{"name": "Rumah_sakit_di_Jawa_Barat", "id": 349903, "predecessors": [{"name": "Bangunan_dan_struktur_di_Indonesia", "id": 130008}, {"name": "Jawa_Barat", "id": 16066}, {"name": "Kesehatan_di_Indonesia", "id": 115789}], "successors": [{"name": "Rumah_sakit_di_Kota_Depok", "id": 3700728}]}

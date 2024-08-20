@@ -1,1 +1,1 @@
-{"name": "Ekonomi_mikro", "id": 106359, "predecessors": [{"name": "Ekonomi", "id": 8560}], "successors": [{"name": "Barang", "id": 135190}, {"name": "Perhiasan", "id": 69893}]}
+{"name": "Ekonomi_mikro", "id": 106359, "predecessors": [{"name": "Ekonomi", "id": 8560}], "successors": [{"name": "Barang", "id": 135190}, {"name": "Perhiasan", "id": 69893}, {"name": "Ekonomika_lingkungan", "id": 2846229}]}

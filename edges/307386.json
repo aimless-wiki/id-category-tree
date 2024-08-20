@@ -1,1 +1,1 @@
-{"name": "Bus", "id": 307386, "predecessors": [{"name": "Transportasi_bus", "id": 307387}, {"name": "Kendaraan", "id": 14396}, {"name": "Isi", "id": 358984}], "successors": []}
+{"name": "Bus", "id": 307386, "predecessors": [{"name": "Transportasi_bus", "id": 307387}, {"name": "Kendaraan", "id": 14396}, {"name": "Transportasi", "id": 8527}], "successors": []}

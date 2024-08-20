@@ -1,1 +1,1 @@
-{"name": "Pembalap_A1_Grand_Prix", "id": 749667, "predecessors": [{"name": "Balap_mobil", "id": 37232}, {"name": "Olahraga", "id": 8565}], "successors": []}
+{"name": "Pembalap_A1_Grand_Prix", "id": 749667, "predecessors": [{"name": "Balap_mobil", "id": 37232}, {"name": "Organisasi_olahraga", "id": 85513}], "successors": []}

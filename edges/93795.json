@@ -1,1 +1,1 @@
-{"name": "Istilah_bisnis", "id": 93795, "predecessors": [{"name": "Bisnis", "id": 30060}, {"name": "Istilah_ekonomi", "id": 284580}], "successors": [{"name": "Manufaktur", "id": 130616}]}
+{"name": "Istilah_bisnis", "id": 93795, "predecessors": [{"name": "Bisnis", "id": 30060}, {"name": "Istilah_ekonomi", "id": 284580}], "successors": [{"name": "Manufaktur", "id": 130616}, {"name": "Perusahaan", "id": 17047}]}

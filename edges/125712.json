@@ -1,1 +1,1 @@
-{"name": "Manajemen_sumber_daya_manusia", "id": 125712, "predecessors": [{"name": "Manajemen", "id": 40238}], "successors": [{"name": "Kolaborasi", "id": 462138}]}
+{"name": "Manajemen_sumber_daya_manusia", "id": 125712, "predecessors": [{"name": "Organisasi", "id": 33782}, {"name": "Manajemen", "id": 40238}], "successors": [{"name": "Kolaborasi", "id": 462138}, {"name": "Realitas_virtual", "id": 241399}]}

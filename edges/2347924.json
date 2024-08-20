@@ -1,1 +1,1 @@
-{"name": "Pemain_bulu_tangkis_putri_Korea_Selatan", "id": 2347924, "predecessors": [{"name": "Olahraga", "id": 8565}, {"name": "Jenis_kelamin", "id": 100838}], "successors": []}
+{"name": "Pemain_bulu_tangkis_putri_Korea_Selatan", "id": 2347924, "predecessors": [{"name": "Jenis_kelamin", "id": 100838}, {"name": "Masyarakat", "id": 33784}], "successors": []}

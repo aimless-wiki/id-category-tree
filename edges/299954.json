@@ -1,1 +1,1 @@
-{"name": "Perusahaan_asuransi_Indonesia", "id": 299954, "predecessors": [{"name": "Perusahaan_Indonesia", "id": 18428}, {"name": "Asuransi", "id": 26576}], "successors": []}
+{"name": "Perusahaan_asuransi_Indonesia", "id": 299954, "predecessors": [{"name": "Perusahaan_Indonesia", "id": 18428}, {"name": "Perusahaan_asuransi", "id": 120241}, {"name": "Ekonomi_Indonesia", "id": 26918}], "successors": []}
