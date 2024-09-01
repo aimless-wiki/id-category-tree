@@ -1,1 +1,1 @@
-{"name": "Drama_televisi_Taiwan", "id": 3311107, "predecessors": [{"name": "Seri_televisi", "id": 264831}], "successors": []}
+{"name": "Drama_televisi_Taiwan", "id": 3311107, "predecessors": [{"name": "Genre_televisi", "id": 285176}, {"name": "Seri_televisi", "id": 264831}], "successors": []}

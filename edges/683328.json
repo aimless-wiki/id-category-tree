@@ -1,1 +1,1 @@
-{"name": "Kuil_agama_Buddha", "id": 683328, "predecessors": [{"name": "Tempat_ibadah", "id": 50328}], "successors": [{"name": "Kuil_agama_Buddha_di_Korea_Selatan", "id": 267221}, {"name": "Kuil_agama_Buddha_di_Jepang", "id": 683336}]}
+{"name": "Kuil_agama_Buddha", "id": 683328, "predecessors": [{"name": "Agama", "id": 8495}], "successors": [{"name": "Kuil_agama_Buddha_di_Korea_Selatan", "id": 267221}, {"name": "Kuil_agama_Buddha_di_Jepang", "id": 683336}]}

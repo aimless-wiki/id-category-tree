@@ -1,1 +1,1 @@
-{"name": "Produk_minuman_Indonesia", "id": 1553052, "predecessors": [{"name": "Merek_Indonesia", "id": 260729}, {"name": "Hidangan", "id": 288276}, {"name": "Perusahaan_Indonesia", "id": 18428}, {"name": "Minuman", "id": 16067}], "successors": []}
+{"name": "Produk_minuman_Indonesia", "id": 1553052, "predecessors": [{"name": "Merek_Indonesia", "id": 260729}, {"name": "Perusahaan_Indonesia", "id": 18428}, {"name": "Minuman", "id": 16067}, {"name": "Budaya", "id": 8546}], "successors": []}

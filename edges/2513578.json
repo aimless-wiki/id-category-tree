@@ -1,1 +1,1 @@
-{"name": "Pembalap_Formula_E", "id": 2513578, "predecessors": [{"name": "Balap_mobil", "id": 37232}], "successors": []}
+{"name": "Pembalap_Formula_E", "id": 2513578, "predecessors": [{"name": "Formula_E", "id": 2513575}, {"name": "Balap_mobil", "id": 37232}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Templat_navigasi_buku_komik", "id": 2352629, "predecessors": [{"name": "Buku", "id": 66447}], "successors": [{"name": "Templat_Marvel_Comics", "id": 2352628}, {"name": "Templat_DC_Comics", "id": 2389793}]}
+{"name": "Templat_navigasi_buku_komik", "id": 2352629, "predecessors": [{"name": "Buku", "id": 66447}, {"name": "Komik", "id": 14459}], "successors": [{"name": "Templat_Marvel_Comics", "id": 2352628}, {"name": "Templat_DC_Comics", "id": 2389793}]}

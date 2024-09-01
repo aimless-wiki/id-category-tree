@@ -1,1 +1,1 @@
-{"name": "Dewan_Perwakilan_Rakyat_Daerah_Provinsi", "id": 3203441, "predecessors": [{"name": "Pemerintahan_daerah_di_Indonesia", "id": 451119}], "successors": [{"name": "Dewan_Perwakilan_Rakyat_Daerah_Kabupaten/Kota_di_Lampung", "id": 3203437}]}
+{"name": "Dewan_Perwakilan_Rakyat_Daerah_Provinsi", "id": 3203441, "predecessors": [{"name": "Pemerintahan_daerah_di_Indonesia", "id": 451119}, {"name": "Pemerintahan_Indonesia", "id": 146279}], "successors": []}
