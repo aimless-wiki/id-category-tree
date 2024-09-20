@@ -1,1 +1,1 @@
-{"name": "Pelabuhan", "id": 52525, "predecessors": [{"name": "Transportasi_air", "id": 14537}, {"name": "Transportasi", "id": 8527}], "successors": []}
+{"name": "Pelabuhan", "id": 52525, "predecessors": [{"name": "Transportasi_air", "id": 14537}, {"name": "Transportasi", "id": 8527}], "successors": [{"name": "Pelabuhan_penyeberangan_di_Indonesia", "id": 1155186}]}

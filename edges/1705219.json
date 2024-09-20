@@ -1,1 +1,1 @@
-{"name": "Kereta_api_bisnis", "id": 1705219, "predecessors": [{"name": "Transportasi_rel_di_Indonesia", "id": 109488}], "successors": []}
+{"name": "Kereta_api_bisnis", "id": 1705219, "predecessors": [{"name": "Transportasi_rel_penumpang", "id": 1414476}], "successors": []}

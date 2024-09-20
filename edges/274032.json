@@ -1,1 +1,1 @@
-{"name": "Daftar_pulau", "id": 274032, "predecessors": [{"name": "Pulau", "id": 16667}, {"name": "Ilmu", "id": 48575}, {"name": "Isi", "id": 358984}], "successors": []}
+{"name": "Daftar_pulau", "id": 274032, "predecessors": [{"name": "Pulau", "id": 16667}, {"name": "Ilmu", "id": 48575}, {"name": "Pembagian_administratif", "id": 70757}], "successors": []}

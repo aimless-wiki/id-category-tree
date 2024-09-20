@@ -1,1 +1,1 @@
-{"name": "Hotel_di_Jakarta_Pusat", "id": 2159512, "predecessors": [{"name": "Kota_Administrasi_Jakarta_Pusat", "id": 50099}, {"name": "Bangunan_dan_struktur_di_Jakarta", "id": 127897}], "successors": []}
+{"name": "Hotel_di_Jakarta_Pusat", "id": 2159512, "predecessors": [{"name": "Hotel_di_Jakarta", "id": 596892}, {"name": "Kota_Administrasi_Jakarta_Pusat", "id": 50099}], "successors": []}

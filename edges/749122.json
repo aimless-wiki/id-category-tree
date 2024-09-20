@@ -1,1 +1,1 @@
-{"name": "Juru_masak", "id": 749122, "predecessors": [{"name": "Hidangan", "id": 288276}, {"name": "Budaya", "id": 8546}], "successors": []}
+{"name": "Juru_masak", "id": 749122, "predecessors": [{"name": "Hidangan", "id": 288276}, {"name": "Budaya", "id": 8546}], "successors": [{"name": "Juru_masak_Indonesia", "id": 599977}]}

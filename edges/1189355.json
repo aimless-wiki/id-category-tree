@@ -1,1 +1,1 @@
-{"name": "Literatur_Sunni", "id": 1189355, "predecessors": [{"name": "Cabang_Islam", "id": 3712271}, {"name": "Buku", "id": 66447}], "successors": [{"name": "Kitab_hadis", "id": 306119}]}
+{"name": "Literatur_Sunni", "id": 1189355, "predecessors": [{"name": "Sunni", "id": 77261}, {"name": "Buku", "id": 66447}], "successors": [{"name": "Kitab_hadis", "id": 306119}]}

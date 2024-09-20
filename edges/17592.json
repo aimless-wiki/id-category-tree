@@ -1,1 +1,1 @@
-{"name": "Sungai", "id": 17592, "predecessors": [{"name": "Perairan", "id": 204973}], "successors": [{"name": "Bendungan", "id": 58267}]}
+{"name": "Sungai", "id": 17592, "predecessors": [{"name": "Perairan", "id": 204973}], "successors": [{"name": "Bendungan_dan_waduk", "id": 58267}]}

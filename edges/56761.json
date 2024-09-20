@@ -1,1 +1,1 @@
-{"name": "Ulama_sufi", "id": 56761, "predecessors": [{"name": "Ulama", "id": 13106}], "successors": []}
+{"name": "Ulama_sufi", "id": 56761, "predecessors": [{"name": "Sufi", "id": 58205}, {"name": "Ulama", "id": 13106}], "successors": []}

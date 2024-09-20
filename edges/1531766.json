@@ -1,1 +1,1 @@
-{"name": "Energi_terbarukan", "id": 1531766, "predecessors": [{"name": "Energi", "id": 14807}], "successors": []}
+{"name": "Energi_terbarukan", "id": 1531766, "predecessors": [{"name": "Energi", "id": 14807}], "successors": [{"name": "Pembangkit_listrik_tenaga_air", "id": 542029}]}

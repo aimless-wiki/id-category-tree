@@ -1,1 +1,1 @@
-{"name": "Kendaraan_militer", "id": 101374, "predecessors": [{"name": "Kendaraan", "id": 14396}, {"name": "Militer", "id": 10363}], "successors": [{"name": "Kapal_perang", "id": 67073}, {"name": "Kendaraan_tempur_lapis_baja", "id": 111406}]}
+{"name": "Kendaraan_militer", "id": 101374, "predecessors": [{"name": "Kendaraan", "id": 14396}, {"name": "Militer", "id": 10363}], "successors": [{"name": "Kapal_perang", "id": 67073}, {"name": "Kendaraan_tempur_lapis_baja", "id": 111406}, {"name": "Kendaraan_militer_diperkenalkan_tahun_2000-an", "id": 4247802}]}

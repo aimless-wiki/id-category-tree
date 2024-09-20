@@ -1,1 +1,1 @@
-{"name": "Permainan_arkade", "id": 643062, "predecessors": [{"name": "Permainan", "id": 8563}, {"name": "Permainan_video", "id": 16866}], "successors": []}
+{"name": "Permainan_arkade", "id": 643062, "predecessors": [{"name": "Permainan", "id": 8563}, {"name": "Perangkat_keras", "id": 35390}], "successors": []}

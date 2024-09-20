@@ -1,1 +1,1 @@
-{"name": "Adat", "id": 44816, "predecessors": [{"name": "Budaya_Indonesia", "id": 34600}], "successors": [{"name": "Desa_adat", "id": 980990}, {"name": "Ritual", "id": 1442934}, {"name": "Hukum_adat", "id": 3020934}]}
+{"name": "Adat", "id": 44816, "predecessors": [{"name": "Budaya_Indonesia", "id": 34600}], "successors": [{"name": "Hukum_di_Indonesia", "id": 48202}, {"name": "Desa_adat", "id": 980990}, {"name": "Ritual", "id": 1442934}, {"name": "Hukum_adat", "id": 3020934}]}

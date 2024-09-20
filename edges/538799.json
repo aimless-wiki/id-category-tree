@@ -1,1 +1,1 @@
-{"name": "Mamalia_Asia_Tenggara", "id": 538799, "predecessors": [{"name": "Fauna_Asia_Tenggara", "id": 429364}, {"name": "Mamalia_Asia", "id": 235364}], "successors": [{"name": "Kelelawar_Asia_Tenggara", "id": 3933455}]}
+{"name": "Mamalia_Asia_Tenggara", "id": 538799, "predecessors": [{"name": "Fauna_Asia_Tenggara", "id": 429364}, {"name": "Mamalia_Asia", "id": 235364}], "successors": [{"name": "Mamalia_Indonesia", "id": 235361}, {"name": "Kelelawar_Asia_Tenggara", "id": 3933455}]}

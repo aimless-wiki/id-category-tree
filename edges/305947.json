@@ -1,1 +1,1 @@
-{"name": "Bahasa_Portugis", "id": 305947, "predecessors": [{"name": "Budaya", "id": 8546}, {"name": "Bahasa_di_Eropa", "id": 241032}], "successors": [{"name": "Film_berbahasa_Portugis", "id": 640873}, {"name": "Telenovela_berbahasa_Portugis", "id": 1438947}]}
+{"name": "Bahasa_Portugis", "id": 305947, "predecessors": [{"name": "Budaya", "id": 8546}, {"name": "Bahasa_di_Eropa", "id": 241032}, {"name": "Pemeliharaan_Wikipedia", "id": 51259}], "successors": [{"name": "Film_berbahasa_Portugis", "id": 640873}, {"name": "Telenovela_berbahasa_Portugis", "id": 1438947}]}
