@@ -1,1 +1,1 @@
-{"name": "Tokoh_Denmark", "id": 38693, "predecessors": [{"name": "Denmark", "id": 17351}, {"name": "Kewarganegaraan", "id": 266812}, {"name": "Eropa", "id": 15962}], "successors": [{"name": "Wangsa_Estridsen", "id": 1457478}]}
+{"name": "Tokoh_Denmark", "id": 38693, "predecessors": [{"name": "Denmark", "id": 17351}, {"name": "Tokoh_Eropa", "id": 231042}, {"name": "Kewarganegaraan", "id": 266812}], "successors": [{"name": "Wangsa_Estridsen", "id": 1457478}]}

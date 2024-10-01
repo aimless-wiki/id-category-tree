@@ -1,1 +1,1 @@
-{"name": "Tokoh_Finlandia", "id": 42028, "predecessors": [{"name": "Finlandia", "id": 19256}, {"name": "Kewarganegaraan", "id": 266812}, {"name": "Eropa", "id": 15962}], "successors": []}
+{"name": "Tokoh_Finlandia", "id": 42028, "predecessors": [{"name": "Finlandia", "id": 19256}, {"name": "Tokoh_Eropa", "id": 231042}, {"name": "Kewarganegaraan", "id": 266812}], "successors": []}

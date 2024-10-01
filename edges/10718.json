@@ -1,1 +1,1 @@
-{"name": "Radio", "id": 10718, "predecessors": [{"name": "Media_massa", "id": 14456}], "successors": [{"name": "Stasiun_radio_Indonesia", "id": 80678}, {"name": "Stasiun_radio_Filipina", "id": 1435481}, {"name": "Nederlandse_Publieke_Omroep", "id": 3238696}, {"name": "Penyiar_radio_Indonesia", "id": 145661}]}
+{"name": "Radio", "id": 10718, "predecessors": [{"name": "Media_massa", "id": 14456}], "successors": [{"name": "Stasiun_radio_Filipina", "id": 1435481}, {"name": "Nederlandse_Publieke_Omroep", "id": 3238696}, {"name": "Penyiar_radio_Indonesia", "id": 145661}]}

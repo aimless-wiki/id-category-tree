@@ -1,1 +1,1 @@
-{"name": "Penulis_laki-laki_Prancis", "id": 3169363, "predecessors": [{"name": "Penulis_Prancis", "id": 51064}], "successors": []}
+{"name": "Penulis_laki-laki_Prancis", "id": 3169363, "predecessors": [{"name": "Penulis_Prancis", "id": 51064}, {"name": "Penulis", "id": 21265}, {"name": "Jenis_kelamin", "id": 100838}], "successors": []}

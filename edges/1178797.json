@@ -1,1 +1,1 @@
-{"name": "Manajemen_lahan", "id": 1178797, "predecessors": [{"name": "Pertanian", "id": 8530}, {"name": "Geografi_manusia", "id": 218414}, {"name": "Manajemen", "id": 40238}, {"name": "Alam", "id": 70769}], "successors": [{"name": "Perencanaan_perkotaan", "id": 112473}]}
+{"name": "Manajemen_lahan", "id": 1178797, "predecessors": [{"name": "Pertanian", "id": 8530}, {"name": "Geografi_manusia", "id": 218414}, {"name": "Manajemen", "id": 40238}, {"name": "Sumber_daya_alam", "id": 289923}], "successors": [{"name": "Perencanaan_perkotaan", "id": 112473}]}

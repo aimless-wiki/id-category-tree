@@ -1,1 +1,1 @@
-{"name": "Pengguna_laki-laki", "id": 57759, "predecessors": [{"name": "Jenis_kelamin", "id": 100838}, {"name": "Pemeliharaan_Wikipedia", "id": 51259}], "successors": []}
+{"name": "Pengguna_laki-laki", "id": 57759, "predecessors": [{"name": "Pengguna_Wikipedia", "id": 1685186}, {"name": "Jenis_kelamin", "id": 100838}], "successors": []}

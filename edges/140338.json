@@ -1,1 +1,1 @@
-{"name": "Menteri_Israel", "id": 140338, "predecessors": [{"name": "Organisasi", "id": 33782}, {"name": "Pekerjaan", "id": 30061}, {"name": "Pemerintahan", "id": 47711}, {"name": "Asia", "id": 10800}], "successors": [{"name": "Perdana_Menteri_Israel", "id": 17669}]}
+{"name": "Menteri_Israel", "id": 140338, "predecessors": [{"name": "Asia", "id": 10800}, {"name": "Organisasi", "id": 33782}, {"name": "Pekerjaan", "id": 30061}], "successors": [{"name": "Perdana_Menteri_Israel", "id": 17669}]}

@@ -1,1 +1,1 @@
-{"name": "Perguruan_tinggi_di_Inggris", "id": 38483, "predecessors": [{"name": "Perguruan_tinggi_di_Britania_Raya", "id": 244323}], "successors": [{"name": "Universitas_Oxford", "id": 1561297}]}
+{"name": "Perguruan_tinggi_di_Inggris", "id": 38483, "predecessors": [{"name": "Perguruan_tinggi_di_Britania_Raya", "id": 244323}, {"name": "Perguruan_tinggi_di_Eropa", "id": 2123898}, {"name": "Britania_Raya", "id": 16973}, {"name": "Pendidikan", "id": 8531}, {"name": "Bangunan_dan_struktur", "id": 128890}], "successors": [{"name": "Universitas_Oxford", "id": 1561297}]}

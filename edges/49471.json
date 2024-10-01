@@ -1,1 +1,1 @@
-{"name": "User_min", "id": 49471, "predecessors": [{"name": "Pemeliharaan_Wikipedia", "id": 51259}], "successors": [{"name": "User_min-2", "id": 52493}, {"name": "User_min-1", "id": 52565}, {"name": "User_min-N", "id": 57389}, {"name": "User_min-3", "id": 57390}]}
+{"name": "User_min", "id": 49471, "predecessors": [{"name": "Pengguna_Wikipedia", "id": 1685186}], "successors": [{"name": "User_min-2", "id": 52493}, {"name": "User_min-1", "id": 52565}, {"name": "User_min-N", "id": 57389}, {"name": "User_min-3", "id": 57390}]}

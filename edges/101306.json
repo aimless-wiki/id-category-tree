@@ -1,1 +1,1 @@
-{"name": "Dokter_Jerman", "id": 101306, "predecessors": [{"name": "Dokter", "id": 91804}, {"name": "Jerman", "id": 10637}, {"name": "Eropa", "id": 15962}], "successors": []}
+{"name": "Dokter_Jerman", "id": 101306, "predecessors": [{"name": "Dokter", "id": 91804}, {"name": "Jerman", "id": 10637}, {"name": "Tokoh_Eropa", "id": 231042}], "successors": []}

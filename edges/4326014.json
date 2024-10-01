@@ -1,1 +1,1 @@
-{"name": "Stasiun_radio_RRI", "id": 4326014, "predecessors": [{"name": "Stasiun_radio_Indonesia", "id": 80678}, {"name": "Jaringan_radio_Indonesia", "id": 3528071}], "successors": []}
+{"name": "Stasiun_radio_RRI", "id": 4326014, "predecessors": [{"name": "Jaringan_radio_Indonesia", "id": 3528071}, {"name": "Budaya_Indonesia", "id": 34600}], "successors": []}

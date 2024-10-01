@@ -1,1 +1,1 @@
-{"name": "Tokoh_Rumania", "id": 93910, "predecessors": [{"name": "Rumania", "id": 36306}, {"name": "Kewarganegaraan", "id": 266812}, {"name": "Eropa", "id": 15962}], "successors": [{"name": "Sutradara_Rumania", "id": 2136833}]}
+{"name": "Tokoh_Rumania", "id": 93910, "predecessors": [{"name": "Rumania", "id": 36306}, {"name": "Tokoh_Eropa", "id": 231042}, {"name": "Kewarganegaraan", "id": 266812}], "successors": [{"name": "Sutradara_Rumania", "id": 2136833}]}

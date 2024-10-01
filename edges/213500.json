@@ -1,1 +1,1 @@
-{"name": "Tokoh_Luksemburg", "id": 213500, "predecessors": [{"name": "Kewarganegaraan", "id": 266812}, {"name": "Eropa", "id": 15962}, {"name": "Monarki", "id": 19413}], "successors": []}
+{"name": "Tokoh_Luksemburg", "id": 213500, "predecessors": [{"name": "Tokoh_Eropa", "id": 231042}, {"name": "Kewarganegaraan", "id": 266812}, {"name": "Monarki", "id": 19413}], "successors": []}

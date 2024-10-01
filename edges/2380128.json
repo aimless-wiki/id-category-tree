@@ -1,1 +1,1 @@
-{"name": "Pemain_sepak_bola_wanita_Inggris", "id": 2380128, "predecessors": [{"name": "Tokoh_Inggris", "id": 13630}, {"name": "Sepak_bola_di_Inggris", "id": 310083}, {"name": "Jenis_kelamin", "id": 100838}], "successors": [{"name": "Pemain_timnas_sepak_bola_wanita_Inggris", "id": 2380133}]}
+{"name": "Pemain_sepak_bola_wanita_Inggris", "id": 2380128, "predecessors": [{"name": "Sepak_bola_di_Inggris", "id": 310083}, {"name": "Jenis_kelamin", "id": 100838}], "successors": [{"name": "Pemain_timnas_sepak_bola_wanita_Inggris", "id": 2380133}]}

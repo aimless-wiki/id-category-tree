@@ -1,1 +1,1 @@
-{"name": "Tim_balap_Amerika_Serikat", "id": 733094, "predecessors": [{"name": "Cabang_olahraga", "id": 140076}, {"name": "Olahraga", "id": 8565}], "successors": []}
+{"name": "Tim_balap_Amerika_Serikat", "id": 733094, "predecessors": [{"name": "Balap_mobil", "id": 37232}, {"name": "Cabang_olahraga", "id": 140076}], "successors": []}

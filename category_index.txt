@@ -530,6 +530,7 @@
 19647 Sejarah_Jerman
 19675 Kendaraan_Toyota
 19739 Kriptografi
+19751 Rumpun_bahasa_Afro-Asia
 19764 Kematian_1994
 19765 Kelahiran_1913
 19766 Wakil_Presiden_Amerika_Serikat
@@ -1511,7 +1512,6 @@
 48358 Kabupaten_Lingga
 48359 Kabupaten_Natuna
 48360 Kota_Batam
-48396 Perusahaan_pertambangan
 48397 Pertambangan
 48403 Emas
 48405 Satuan_massa
@@ -1703,7 +1703,6 @@
 51149 Templat_umum
 51150 Perdana_Menteri_Finlandia
 51181 Templat_kategori
-51184 Templat_pautan
 51233 Astrologi
 51254 Templat_navigasi
 51259 Pemeliharaan_Wikipedia
@@ -2411,7 +2410,9 @@
 61701 Karangpawitan,_Garut
 61704 Leles,_Garut
 61707 Malangbong,_Garut
+61708 Tarogong_Kidul,_Garut
 61711 Pengguna_Firefox
+61741 Tarogong_Kaler,_Garut
 61761 Tabel_periodik
 61823 Logam
 61887 Pengguna_yang_berdomisili_di_Bandung
@@ -3027,7 +3028,6 @@
 80641 Fisika_plasma
 80647 Jaringan_nirkabel
 80652 Pusat_perbelanjaan_di_Surabaya
-80678 Stasiun_radio_Indonesia
 80690 Ulujami,_Pemalang
 80699 Ampelgading,_Pemalang
 80700 Bantarbolang,_Pemalang
@@ -4616,6 +4616,7 @@
 107842 Desa_di_Kabupaten_Cianjur
 107918 Permainan_PlayStation
 107953 Sejarah_Yaman
+108032 Seri_buku
 108034 Minyak_dan_gas_bumi
 108054 Templat_kutipan
 108091 Kimiawan_Jerman
@@ -4675,7 +4676,6 @@
 110354 Desa_di_Kabupaten_Kendal
 110355 Desa_di_Kabupaten_Brebes
 110401 Mebel
-110418 Penduduk_asli_Roma
 110507 Telepon_genggam
 110518 Petinju_Indonesia
 110522 Petinju_Amerika_Serikat
@@ -5002,6 +5002,7 @@
 124900 Kelahiran_1786
 124904 Kematian_1574
 124911 Kelahiran_1774
+124918 Kelahiran_1743
 125126 Perangkat_lunak_Unix
 125127 Perangkat_lunak_Linux
 125162 Kematian_1857
@@ -5752,6 +5753,7 @@
 177968 Purwodadi,_Purworejo
 178046 Tanakh
 178231 Sindrom
+178428 Tokoh_Brunei
 178492 Novel_fiksi_ilmiah
 178501 Sastra_Jepang
 179150 Kelurahan_di_Sulawesi_Selatan
@@ -6020,6 +6022,7 @@
 201653 Istilah_politik
 201757 Kanton_di_Swiss
 201830 Kendaraan_Mitsubishi
+202075 Perang_yang_melibatkan_Indonesia
 202076 Perang_yang_melibatkan_Belanda
 202126 Leluhur_Pandawa_dan_Korawa
 202172 Kuda
@@ -6086,7 +6089,6 @@
 207924 Golden_Globe_Award
 208148 Film_tahun_1950
 208280 Kredit
-208338 Gempa_bumi_di_Indonesia
 208433 Kwanyar,_Bangkalan
 208769 Sejarah_Kesultanan_Utsmaniyah
 208881 Akidah
@@ -6391,6 +6393,7 @@
 230690 Makhluk_dalam_mitologi_Hindu
 230831 Kemiskinan
 230896 Kumbang
+231042 Tokoh_Eropa
 231312 Bahasa_Sanskerta
 231361 Maskapai_penerbangan_yang_didirikan_tahun_2006
 231380 Maskapai_penerbangan_yang_didirikan_tahun_1996
@@ -6627,6 +6630,7 @@
 252333 Templat_navigasi_musik
 252339 Templat_navigasi_perusahaan
 252340 Templat_navigasi_permainan
+252350 Templat_navigasi_agama
 252351 Templat_navigasi_Islam
 252354 Templat_navigasi_Kristen
 252363 Templat_navigasi_Katolik
@@ -7070,6 +7074,7 @@
 289904 Hari_raya_Katolik
 289911 Film_Indonesia_tahun_1977
 289918 Film_Indonesia_tahun_1992
+289923 Sumber_daya_alam
 289931 Indonesia_dalam_tahun_2000
 289935 Indonesia_dalam_tahun_2002
 289937 Indonesia_dalam_tahun_2005
@@ -7255,7 +7260,6 @@
 303277 Organisasi_Katolik
 303290 Indonesia_dalam_tahun_2006
 303301 Indonesia_dalam_tahun_2004
-303303 Indonesia_dalam_tahun_1997
 303847 Desa_di_Kabupaten_Jeneponto
 303850 Desa_di_Kabupaten_Pidie
 303854 Desa_di_Kabupaten_Paser
@@ -8026,6 +8030,7 @@
 390575 Klub_sepak_bola_Lituania
 390780 Pemilihan_umum_di_Indonesia
 390940 Templat_navigasi_Australia
+390947 Templat_pranala
 390954 Gelanggang_olahraga_di_Indonesia
 391063 Tokoh_Tahun_Ini
 391066 Pemimpin_Perang_Dingin
@@ -10459,7 +10464,7 @@
 733114 Sirkuit_A1GP
 733409 Pembalap_F3000_Internasional
 733870 Album_rohani_Kristen
-734169 Pengusaha_Inggris
+734169 Wirausahawan_Inggris
 736426 Kejuaraan_Wimbledon_2011
 736478 Komunikasi_pemasaran
 736480 Buah_tropis
@@ -10607,6 +10612,7 @@
 766768 Cotabato
 766769 Munisipalitas_di_Cotabato
 766791 Sungai_di_Jawa_Tengah
+767126 Jenis_jalan
 767164 Templat_kotakinfo_autobahn
 767369 Pelatih_Real_Madrid
 767736 Pemain_Persija_Jakarta
@@ -10638,6 +10644,7 @@
 769675 Bone,_Bone_Bolango
 770142 Kedurang,_Bengkulu_Selatan
 770465 Adipati_Bohemia
+771013 Ibu_kota_terencana
 771070 Maguindanao
 771072 Munisipalitas_di_Maguindanao
 771102 Negros_Oriental
@@ -11059,6 +11066,7 @@
 829403 Stasiun_angkutan_cepat_di_Delhi
 829560 Lagu_tahun_2001
 829791 Cendekiawan_Muslim_Indonesia
+829797 Alumni_Universitas_Islam_Sumatera_Utara
 830161 Screen_Actors_Guild_Awards
 830517 Artikel_Islam_belum_dinilai
 830714 Pemeluk_Islam_pertama
@@ -12615,7 +12623,6 @@
 1474894 Politik_Tiongkok
 1474904 Peluru_kendali_darat_ke_udara_Republik_Rakyat_Tiongkok
 1474910 Peluru_kendali_jelajah_anti-kapal_Republik_Rakyat_Tiongkok
-1474921 Perang_di_Tiongkok
 1474927 Pertempuran_yang_melibatkan_Tiongkok
 1474929 Perang_Tiongkok-Jepang_Kedua
 1474933 Long_March_(keluarga_roket)
@@ -13273,6 +13280,7 @@
 1777626 Profesor_Indonesia
 1777778 Templat_hubungan_luar_negeri_menurut_negara
 1777779 Hubungan_bilateral_Korea_Selatan
+1777822 Hubungan_bilateral_Brunei
 1777826 Hubungan_bilateral_Filipina
 1777828 Hubungan_bilateral_Rusia
 1778407 Templat_senyawa_kimia
@@ -13292,6 +13300,7 @@
 1783226 Wartawan_Sunda
 1783317 Komikus_Indonesia
 1784337 Fauna_Papua_Nugini
+1784567 Tokoh_dari_Merauke
 1788392 Kanaan
 1788393 Mitologi_Mesopotamia
 1788408 Acara_Academy_Awards
@@ -13870,6 +13879,7 @@
 2078384 Munisipalitas_di_Holland_Selatan
 2079524 Pengguna_peserta_WikiLatih
 2080273 Seri_televisi_Indonesia_tahun_1997
+2080279 Sinetron_Indonesia_tahun_1996
 2080280 Sinetron_Indonesia_tahun_1997
 2080281 Sinetron_Indonesia_tahun_1998
 2080282 Sinetron_Indonesia_tahun_1999
@@ -13934,6 +13944,7 @@
 2112587 Funimation
 2112908 Orang_kudus_Kristen_abad_ke-4
 2113004 Super_Junior
+2113005 Festival_Film_Bandung
 2113008 Bangunan_dan_struktur_di_Kota_Surabaya
 2113451 Kota_di_Kelheim
 2113456 Kota_di_Oberallgäu
@@ -14202,7 +14213,7 @@
 2150123 Politik_Filipina
 2150164 Templat_transportasi_Indonesia
 2150176 Kementerian_Pertanian_Indonesia
-2151068 Templat_rute_kereta_api_di_Indonesia
+2151068 Templat_peta_rute_kereta_api_di_Indonesia
 2151302 Templat_yang_digunakan_oleh_Twinkle
 2151461 Film_tentang_narkoba
 2151529 Sejarah_Xinjiang
@@ -14216,7 +14227,7 @@
 2155725 Kelurahan_di_Kota_Medan
 2155778 Desa_di_Kabupaten_Garut
 2155793 Bromida
-2155990 Templat_peta_rute_rel_Indonesia
+2155990 Templat_jalur_kereta_api_di_Indonesia
 2156318 Pemain_sepak_bola_keturunan_Indonesia
 2156587 Aktivis_lingkungan_Indonesia
 2156592 Aktivis_lingkungan
@@ -14235,6 +14246,7 @@
 2159756 Iklan
 2159986 Desa_di_Kabupaten_Sukabumi
 2159989 Sekolah_menengah_atas_di_Kota_Medan
+2160334 Kereta_penumpang
 2161144 Istilah_permainan_video
 2161736 Terminal_bus_di_Jawa_Tengah
 2161738 Terminal_bus_di_Jawa_Barat
@@ -14781,6 +14793,7 @@
 2462987 Pelatih_Parma_Calcio_1913
 2462991 Pelatih_A.S._Roma
 2463001 Pelatih_F.C._Internazionale_Milano
+2463119 Pelatih_ACF_Fiorentina
 2463574 Pelatih_S.S.C._Napoli
 2463619 Pelatih_Palermo_F.C.
 2464424 Pemain_R.S.C._Anderlecht
@@ -14893,6 +14906,7 @@
 2504188 Munisipalitas_di_Friesland
 2505049 Munisipalitas_di_Holland_Utara
 2505473 Sibagot_ni_Pohan
+2506045 Politikus_dari_Paris
 2506277 Tokoh_Batak_Toba
 2506462 Politikus_Partai_Sosialis_Indonesia
 2506476 Politikus_Partai_Persatuan_Indonesia
@@ -14927,6 +14941,7 @@
 2518440 Situs_web_berita_Indonesia
 2518546 Hidangan_daging_kambing
 2518788 Roti_lapis
+2519451 Templat_kapal_militer_Indonesia
 2519822 Hidangan_daging_ayam
 2520114 Wanita_abad_ke-2_SM
 2520235 Pemeran_film_perempuan_Korea_Selatan
@@ -14965,7 +14980,6 @@
 2533210 Pengguna_peserta_WikiLatih_tanggal_1_Februari_2018
 2533488 Sinetron_Mega_Kreasi_Films
 2534005 Stasiun_kereta_api_yang_termasuk_dalam_Divre_II_Padang
-2534014 Stasiun_kereta_api_yang_termasuk_dalam_Divre_III_Palembang
 2534482 AKB48_Group
 2535040 Kosmologi_fisik
 2536577 Konten_Wikipedia_yang_tidak_pantas
@@ -15051,6 +15065,7 @@
 2578602 Tokoh_Spanyol_abad_ke-9
 2579330 Alkitab_bahasa_Inggris
 2579543 Grup_musik_yang_didirikan_tahun_2018
+2579765 Stasiun_Nanjing_Metro
 2580261 Manga_tahun_2011
 2580878 Bahasa_Abad_Pertengahan
 2580879 Bahasa_yang_telah_punah
@@ -15209,6 +15224,7 @@
 2651915 Templat_rute_Transjakarta
 2652060 Permainan_penjelajah_web
 2652697 Episode_The_X-Files_(musim_4)
+2653064 Templat_peta_rute_rel_KAI_Commuter
 2654776 Templat_navigasi_senjata_Perang_Dunia_II
 2655776 Permainan_video_yang_dikembangkan_di_Britania_Raya
 2656156 Pengguna_peserta_WikiLatih_tanggal_5_September_2018
@@ -15550,6 +15566,7 @@
 2763561 Pendirian_tahun_2017_di_Indonesia
 2763801 Pendirian_tahun_2015_di_Indonesia
 2763802 Pendirian_tahun_2014_di_Indonesia
+2763803 Pendirian_tahun_2013_di_Indonesia
 2763805 Pendirian_tahun_2011_di_Indonesia
 2763806 Pendirian_tahun_2010_di_Indonesia
 2763807 Pendirian_tahun_2009_di_Indonesia
@@ -15915,6 +15932,7 @@
 2892240 Duta_Besar_Indonesia_untuk_Laos
 2892361 Anggota_Knesset_ke-21_(2019)
 2892732 Duta_Besar_Indonesia_untuk_Prancis
+2892828 Duta_Besar_Indonesia_untuk_Kuwait
 2892985 Peserta_Maraton_Menuju_500.000
 2893809 Pengguna_peserta_WikiLatih_tanggal_7_September_2019
 2894324 Pengguna_peserta_WikiLatih_tanggal_8_September_2019
@@ -16240,6 +16258,7 @@
 3024926 Stadion_final_Piala_Dunia_FIFA
 3025394 Pengguna_peserta_WikiLatih_tanggal_21_Februari_2020
 3025974 Pengguna_peserta_WikiLatih_tanggal_22_Februari_2020
+3026642 Stasiun_MTR
 3027010 Peserta_Kontes_Lagu_Eurovision_2012
 3027013 Peserta_Kontes_Lagu_Eurovision_2016
 3027014 Peserta_Kontes_Lagu_Eurovision_2017
@@ -16438,6 +16457,7 @@
 3087266 Artikel_Medis_cukup_penting
 3087267 Artikel_Medis_NA
 3088386 Film_Korea_Selatan_tahun_2020
+3088418 Kontroversi_Wikipedia
 3088716 Paroki_di_Keuskupan_Agung_Pontianak
 3088807 Anggota_Knesset_ke-22_(2019–2020)
 3089337 Templat_navigasi_singel
@@ -16613,6 +16633,7 @@
 3141472 Partai_politik_Zionis_di_Israel
 3142483 Alumni_Universitas_17_Agustus_1945_Surabaya
 3142495 Alumni_Universitas_Amsterdam
+3142520 Alumni_Universitas_California_Selatan
 3142555 Alumni_Universitas_Erasmus_Rotterdam
 3142572 Alumni_Universitas_Glasgow
 3142592 Alumni_Universitas_Hong_Kong
@@ -16635,6 +16656,7 @@
 3144938 Komponis_klasik
 3144944 Pemusik_klasik_Rusia
 3146465 Daftar_penghargaan_yang_diterima_oleh_pemusik_Korea_Selatan
+3146686 Stasiun_Chengdu_Metro
 3146876 Stasiun_East_Japan_Railway_Company
 3148041 Penjelajahan_Bulan
 3148075 Komponis_zaman_Klasik
@@ -16648,7 +16670,6 @@
 3151283 Templat_rintisan_transportasi
 3151289 Templat_rintisan_perusahaan
 3153046 Tokoh_dari_Pangkep
-3153337 Tokoh_dari_Enrekang
 3153970 Gambar_sampul_video_anime
 3153997 Cabang_olahraga_pada_Olimpiade_Musim_Panas_2020
 3154247 Istilah_hukum_dalam_bahasa_Latin
@@ -16791,6 +16812,7 @@
 3203336 Dewan_Perwakilan_Rakyat_Daerah_Kabupaten/Kota_di_Sumatera_Utara
 3203339 Dewan_Perwakilan_Rakyat_Daerah_Kabupaten/Kota_di_Sumatera_Barat
 3203372 Kampung_di_Kabupaten_Merauke
+3203435 Dewan_Perwakilan_Rakyat_Daerah_Kabupaten/Kota_di_Jambi
 3203436 Dewan_Perwakilan_Rakyat_Daerah_Kabupaten/Kota_di_Sumatera_Selatan
 3203437 Dewan_Perwakilan_Rakyat_Daerah_Kabupaten/Kota_di_Lampung
 3203439 Dewan_Perwakilan_Rakyat_Daerah_Kabupaten/Kota_di_Jawa_Barat
@@ -17325,7 +17347,6 @@
 3334149 Alumni_Universitas_Tanjungpura
 3334195 Menteri_Jajahan_Belanda
 3334430 Pop_Jawa
-3334484 Aplikasi_seluler
 3334872 Film_yang_berdasarkan_pada_lagu_Indonesia
 3335354 Stasiun_kereta_api_di_Grobogan
 3335679 Muslim_Tionghoa
@@ -17334,6 +17355,7 @@
 3337165 Corak_cokelat
 3337174 Corak_hitam
 3337191 Corak_abu-abu
+3337263 Templat_format_dan_fungsi_Formula_Satu
 3338393 Tokoh_dari_Paramaribo
 3338816 Lagu_yang_ditulis_oleh_Jack_Antonoff
 3338818 Lagu_yang_ditulis_oleh_Taylor_Swift
@@ -17373,6 +17395,7 @@
 3342934 Pemilihan_umum_bupati_di_Maluku_Utara
 3342935 Pemilihan_umum_bupati_di_Papua_Barat
 3342936 Pemilihan_umum_bupati_di_Papua
+3343582 Siniar_Indonesia
 3343943 Batu
 3344954 Ekspresionisme_abstrak
 3345282 Pemilihan_kepala_daerah_di_Indonesia_tahun_2005
@@ -17480,6 +17503,7 @@
 3381893 Peserta_Proyek_Jatayu
 3382065 Tokoh_dari_Buenos_Aires
 3382093 Afrika-Belanda
+3382263 Belanda-Amerika
 3382267 Jerman-Amerika
 3383602 Pemeran_Pendukung_Pria_Terbaik_(Festival_Film_Indonesia)
 3383608 Pemain_pemenang_Piala_Dunia_FIFA
@@ -17517,6 +17541,7 @@
 3390474 Artikel_Menrva_penting
 3390754 Privasi_internet
 3390966 MOSFET
+3391045 Permainan_gacha
 3391177 Model_Thailand
 3393347 Ilmu_fotografi
 3394184 Artikel_Geografi_kelas_awal
@@ -17758,6 +17783,7 @@
 3612351 Usulan_penghapusan_yang_selesai_didiskusikan_2022
 3613318 Ester_asetat
 3613322 Ester_karboksilat
+3613585 Hidangan_tahu
 3613756 Daftar_stasiun_televisi_di_Indonesia
 3614109 Pemain_Persikabo_1973
 3614657 Alumni_Akademi_Angkatan_Laut_XXXVII/1991
@@ -17933,6 +17959,7 @@
 3723519 Sinetron_berbahasa_Jawa
 3724362 Tokoh_dari_Oxford
 3750904 Templat_West_Japan_Railway_Company
+3751449 Karakter_perempuan_dalam_permainan_video
 3751452 Protagonis_Nintendo
 3755100 Artikel_Geografi_kelas_kategori
 3755101 Bangunan_dan_struktur_di_Palembang
@@ -18467,7 +18494,6 @@
 3859530 Film_Korea_Selatan_tahun_2023
 3862042 Pengguna_peserta_WikiGap_tanggal_18_Maret_2023
 3863749 Pemilihan_kepala_daerah_di_Indonesia_tahun_2024
-3863751 Indonesia_dalam_tahun_2024
 3863993 Marga_Batak_Pakpak
 3864449 Acara_televisi_spesial_Ramadan
 3865070 Alumni_Akademi_Militer_1993
@@ -18737,6 +18763,7 @@
 4111451 Partai_politik_peserta_pemilihan_umum_legislatif_Indonesia_2009
 4112023 Semua_artikel_ProyekWiki_Palestina
 4113238 Partai_politik_peserta_pemilihan_umum_legislatif_Indonesia_1955
+4114561 Templat_undangan_ProyekWiki
 4116997 Desa_di_Kabupaten_Pulau_Taliabu
 4123467 Artikel_Tiongkok_kelas_rintisan_kurang_penting
 4123525 Artikel_Tiongkok_kelas_kategori
@@ -18793,6 +18820,7 @@
 4182264 Kampung_di_Kabupaten_Bener_Meriah
 4182271 Politikus_Partai_Buruh_(Belanda)
 4182274 Kampung_di_Kabupaten_Gayo_Lues
+4182923 Penulis_naskah_Amerika_Serikat_abad_ke-21
 4183727 Politikus_Partai_Rakyat_untuk_Kebebasan_dan_Demokrasi
 4183794 Kelurahan_di_Kabupaten_Tanjung_Jabung_Barat
 4183909 Politikus_Demokrat_66
@@ -18892,6 +18920,7 @@
 4239545 Anggota_DPR_RI_2024–2029
 4239817 Pemain_bulu_tangkis_putra_Malaysia
 4240069 Pemain_bulu_tangkis_putri_Malaysia
+4240108 Lagu_David_Guetta
 4240346 Katedral_Katolik_di_Nigeria
 4240356 Badan_Riset_dan_Inovasi_Nasional
 4240374 Katedral_Katolik_di_Pantai_Gading
@@ -18988,6 +19017,7 @@
 4260729 Katedral_Katolik_di_Chili
 4260926 Politikus_Partai_Rakyat_Mongolia
 4261040 County_di_Wyoming
+4261453 Bantuan_Alfabet_Fonetis_Internasional
 4261880 Sepak_bola_dalam_tahun_2024
 4261923 Artikel_Medis_kelas_kategori
 4262310 Katedral_Katolik_di_Guatemala
@@ -19100,7 +19130,6 @@
 4284007 Alat_musik_petik
 4284217 Penghambat_CYP2D6
 4284506 Obat_yang_dikembangkan_oleh_AbbVie
-4284521 Fluoroarena
 4284939 Basilika_di_Brasil
 4284986 Penghambat_CYP3A4
 4285093 Video_musik_yang_disutradarai_oleh_Dave_Meyers
@@ -19262,4 +19291,9 @@
 4338435 Tokoh_Bolaang_Mongondow_Raya
 4339275 Artikel_ProyekWiki_Ukraina
 4339299 Artikel_ProyekWiki_Argentina
+4344191 Artikel_ProyekWiki_Prancis
 4344974 Artikel_Rusia_kelas_portal
+4349130 Pengguna_peserta_WikiLatih_tanggal_12_Februari_2023
+4349863 Penghargaan_permainan_video
+4350280 Templat_transportasi_rel_Australia
+4352340 Artikel_Taksonomi_kelas_templat

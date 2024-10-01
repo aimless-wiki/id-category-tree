@@ -1,1 +1,1 @@
-{"name": "Tokoh_Armenia", "id": 133555, "predecessors": [{"name": "Armenia", "id": 21609}, {"name": "Kewarganegaraan", "id": 266812}, {"name": "Asia", "id": 10800}, {"name": "Eropa", "id": 15962}], "successors": []}
+{"name": "Tokoh_Armenia", "id": 133555, "predecessors": [{"name": "Armenia", "id": 21609}, {"name": "Tokoh_Eropa", "id": 231042}, {"name": "Kewarganegaraan", "id": 266812}, {"name": "Asia", "id": 10800}], "successors": []}

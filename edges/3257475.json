@@ -1,1 +1,1 @@
-{"name": "Pemeran_film_perempuan_Ceko", "id": 3257475, "predecessors": [{"name": "Hiburan", "id": 8543}, {"name": "Eropa", "id": 15962}, {"name": "Pemeran", "id": 104365}, {"name": "Film_Ceko", "id": 2175732}], "successors": []}
+{"name": "Pemeran_film_perempuan_Ceko", "id": 3257475, "predecessors": [{"name": "Hiburan", "id": 8543}, {"name": "Tokoh_Eropa", "id": 231042}, {"name": "Pemeran", "id": 104365}, {"name": "Film_Ceko", "id": 2175732}], "successors": []}

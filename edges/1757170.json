@@ -1,1 +1,1 @@
-{"name": "Kabel_komunikasi_bawah_laut", "id": 1757170, "predecessors": [{"name": "Peralatan_telekomunikasi", "id": 123060}, {"name": "Elektronika", "id": 17194}, {"name": "Telekomunikasi", "id": 13805}, {"name": "Kapal", "id": 46507}], "successors": []}
+{"name": "Kabel_komunikasi_bawah_laut", "id": 1757170, "predecessors": [{"name": "Peralatan_telekomunikasi", "id": 123060}, {"name": "Elektronika", "id": 17194}, {"name": "Telekomunikasi", "id": 13805}, {"name": "Kapal", "id": 46507}, {"name": "Konstruksi_pantai", "id": 273467}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Konstruksi_pantai", "id": 273467, "predecessors": [{"name": "Transportasi_air", "id": 14537}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Disiplin_teknik", "id": 269991}], "successors": []}
+{"name": "Konstruksi_pantai", "id": 273467, "predecessors": [{"name": "Transportasi_air", "id": 14537}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Disiplin_teknik", "id": 269991}], "successors": [{"name": "Kabel_komunikasi_bawah_laut", "id": 1757170}]}
