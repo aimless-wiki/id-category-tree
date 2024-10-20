@@ -1,1 +1,1 @@
-{"name": "Obat_enantiomerik_murni", "id": 4289560, "predecessors": [{"name": "Stereokimia", "id": 321564}], "successors": []}
+{"name": "Obat_enantiomerik_murni", "id": 4289560, "predecessors": [{"name": "Stereokimia", "id": 321564}, {"name": "Obat", "id": 34699}], "successors": []}

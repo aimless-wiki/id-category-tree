@@ -1,1 +1,1 @@
-{"name": "Antioksidan", "id": 127663, "predecessors": [{"name": "Senyawa_organik", "id": 16703}, {"name": "Biokimia", "id": 48164}], "successors": []}
+{"name": "Antioksidan", "id": 127663, "predecessors": [{"name": "Biokimia", "id": 48164}, {"name": "Proses_kimia", "id": 62224}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Perubahan_iklim", "id": 135954, "predecessors": [{"name": "Iklim", "id": 15177}, {"name": "Klimatologi", "id": 48579}, {"name": "Lingkungan", "id": 48598}], "successors": [{"name": "Gas_rumah_kaca", "id": 136482}]}
+{"name": "Perubahan_iklim", "id": 135954, "predecessors": [{"name": "Iklim", "id": 15177}, {"name": "Klimatologi", "id": 48579}, {"name": "Lingkungan", "id": 48598}], "successors": [{"name": "Gas_rumah_kaca", "id": 136482}, {"name": "Pemanasan_global", "id": 1398085}]}

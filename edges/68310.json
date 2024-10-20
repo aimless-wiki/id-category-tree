@@ -1,1 +1,1 @@
-{"name": "Cahaya", "id": 68310, "predecessors": [{"name": "Fisika", "id": 8523}, {"name": "Optika", "id": 452774}], "successors": [{"name": "Pencahayaan", "id": 141838}, {"name": "Bahan_peledak", "id": 76267}]}
+{"name": "Cahaya", "id": 68310, "predecessors": [{"name": "Fisika", "id": 8523}, {"name": "Optika", "id": 452774}], "successors": [{"name": "Pencahayaan", "id": 141838}, {"name": "Bahan_peledak", "id": 76267}, {"name": "Fotosintesis", "id": 358642}]}

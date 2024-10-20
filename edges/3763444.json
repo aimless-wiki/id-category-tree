@@ -1,1 +1,1 @@
-{"name": "Ikan_Samudra_Hindia", "id": 3763444, "predecessors": [{"name": "Ikan_laut", "id": 588567}, {"name": "Samudra_Hindia", "id": 224525}], "successors": [{"name": "Ikan_Laut_Merah", "id": 3769797}]}
+{"name": "Ikan_Samudra_Hindia", "id": 3763444, "predecessors": [{"name": "Ikan_laut", "id": 588567}, {"name": "Air", "id": 60051}], "successors": [{"name": "Ikan_Laut_Merah", "id": 3769797}]}

@@ -1,1 +1,1 @@
-{"name": "Sirkuit_World_Superbike", "id": 600552, "predecessors": [{"name": "Balap_mobil", "id": 37232}], "successors": []}
+{"name": "Sirkuit_Kejuaraan_Dunia_Superbike", "id": 600552, "predecessors": [{"name": "Balap_mobil", "id": 37232}, {"name": "Cabang_olahraga", "id": 140076}], "successors": []}

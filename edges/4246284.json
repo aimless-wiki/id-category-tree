@@ -1,1 +1,1 @@
-{"name": "Bahan_kimia_untuk_darurat_medis", "id": 4246284, "predecessors": [{"name": "Bahan", "id": 24992}, {"name": "Farmasi", "id": 70753}], "successors": []}
+{"name": "Bahan_kimia_untuk_darurat_medis", "id": 4246284, "predecessors": [{"name": "Bahan", "id": 24992}, {"name": "Farmasi", "id": 70753}, {"name": "Tindakan_medis", "id": 129903}], "successors": []}

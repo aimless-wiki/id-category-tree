@@ -1,1 +1,1 @@
-{"name": "Kendaraan_Mitsubishi", "id": 201830, "predecessors": [{"name": "Perusahaan_otomotif_Jepang", "id": 307302}, {"name": "Industri", "id": 30058}], "successors": []}
+{"name": "Kendaraan_Mitsubishi", "id": 201830, "predecessors": [{"name": "Industri", "id": 30058}, {"name": "Perusahaan_Jepang", "id": 16933}], "successors": []}

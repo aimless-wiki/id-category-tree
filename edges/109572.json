@@ -1,1 +1,1 @@
-{"name": "Tokoh_Hindu", "id": 109572, "predecessors": [{"name": "Agama", "id": 8495}], "successors": [{"name": "Filsuf_Hindu", "id": 112994}, {"name": "Resi", "id": 757399}, {"name": "Penulis_Hindu", "id": 2622071}]}
+{"name": "Tokoh_Hindu", "id": 109572, "predecessors": [{"name": "Hindu", "id": 10790}, {"name": "Agama", "id": 8495}], "successors": [{"name": "Filsuf_Hindu", "id": 112994}, {"name": "Resi", "id": 757399}, {"name": "Penulis_Hindu", "id": 2622071}]}

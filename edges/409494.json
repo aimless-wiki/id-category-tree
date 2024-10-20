@@ -1,1 +1,1 @@
-{"name": "Pesawat_terbang_Mitsubishi", "id": 409494, "predecessors": [{"name": "Pesawat", "id": 314447}, {"name": "Perusahaan_otomotif_Jepang", "id": 307302}, {"name": "Penerbangan", "id": 199725}], "successors": []}
+{"name": "Pesawat_terbang_Mitsubishi", "id": 409494, "predecessors": [{"name": "Pesawat", "id": 314447}, {"name": "Penerbangan", "id": 199725}, {"name": "Perusahaan_Jepang", "id": 16933}], "successors": []}

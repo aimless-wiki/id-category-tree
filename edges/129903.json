@@ -1,1 +1,1 @@
-{"name": "Tindakan_medis", "id": 129903, "predecessors": [{"name": "Kedokteran", "id": 37780}], "successors": [{"name": "Obat", "id": 34699}, {"name": "Bedah", "id": 122067}, {"name": "Terapi", "id": 129670}]}
+{"name": "Tindakan_medis", "id": 129903, "predecessors": [{"name": "Kedokteran", "id": 37780}], "successors": [{"name": "Obat", "id": 34699}, {"name": "Bedah", "id": 122067}, {"name": "Terapi", "id": 129670}, {"name": "Bahan_kimia_untuk_darurat_medis", "id": 4246284}]}

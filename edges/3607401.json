@@ -1,0 +1,1 @@
+{"name": "Permainan_video_pemain_tunggal", "id": 3607401, "predecessors": [{"name": "Permainan_video", "id": 16866}, {"name": "Permainan", "id": 8563}], "successors": [{"name": "Permainan_video_multipemain_dan_pemain_tunggal", "id": 2073544}]}

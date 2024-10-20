@@ -1,1 +1,1 @@
-{"name": "Rempah-rempah", "id": 269274, "predecessors": [{"name": "Bahan_makanan", "id": 65726}, {"name": "Bumbu", "id": 68235}, {"name": "Hasil_hutan_non-kayu", "id": 1188978}, {"name": "Herba", "id": 269275}, {"name": "Tumbuhan_obat", "id": 86099}], "successors": []}
+{"name": "Rempah-rempah", "id": 269274, "predecessors": [{"name": "Bahan_makanan", "id": 65726}, {"name": "Bumbu", "id": 68235}, {"name": "Hasil_hutan_non-kayu", "id": 1188978}, {"name": "Herba", "id": 269275}, {"name": "Tumbuhan_obat", "id": 86099}], "successors": [{"name": "Wedang", "id": 4355057}]}

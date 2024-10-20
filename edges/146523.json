@@ -1,1 +1,1 @@
-{"name": "Dewan_Perwakilan_Rakyat_Republik_Indonesia", "id": 146523, "predecessors": [{"name": "Administrasi_publik", "id": 388025}], "successors": [{"name": "Anggota_Dewan_Perwakilan_Rakyat_Republik_Indonesia", "id": 69925}]}
+{"name": "Dewan_Perwakilan_Rakyat_Republik_Indonesia", "id": 146523, "predecessors": [{"name": "Administrasi_publik", "id": 388025}, {"name": "Pemerintahan_Indonesia", "id": 146279}], "successors": [{"name": "Anggota_Dewan_Perwakilan_Rakyat_Republik_Indonesia", "id": 69925}]}

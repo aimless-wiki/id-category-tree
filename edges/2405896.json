@@ -1,1 +1,1 @@
-{"name": "Karboksamida", "id": 2405896, "predecessors": [{"name": "Senyawa_nitrogen", "id": 317292}, {"name": "Senyawa_karbon", "id": 132849}], "successors": [{"name": "Laktam", "id": 864748}]}
+{"name": "Karboksamida", "id": 2405896, "predecessors": [{"name": "Senyawa_nitrogen", "id": 317292}, {"name": "Senyawa_karbon", "id": 132849}], "successors": [{"name": "Laktam", "id": 864748}, {"name": "Asetamida", "id": 4284966}]}

@@ -1,1 +1,1 @@
-{"name": "Sirkuit_MotoGP", "id": 600095, "predecessors": [{"name": "Grand_Prix_Sepeda_Motor", "id": 883683}, {"name": "Balap_mobil", "id": 37232}], "successors": []}
+{"name": "Sirkuit_Grand_Prix_Sepeda_Motor", "id": 600095, "predecessors": [{"name": "Grand_Prix_Sepeda_Motor", "id": 883683}, {"name": "Balap_mobil", "id": 37232}], "successors": []}

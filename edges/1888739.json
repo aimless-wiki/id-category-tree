@@ -1,1 +1,1 @@
-{"name": "Satelit_GPS", "id": 1888739, "predecessors": [{"name": "Bumi", "id": 58863}, {"name": "Geodesi", "id": 37489}, {"name": "Satelit", "id": 25716}], "successors": []}
+{"name": "Satelit_GPS", "id": 1888739, "predecessors": [{"name": "Bumi", "id": 58863}, {"name": "Geodesi", "id": 37489}, {"name": "Ilmu", "id": 48575}], "successors": []}

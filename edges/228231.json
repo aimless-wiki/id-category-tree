@@ -1,1 +1,1 @@
-{"name": "Cokelat", "id": 228231, "predecessors": [{"name": "Makanan_ringan", "id": 68406}, {"name": "Produk_susu", "id": 100913}], "successors": []}
+{"name": "Cokelat", "id": 228231, "predecessors": [{"name": "Makanan_ringan", "id": 68406}, {"name": "Produk_susu", "id": 100913}], "successors": [{"name": "Lagu_Cokelat_(grup_musik)", "id": 4352321}]}

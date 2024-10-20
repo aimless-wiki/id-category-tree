@@ -1,1 +1,1 @@
-{"name": "Ikan_Samudra_Atlantik", "id": 3723341, "predecessors": [{"name": "Ikan_laut", "id": 588567}, {"name": "Bentang_alam", "id": 58297}], "successors": []}
+{"name": "Ikan_Samudra_Atlantik", "id": 3723341, "predecessors": [{"name": "Ikan_laut", "id": 588567}, {"name": "Air", "id": 60051}], "successors": []}
