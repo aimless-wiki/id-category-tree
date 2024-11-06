@@ -1,1 +1,1 @@
-{"name": "Acara_televisi_berlisensi_Internasional", "id": 1864106, "predecessors": [{"name": "Acara_kuis_Indonesia", "id": 773735}, {"name": "Acara_televisi", "id": 45903}], "successors": [{"name": "MasterChef_Indonesia", "id": 1875597}]}
+{"name": "Acara_televisi_berlisensi_Internasional", "id": 1864106, "predecessors": [{"name": "Acara_kuis_Indonesia", "id": 773735}, {"name": "Acara_televisi", "id": 45903}], "successors": [{"name": "Acara_kuis_berlisensi_internasional", "id": 780122}, {"name": "MasterChef_Indonesia", "id": 1875597}]}

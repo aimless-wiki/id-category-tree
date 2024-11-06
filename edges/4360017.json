@@ -1,1 +1,1 @@
-{"name": "Unsur_kimia_yang_salah_diidentifikasi", "id": 4360017, "predecessors": [{"name": "Unsur_kimia", "id": 13767}, {"name": "Komunikasi_manusia", "id": 132522}, {"name": "Kimia", "id": 6255}], "successors": []}
+{"name": "Unsur_kimia_yang_salah_diidentifikasi", "id": 4360017, "predecessors": [{"name": "Unsur_kimia", "id": 13767}, {"name": "Pemeliharaan_Wikipedia", "id": 51259}, {"name": "Kimia", "id": 6255}], "successors": []}

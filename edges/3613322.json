@@ -1,1 +1,1 @@
-{"name": "Ester_karboksilat", "id": 3613322, "predecessors": [{"name": "Ester", "id": 184849}, {"name": "Senyawa_karbon", "id": 132849}], "successors": [{"name": "Ester_asetat", "id": 3613318}]}
+{"name": "Ester_karboksilat", "id": 3613322, "predecessors": [{"name": "Ester", "id": 184849}, {"name": "Senyawa_karbon", "id": 132849}], "successors": [{"name": "Karbamat", "id": 2126388}, {"name": "Ester_asetat", "id": 3613318}]}

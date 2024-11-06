@@ -1,1 +1,1 @@
-{"name": "Penulis_lagu_Indonesia", "id": 14444, "predecessors": [{"name": "Pemusik_Indonesia", "id": 75251}], "successors": [{"name": "Penyanyi-penulis_lagu_Indonesia", "id": 3806710}]}
+{"name": "Penulis_lagu_Indonesia", "id": 14444, "predecessors": [{"name": "Pemusik_Indonesia", "id": 75251}, {"name": "Pencipta_lagu", "id": 1076435}], "successors": [{"name": "Penyanyi-penulis_lagu_Indonesia", "id": 3806710}]}

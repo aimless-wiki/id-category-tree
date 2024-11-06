@@ -1,1 +1,1 @@
-{"name": "Kelenjar", "id": 82899, "predecessors": [{"name": "Anatomi", "id": 15993}], "successors": [{"name": "Sistem_endokrin", "id": 65862}]}
+{"name": "Kelenjar", "id": 82899, "predecessors": [{"name": "Anatomi", "id": 15993}], "successors": [{"name": "Sistem_endokrin", "id": 65862}, {"name": "Glukokortikoid", "id": 4299298}]}

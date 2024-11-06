@@ -1,1 +1,1 @@
-{"name": "Kue", "id": 75324, "predecessors": [{"name": "Makanan", "id": 19275}], "successors": [{"name": "Pastri", "id": 142886}, {"name": "Kue_Indonesia", "id": 2117844}]}
+{"name": "Kue", "id": 75324, "predecessors": [{"name": "Makanan", "id": 19275}], "successors": [{"name": "Pastri", "id": 142886}, {"name": "Kue_Jepang", "id": 1030996}, {"name": "Kue_Indonesia", "id": 2117844}]}
