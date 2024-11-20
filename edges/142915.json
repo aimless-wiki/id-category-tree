@@ -1,0 +1,1 @@
+{"name": "Pelayanan_kesehatan", "id": 142915, "predecessors": [{"name": "Ilmu_kesehatan", "id": 129904}, {"name": "Administrasi_publik", "id": 388025}, {"name": "Industri", "id": 30058}], "successors": [{"name": "Rumah_sakit", "id": 21384}, {"name": "Obat", "id": 34699}, {"name": "Diet", "id": 69704}]}

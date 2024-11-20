@@ -1,1 +1,1 @@
-{"name": "User_ban", "id": 61177, "predecessors": [{"name": "Pengguna_Wikipedia", "id": 1685186}], "successors": [{"name": "User_ban-N", "id": 61181}]}
+{"name": "User_ban", "id": 61177, "predecessors": [{"name": "Pengguna_Wikipedia", "id": 1685186}], "successors": [{"name": "User_ban-1", "id": 61178}, {"name": "User_ban-N", "id": 61181}]}

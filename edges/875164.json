@@ -1,1 +1,1 @@
-{"name": "Kepanduan", "id": 875164, "predecessors": [{"name": "Hiburan", "id": 8543}, {"name": "Organisasi", "id": 33782}], "successors": [{"name": "Pramuka", "id": 28179}]}
+{"name": "Kepanduan", "id": 875164, "predecessors": [{"name": "Organisasi_pemuda", "id": 816151}, {"name": "Hiburan", "id": 8543}], "successors": [{"name": "Pramuka", "id": 28179}]}

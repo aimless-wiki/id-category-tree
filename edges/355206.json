@@ -1,1 +1,1 @@
-{"name": "Perikanan", "id": 355206, "predecessors": [{"name": "Pertanian", "id": 8530}], "successors": [{"name": "Ilmu_perikanan", "id": 1169638}, {"name": "Budi_daya_perairan", "id": 1760327}, {"name": "Makanan_laut", "id": 2741863}]}
+{"name": "Perikanan", "id": 355206, "predecessors": [{"name": "Pertanian", "id": 8530}], "successors": [{"name": "Ilmu_perikanan", "id": 1169638}, {"name": "Alat_tangkap_ikan", "id": 1473033}, {"name": "Budi_daya_perairan", "id": 1760327}, {"name": "Makanan_laut", "id": 2741863}]}

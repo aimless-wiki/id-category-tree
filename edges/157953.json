@@ -1,1 +1,1 @@
-{"name": "Perbankan", "id": 157953, "predecessors": [{"name": "Keuangan", "id": 15188}], "successors": [{"name": "Bank", "id": 14882}, {"name": "Perdagangan_elektronik", "id": 188734}]}
+{"name": "Perbankan", "id": 157953, "predecessors": [{"name": "Keuangan", "id": 15188}], "successors": [{"name": "Bank", "id": 14882}, {"name": "Ekonomi_Islam", "id": 824801}, {"name": "Perdagangan_elektronik", "id": 188734}]}

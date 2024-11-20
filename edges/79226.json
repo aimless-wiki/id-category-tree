@@ -1,1 +1,1 @@
-{"name": "Fisiologi_tumbuhan", "id": 79226, "predecessors": [{"name": "Botani", "id": 42580}, {"name": "Fisiologi", "id": 45012}, {"name": "Tumbuhan", "id": 26337}], "successors": [{"name": "Fotosintesis", "id": 358642}]}
+{"name": "Fisiologi_tumbuhan", "id": 79226, "predecessors": [{"name": "Botani", "id": 42580}, {"name": "Fisiologi", "id": 45012}, {"name": "Tumbuhan", "id": 26337}], "successors": [{"name": "Fotosintesis", "id": 358642}, {"name": "Pupuk_organik", "id": 1424201}]}

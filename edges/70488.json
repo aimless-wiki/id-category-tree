@@ -1,0 +1,1 @@
+{"name": "Kopi", "id": 70488, "predecessors": [{"name": "Minuman", "id": 16067}, {"name": "Tanaman_pertanian", "id": 1272675}], "successors": [{"name": "Merek_kopi", "id": 1053458}, {"name": "Minuman_kopi", "id": 3249272}, {"name": "Starbucks", "id": 1053337}, {"name": "Kopi_di_Indonesia", "id": 3705507}]}

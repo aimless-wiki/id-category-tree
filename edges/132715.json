@@ -1,0 +1,1 @@
+{"name": "DNS", "id": 132715, "predecessors": [{"name": "Arsitektur_internet", "id": 132717}, {"name": "Protokol_lapisan_aplikasi", "id": 132716}, {"name": "Protokol_Internet", "id": 132711}], "successors": [{"name": "Ranah_internet_tingkat_teratas", "id": 58675}]}

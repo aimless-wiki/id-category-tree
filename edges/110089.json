@@ -1,1 +1,1 @@
-{"name": "Metode_ilmiah", "id": 110089, "predecessors": [{"name": "Ilmu", "id": 48575}], "successors": [{"name": "Penelitian", "id": 110088}, {"name": "Metode_laboratorium", "id": 181064}]}
+{"name": "Metode_ilmiah", "id": 110089, "predecessors": [{"name": "Ilmu", "id": 48575}], "successors": [{"name": "Penelitian", "id": 110088}, {"name": "Metode_laboratorium", "id": 181064}, {"name": "Teknologi_hipotetis", "id": 3361157}]}

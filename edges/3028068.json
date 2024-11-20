@@ -1,1 +1,1 @@
-{"name": "World_Wide_Web", "id": 3028068, "predecessors": [{"name": "Internet", "id": 8541}], "successors": [{"name": "Situs_web", "id": 21287}, {"name": "Aplikasi_web", "id": 132492}, {"name": "Web_2.0", "id": 222325}, {"name": "Media_sosial", "id": 1588051}]}
+{"name": "World_Wide_Web", "id": 3028068, "predecessors": [{"name": "Internet", "id": 8541}], "successors": [{"name": "Situs_web", "id": 21287}, {"name": "Aplikasi_web", "id": 132492}, {"name": "Web_2.0", "id": 222325}, {"name": "Perusahaan_daring", "id": 1101681}, {"name": "Media_sosial", "id": 1588051}]}

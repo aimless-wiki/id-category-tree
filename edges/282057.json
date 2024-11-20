@@ -1,1 +1,1 @@
-{"name": "Minuman_non-alkohol", "id": 282057, "predecessors": [{"name": "Minuman", "id": 16067}], "successors": [{"name": "Teh", "id": 21977}, {"name": "Susu", "id": 121772}, {"name": "Wedang", "id": 4355057}]}
+{"name": "Minuman_non-alkohol", "id": 282057, "predecessors": [{"name": "Minuman", "id": 16067}], "successors": [{"name": "Teh", "id": 21977}, {"name": "Susu", "id": 121772}, {"name": "Wedang", "id": 4355057}, {"name": "Sari_buah", "id": 202048}]}

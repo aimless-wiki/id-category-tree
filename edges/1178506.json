@@ -1,0 +1,1 @@
+{"name": "Mesin_pertanian", "id": 1178506, "predecessors": [{"name": "Teknik_pertanian", "id": 1168416}, {"name": "Industri", "id": 30058}, {"name": "Teknik_mesin", "id": 103474}, {"name": "Ekologi_perairan", "id": 132744}], "successors": [{"name": "Irigasi", "id": 111152}]}

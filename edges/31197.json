@@ -1,1 +1,1 @@
-{"name": "Arsitektur_Islam", "id": 31197, "predecessors": [{"name": "Islam", "id": 9099}, {"name": "Agama", "id": 8495}], "successors": [{"name": "Masjid", "id": 45803}, {"name": "Mazhab", "id": 55057}]}
+{"name": "Arsitektur_Islam", "id": 31197, "predecessors": [{"name": "Islam", "id": 9099}, {"name": "Agama", "id": 8495}], "successors": [{"name": "Ka'bah", "id": 762939}, {"name": "Arsitektur_Mughal", "id": 1865437}, {"name": "Masjid", "id": 45803}, {"name": "Mazhab", "id": 55057}]}

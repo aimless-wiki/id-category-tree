@@ -1,1 +1,1 @@
-{"name": "Amunisi", "id": 137492, "predecessors": [{"name": "Senjata_api", "id": 65696}], "successors": [{"name": "Peluru", "id": 137491}, {"name": "Bom", "id": 13756}, {"name": "Hulu_ledak_nuklir_Amerika_Serikat", "id": 4175815}]}
+{"name": "Amunisi", "id": 137492, "predecessors": [{"name": "Senjata_api", "id": 65696}], "successors": [{"name": "Senjata_peledak", "id": 109686}, {"name": "Peluru", "id": 137491}, {"name": "Propelan_roket", "id": 1400546}, {"name": "Hulu_ledak_nuklir_Amerika_Serikat", "id": 4175815}]}

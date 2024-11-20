@@ -1,1 +1,1 @@
-{"name": "Hidangan_daging_babi", "id": 2525362, "predecessors": [{"name": "Daging", "id": 68226}], "successors": []}
+{"name": "Hidangan_daging_babi", "id": 2525362, "predecessors": [{"name": "Babi", "id": 573761}, {"name": "Daging", "id": 68226}], "successors": []}

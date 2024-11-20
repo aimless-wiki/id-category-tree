@@ -1,1 +1,1 @@
-{"name": "Analisis_numerik", "id": 143391, "predecessors": [{"name": "Algoritme", "id": 62627}, {"name": "Ilmu_terapan", "id": 51290}, {"name": "Ilmu_komputer", "id": 48193}, {"name": "Analisis", "id": 143393}], "successors": []}
+{"name": "Analisis_numerik", "id": 143391, "predecessors": [{"name": "Algoritme", "id": 62627}, {"name": "Analisis_matematika", "id": 143392}, {"name": "Ilmu_terapan", "id": 51290}, {"name": "Ilmu_komputer", "id": 48193}], "successors": []}

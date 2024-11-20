@@ -1,0 +1,1 @@
+{"name": "Propelan_roket", "id": 1400546, "predecessors": [{"name": "Bahan_bakar_roket", "id": 1398163}, {"name": "Komponen_wahana_antariksa", "id": 3114122}, {"name": "Amunisi", "id": 137492}, {"name": "Mesin_jet", "id": 183656}], "successors": [{"name": "Mesin_roket_yang_menggunakan_propelan_hipergolik", "id": 4362600}]}

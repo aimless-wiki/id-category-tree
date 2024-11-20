@@ -1,1 +1,1 @@
-{"name": "Roket_tahap_atas", "id": 1876645, "predecessors": [{"name": "Mesin_roket", "id": 594530}], "successors": []}
+{"name": "Roket_tahap_atas", "id": 1876645, "predecessors": [{"name": "Kendaraan_peluncur_antariksa", "id": 3250544}, {"name": "Mesin_roket", "id": 594530}, {"name": "Kendaraan", "id": 14396}], "successors": []}

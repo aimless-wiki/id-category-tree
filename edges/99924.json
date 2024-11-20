@@ -1,1 +1,1 @@
-{"name": "Taman", "id": 99924, "predecessors": [{"name": "Tempat_wisata", "id": 56974}, {"name": "Hiburan", "id": 8543}], "successors": [{"name": "Film_Universal_Pictures", "id": 2176048}]}
+{"name": "Taman", "id": 99924, "predecessors": [{"name": "Tempat_wisata", "id": 56974}, {"name": "Hiburan", "id": 8543}], "successors": [{"name": "Taman_hiburan_di_Indonesia", "id": 239065}, {"name": "Film_Universal_Pictures", "id": 2176048}, {"name": "Film_Illumination_Entertainment", "id": 2379742}]}

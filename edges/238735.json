@@ -1,1 +1,1 @@
-{"name": "Daftar_presiden", "id": 238735, "predecessors": [{"name": "Daftar_pemimpin_negara", "id": 12199}, {"name": "Kepala_negara", "id": 49022}], "successors": []}
+{"name": "Daftar_presiden", "id": 238735, "predecessors": [{"name": "Daftar_pemimpin_negara", "id": 12199}, {"name": "Presiden", "id": 6120}], "successors": []}

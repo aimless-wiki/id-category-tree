@@ -1,1 +1,1 @@
-{"name": "Antiperadangan_nonsteroid", "id": 200295, "predecessors": [{"name": "Analgesik", "id": 200293}, {"name": "Farmakologi", "id": 70754}, {"name": "Anatomi", "id": 15993}], "successors": []}
+{"name": "Antiperadangan_nonsteroid", "id": 200295, "predecessors": [{"name": "Analgesik", "id": 200293}, {"name": "Antiinflamasi", "id": 4258600}, {"name": "Antipiretik", "id": 4204958}], "successors": []}

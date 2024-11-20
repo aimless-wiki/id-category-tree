@@ -1,1 +1,1 @@
-{"name": "Hidangan_Inggris", "id": 288283, "predecessors": [{"name": "Hidangan", "id": 288276}], "successors": [{"name": "Keju_Inggris", "id": 529981}]}
+{"name": "Hidangan_Inggris", "id": 288283, "predecessors": [{"name": "Hidangan_Eropa", "id": 303874}, {"name": "Hidangan", "id": 288276}], "successors": [{"name": "Keju_Inggris", "id": 529981}]}

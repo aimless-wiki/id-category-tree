@@ -1,1 +1,1 @@
-{"name": "Makanan_pokok", "id": 1419560, "predecessors": [{"name": "Makanan", "id": 19275}], "successors": [{"name": "Roti", "id": 228224}, {"name": "Serealia", "id": 268569}, {"name": "Hidangan_kentang", "id": 1760319}]}
+{"name": "Makanan_pokok", "id": 1419560, "predecessors": [{"name": "Makanan", "id": 19275}], "successors": [{"name": "Nasi", "id": 39251}, {"name": "Roti", "id": 228224}, {"name": "Serealia", "id": 268569}, {"name": "Hidangan_kentang", "id": 1760319}]}

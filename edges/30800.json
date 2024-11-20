@@ -1,1 +1,1 @@
-{"name": "Kepolisian", "id": 30800, "predecessors": [{"name": "Hukum", "id": 8535}], "successors": [{"name": "Kepolisian_Negara_Republik_Indonesia", "id": 469964}]}
+{"name": "Kepolisian", "id": 30800, "predecessors": [{"name": "Penegakan_hukum", "id": 133450}, {"name": "Hukum", "id": 8535}], "successors": [{"name": "Kepolisian_Negara_Republik_Indonesia", "id": 469964}]}

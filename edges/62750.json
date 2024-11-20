@@ -1,1 +1,1 @@
-{"name": "Kalkulus", "id": 62750, "predecessors": [{"name": "Matematika", "id": 8519}], "successors": [{"name": "Integral", "id": 62748}, {"name": "Persamaan_diferensial", "id": 144193}]}
+{"name": "Kalkulus", "id": 62750, "predecessors": [{"name": "Matematika", "id": 8519}], "successors": [{"name": "Integral", "id": 62748}, {"name": "Persamaan_diferensial", "id": 144193}, {"name": "Kalkulus_diferensial", "id": 434517}]}

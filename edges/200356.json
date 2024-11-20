@@ -1,1 +1,1 @@
-{"name": "Satelit_buatan_yang_mengorbit_Bumi", "id": 200356, "predecessors": [{"name": "Satelit", "id": 25716}], "successors": [{"name": "Satelit_observasi_Bumi", "id": 406827}]}
+{"name": "Satelit_buatan_yang_mengorbit_Bumi", "id": 200356, "predecessors": [{"name": "Satelit", "id": 25716}], "successors": [{"name": "Satelit_observasi_Bumi", "id": 406827}, {"name": "Satelit_komunikasi_di_orbit_geostasioner", "id": 1890924}]}

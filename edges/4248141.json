@@ -1,1 +1,1 @@
-{"name": "Eter_fenol", "id": 4248141, "predecessors": [{"name": "Senyawa_kimia", "id": 16704}, {"name": "Eter", "id": 306197}], "successors": []}
+{"name": "Eter_fenol", "id": 4248141, "predecessors": [{"name": "Senyawa_fenil", "id": 2405899}, {"name": "Eter", "id": 306197}], "successors": []}

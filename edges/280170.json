@@ -1,1 +1,1 @@
-{"name": "Peluru_kendali_jelajah", "id": 280170, "predecessors": [{"name": "Peluru_kendali", "id": 78394}, {"name": "Pesawat", "id": 314447}], "successors": [{"name": "Peluru_kendali_jelajah_anti_kapal", "id": 1390013}]}
+{"name": "Peluru_kendali_jelajah", "id": 280170, "predecessors": [{"name": "Peluru_kendali", "id": 78394}, {"name": "Pesawat_militer_nirawak", "id": 3213907}], "successors": [{"name": "Peluru_kendali_jelajah_anti_kapal", "id": 1390013}]}

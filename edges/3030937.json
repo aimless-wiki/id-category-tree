@@ -1,1 +1,1 @@
-{"name": "Tokoh_Kedah", "id": 3030937, "predecessors": [{"name": "Tokoh_Malaysia", "id": 32254}, {"name": "Wilayah_administratif_tingkat_satu", "id": 308742}], "successors": [{"name": "Rintisan_biografi_Kedah", "id": 953381}]}
+{"name": "Tokoh_Kedah", "id": 3030937, "predecessors": [{"name": "Kedah", "id": 194166}, {"name": "Tokoh_Malaysia", "id": 32254}], "successors": [{"name": "Rintisan_biografi_Kedah", "id": 953381}]}

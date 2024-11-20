@@ -1,1 +1,1 @@
-{"name": "Penyakit_bakterial", "id": 143577, "predecessors": [{"name": "Penyakit_menular", "id": 14135}, {"name": "Bakteri", "id": 51061}, {"name": "Penyakit", "id": 13544}], "successors": []}
+{"name": "Penyakit_bakterial", "id": 143577, "predecessors": [{"name": "Bakteriologi", "id": 103661}, {"name": "Penyakit_menular", "id": 14135}, {"name": "Penyakit", "id": 13544}], "successors": []}

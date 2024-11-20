@@ -1,1 +1,1 @@
-{"name": "Marga_Batak_Simalungun", "id": 315269, "predecessors": [{"name": "Marga_Batak", "id": 235667}, {"name": "Batak", "id": 22613}], "successors": [{"name": "Marga_Saragih", "id": 138373}, {"name": "Marga_Sinaga", "id": 138426}]}
+{"name": "Marga_Batak_Simalungun", "id": 315269, "predecessors": [{"name": "Marga_Batak", "id": 235667}, {"name": "Batak", "id": 22613}], "successors": [{"name": "Marga_Saragih", "id": 138373}, {"name": "Marga_Sinaga", "id": 138426}, {"name": "Marga_Purba", "id": 1076367}]}

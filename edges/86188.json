@@ -1,1 +1,1 @@
-{"name": "Batuan_beku", "id": 86188, "predecessors": [{"name": "Batuan", "id": 83810}, {"name": "Petrologi", "id": 86190}, {"name": "Vulkanologi", "id": 63653}], "successors": [{"name": "Petrologi_batuan_beku", "id": 3784954}]}
+{"name": "Batuan_beku", "id": 86188, "predecessors": [{"name": "Batuan", "id": 83810}, {"name": "Petrologi", "id": 86190}, {"name": "Vulkanologi", "id": 63653}], "successors": [{"name": "Batuan_vulkanik", "id": 3563310}, {"name": "Petrologi_batuan_beku", "id": 3784954}]}

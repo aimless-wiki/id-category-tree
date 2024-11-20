@@ -1,1 +1,1 @@
-{"name": "Komponen_wahana_antariksa", "id": 3114122, "predecessors": [{"name": "Wahana_antariksa", "id": 173388}], "successors": [{"name": "Radar_antariksa", "id": 3165165}]}
+{"name": "Komponen_wahana_antariksa", "id": 3114122, "predecessors": [{"name": "Wahana_antariksa", "id": 173388}], "successors": [{"name": "Propelan_roket", "id": 1400546}, {"name": "Radar_antariksa", "id": 3165165}]}

@@ -1,1 +1,1 @@
-{"name": "Tumbuhan_obat", "id": 86099, "predecessors": [{"name": "Obat", "id": 34699}, {"name": "Tumbuhan", "id": 26337}, {"name": "Botani", "id": 42580}], "successors": [{"name": "Rempah-rempah", "id": 269274}]}
+{"name": "Tumbuhan_obat", "id": 86099, "predecessors": [{"name": "Obat", "id": 34699}, {"name": "Tumbuhan", "id": 26337}], "successors": [{"name": "Rempah-rempah", "id": 269274}]}

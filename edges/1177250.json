@@ -1,1 +1,1 @@
-{"name": "Pertanian_berkelanjutan", "id": 1177250, "predecessors": [{"name": "Pertanian", "id": 8530}, {"name": "Lingkungan", "id": 48598}, {"name": "Demografi", "id": 445983}], "successors": []}
+{"name": "Pertanian_berkelanjutan", "id": 1177250, "predecessors": [{"name": "Pertanian", "id": 8530}, {"name": "Lingkungan", "id": 48598}, {"name": "Demografi", "id": 445983}], "successors": [{"name": "Pupuk_organik", "id": 1424201}]}

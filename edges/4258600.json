@@ -1,1 +1,1 @@
-{"name": "Antiinflamasi", "id": 4258600, "predecessors": [{"name": "Anatomi", "id": 15993}], "successors": [{"name": "Obat_antiperadangan_non-steroid", "id": 200295}]}
+{"name": "Antiinflamasi", "id": 4258600, "predecessors": [{"name": "Anatomi", "id": 15993}], "successors": [{"name": "Antiperadangan_nonsteroid", "id": 200295}, {"name": "Glukokortikoid", "id": 4299298}]}

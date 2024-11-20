@@ -1,1 +1,1 @@
-{"name": "Pisang", "id": 612839, "predecessors": [{"name": "Beri", "id": 778192}, {"name": "Buah_tropis", "id": 736480}, {"name": "Flora_Asia", "id": 1438986}], "successors": [{"name": "Hidangan_terbungkus_daun_pisang", "id": 3705116}]}
+{"name": "Pisang", "id": 612839, "predecessors": [{"name": "Beri", "id": 778192}, {"name": "Buah_tropis", "id": 736480}, {"name": "Flora_Asia", "id": 1438986}], "successors": [{"name": "Hidangan_terbungkus_daun_pisang", "id": 3705116}, {"name": "Hidangan_pisang", "id": 3705119}]}

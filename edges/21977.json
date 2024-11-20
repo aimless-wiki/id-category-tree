@@ -1,1 +1,1 @@
-{"name": "Teh", "id": 21977, "predecessors": [{"name": "Minuman_non-alkohol", "id": 282057}, {"name": "Tumbuhan", "id": 26337}], "successors": []}
+{"name": "Teh", "id": 21977, "predecessors": [{"name": "Minuman_non-alkohol", "id": 282057}, {"name": "Tumbuhan", "id": 26337}], "successors": [{"name": "Merek_teh", "id": 1054011}]}

@@ -1,1 +1,1 @@
-{"name": "Kolonisasi_ruang_angkasa", "id": 3277941, "predecessors": [{"name": "Futurologi", "id": 325360}, {"name": "Penjelajahan_antariksa", "id": 3107439}, {"name": "Alam", "id": 70769}, {"name": "Migrasi_manusia", "id": 110752}], "successors": []}
+{"name": "Kolonisasi_ruang_angkasa", "id": 3277941, "predecessors": [{"name": "Futurologi", "id": 325360}, {"name": "Luar_angkasa", "id": 16871}, {"name": "Penjelajahan_antariksa", "id": 3107439}, {"name": "Migrasi_manusia", "id": 110752}], "successors": []}

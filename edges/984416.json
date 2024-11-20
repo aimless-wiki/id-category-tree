@@ -1,1 +1,1 @@
-{"name": "Plasmodium", "id": 984416, "predecessors": [{"name": "Apicomplexa", "id": 346116}, {"name": "Penyakit", "id": 13544}], "successors": []}
+{"name": "Plasmodium", "id": 984416, "predecessors": [{"name": "Malaria", "id": 270523}, {"name": "Apicomplexa", "id": 346116}], "successors": [{"name": "Malaria", "id": 270523}]}

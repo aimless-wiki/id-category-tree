@@ -1,1 +1,1 @@
-{"name": "Sejarah_kedokteran", "id": 81658, "predecessors": [{"name": "Kedokteran", "id": 37780}, {"name": "Sejarah_ilmu_pengetahuan", "id": 148298}], "successors": []}
+{"name": "Sejarah_kedokteran", "id": 81658, "predecessors": [{"name": "Kedokteran", "id": 37780}, {"name": "Sejarah_ilmu_pengetahuan", "id": 148298}], "successors": [{"name": "Pengobatan_tradisional", "id": 614991}]}

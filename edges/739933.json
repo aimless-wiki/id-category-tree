@@ -1,1 +1,1 @@
-{"name": "Filsafat_agama", "id": 739933, "predecessors": [{"name": "Agama", "id": 8495}, {"name": "Filsafat", "id": 8559}], "successors": [{"name": "Eskatologi", "id": 454165}, {"name": "Filsafat_Kristen", "id": 739932}]}
+{"name": "Filsafat_agama", "id": 739933, "predecessors": [{"name": "Agama", "id": 8495}, {"name": "Filsafat", "id": 8559}], "successors": [{"name": "Eskatologi", "id": 454165}, {"name": "Filsafat_Kristen", "id": 739932}, {"name": "Agama_dan_ilmu_pengetahuan", "id": 2852801}]}

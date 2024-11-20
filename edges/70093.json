@@ -1,1 +1,1 @@
-{"name": "Teknologi_mesin", "id": 70093, "predecessors": [{"name": "Mesin", "id": 51071}, {"name": "Teknologi", "id": 8528}], "successors": []}
+{"name": "Teknologi_mesin", "id": 70093, "predecessors": [{"name": "Mesin", "id": 51071}, {"name": "Teknologi", "id": 8528}], "successors": [{"name": "Siklus_termodinamika", "id": 405179}]}

@@ -1,0 +1,1 @@
+{"name": "Manajemen_rantai_suplai", "id": 267775, "predecessors": [{"name": "Produksi_dan_manufaktur", "id": 112276}, {"name": "Manajemen", "id": 40238}], "successors": [{"name": "Transportasi_barang", "id": 305337}]}

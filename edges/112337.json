@@ -1,1 +1,1 @@
-{"name": "Penulis_perempuan", "id": 112337, "predecessors": [{"name": "Penulis", "id": 21265}, {"name": "Tokoh_wanita", "id": 2627944}], "successors": []}
+{"name": "Penulis_perempuan", "id": 112337, "predecessors": [{"name": "Penulis", "id": 21265}, {"name": "Tokoh_wanita", "id": 2627944}], "successors": [{"name": "Penulis_feminis", "id": 112336}]}

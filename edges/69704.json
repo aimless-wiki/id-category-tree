@@ -1,1 +1,1 @@
-{"name": "Diet", "id": 69704, "predecessors": [{"name": "Perilaku_makan", "id": 125165}, {"name": "Nutrisi", "id": 62093}, {"name": "Gaya", "id": 88686}, {"name": "Ilmu_kesehatan", "id": 129904}, {"name": "Kesehatan_masyarakat", "id": 3172729}], "successors": []}
+{"name": "Diet", "id": 69704, "predecessors": [{"name": "Perilaku_makan", "id": 125165}, {"name": "Nutrisi", "id": 62093}, {"name": "Gaya", "id": 88686}, {"name": "Pelayanan_kesehatan", "id": 142915}, {"name": "Kesehatan_masyarakat", "id": 3172729}], "successors": []}

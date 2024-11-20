@@ -1,1 +1,1 @@
-{"name": "Pengerjaan_logam", "id": 1463063, "predecessors": [{"name": "Logam", "id": 61823}, {"name": "Metalurgi", "id": 336927}, {"name": "Teknik", "id": 8529}], "successors": []}
+{"name": "Pengerjaan_logam", "id": 1463063, "predecessors": [{"name": "Logam", "id": 61823}, {"name": "Metalurgi", "id": 336927}, {"name": "Teknik", "id": 8529}], "successors": [{"name": "Pengelasan", "id": 3363906}]}

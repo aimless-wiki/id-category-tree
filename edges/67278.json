@@ -1,1 +1,1 @@
-{"name": "Sistem_pencernaan", "id": 67278, "predecessors": [{"name": "Anatomi", "id": 15993}], "successors": [{"name": "Penyakit_pencernaan", "id": 143218}]}
+{"name": "Sistem_pencernaan", "id": 67278, "predecessors": [{"name": "Anatomi", "id": 15993}], "successors": [{"name": "Penyakit_pencernaan", "id": 143218}, {"name": "Anatomi_mulut", "id": 1426163}]}

@@ -1,1 +1,1 @@
-{"name": "Jenis_universitas_atau_perguruan_tinggi", "id": 4209535, "predecessors": [{"name": "Perguruan_tinggi", "id": 14899}, {"name": "Sekolah", "id": 28763}, {"name": "Organisasi", "id": 33782}], "successors": []}
+{"name": "Jenis_universitas_atau_perguruan_tinggi", "id": 4209535, "predecessors": [{"name": "Jenis_sekolah", "id": 308135}, {"name": "Perguruan_tinggi", "id": 14899}, {"name": "Organisasi", "id": 33782}], "successors": []}

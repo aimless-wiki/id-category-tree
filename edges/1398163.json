@@ -1,1 +1,1 @@
-{"name": "Bahan_bakar_roket", "id": 1398163, "predecessors": [{"name": "Bahan_bakar", "id": 14800}, {"name": "Roket", "id": 26373}], "successors": []}
+{"name": "Bahan_bakar_roket", "id": 1398163, "predecessors": [{"name": "Bahan_bakar", "id": 14800}, {"name": "Roket", "id": 26373}], "successors": [{"name": "Propelan_roket", "id": 1400546}, {"name": "Mesin_roket_yang_menggunakan_propelan_hipergolik", "id": 4362600}]}

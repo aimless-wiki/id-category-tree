@@ -1,1 +1,1 @@
-{"name": "Makanan_kering", "id": 336103, "predecessors": [{"name": "Pengawetan_makanan", "id": 154469}, {"name": "Makanan", "id": 19275}], "successors": [{"name": "Kerupuk", "id": 1720741}]}
+{"name": "Makanan_kering", "id": 336103, "predecessors": [{"name": "Pengawetan_makanan", "id": 154469}, {"name": "Makanan", "id": 19275}], "successors": [{"name": "Merek_mi_instan", "id": 198421}, {"name": "Kerupuk", "id": 1720741}]}

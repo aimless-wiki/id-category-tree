@@ -1,1 +1,1 @@
-{"name": "Penyanyi_Kanada", "id": 53227, "predecessors": [{"name": "Pemusik", "id": 24071}], "successors": [{"name": "Singel_Celine_Dion", "id": 599016}, {"name": "Lagu_Shawn_Mendes", "id": 3053338}]}
+{"name": "Penyanyi_Kanada", "id": 53227, "predecessors": [{"name": "Pemusik_Kanada", "id": 431799}, {"name": "Pemusik", "id": 24071}], "successors": [{"name": "Singel_Celine_Dion", "id": 599016}, {"name": "Lagu_Shawn_Mendes", "id": 3053338}]}

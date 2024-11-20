@@ -1,1 +1,1 @@
-{"name": "Bom_nuklir", "id": 1078217, "predecessors": [{"name": "Senjata_nuklir", "id": 47339}], "successors": [{"name": "Bom_nuklir_Amerika_Serikat", "id": 3166495}]}
+{"name": "Bom_nuklir", "id": 1078217, "predecessors": [{"name": "Senjata_nuklir", "id": 47339}, {"name": "Bom", "id": 13756}], "successors": [{"name": "Bom_nuklir_Amerika_Serikat", "id": 3166495}]}

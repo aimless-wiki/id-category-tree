@@ -1,1 +1,1 @@
-{"name": "Perangkat_lunak_Microsoft", "id": 94491, "predecessors": [{"name": "Microsoft", "id": 15050}, {"name": "Perangkat_lunak", "id": 29565}], "successors": [{"name": "Microsoft_Office", "id": 140009}, {"name": "Windows", "id": 15049}]}
+{"name": "Perangkat_lunak_Microsoft", "id": 94491, "predecessors": [{"name": "Microsoft", "id": 15050}, {"name": "Perangkat_lunak", "id": 29565}], "successors": [{"name": "Microsoft_Office", "id": 140009}, {"name": "Perangkat_lunak_Microsoft_yang_tidak_dilanjutkan", "id": 154553}, {"name": "Windows", "id": 15049}]}

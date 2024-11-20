@@ -1,1 +1,1 @@
-{"name": "Perdana_Menteri_Turki", "id": 38434, "predecessors": [{"name": "Turki", "id": 16827}, {"name": "Politikus", "id": 15479}, {"name": "Pemerintahan", "id": 47711}, {"name": "Pekerjaan", "id": 30061}, {"name": "Eropa", "id": 15962}], "successors": []}
+{"name": "Perdana_Menteri_Turki", "id": 38434, "predecessors": [{"name": "Turki", "id": 16827}, {"name": "Politikus", "id": 15479}, {"name": "Pemerintahan", "id": 47711}, {"name": "Pekerjaan", "id": 30061}, {"name": "Eropa", "id": 15962}], "successors": [{"name": "Mustafa_Kemal_Atatürk", "id": 460969}]}

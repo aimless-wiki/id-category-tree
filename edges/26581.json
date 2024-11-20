@@ -1,1 +1,1 @@
-{"name": "KRI", "id": 26581, "predecessors": [{"name": "Kapal_Indonesia", "id": 290418}, {"name": "Militer_Indonesia", "id": 79891}, {"name": "Kapal_perang", "id": 67073}], "successors": [{"name": "Korvet_kelas_Parchim", "id": 263249}]}
+{"name": "KRI", "id": 26581, "predecessors": [{"name": "Kapal_Indonesia", "id": 290418}, {"name": "Militer_Indonesia", "id": 79891}, {"name": "Kapal_perang", "id": 67073}], "successors": [{"name": "KRI_nonaktif", "id": 293386}, {"name": "Korvet_kelas_Parchim", "id": 263249}]}

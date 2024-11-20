@@ -1,1 +1,1 @@
-{"name": "IOS_(Apple)", "id": 1109951, "predecessors": [{"name": "Komputer_tablet", "id": 538979}, {"name": "IPhone", "id": 1109947}, {"name": "Apple_Inc.", "id": 767867}, {"name": "Sistem_operasi", "id": 71756}], "successors": [{"name": "Perangkat_lunak_iOS", "id": 1101689}]}
+{"name": "IOS_(Apple)", "id": 1109951, "predecessors": [{"name": "Sistem_operasi_telepon_genggam", "id": 1109959}, {"name": "Komputer_tablet", "id": 538979}, {"name": "IPhone", "id": 1109947}, {"name": "Apple_Inc.", "id": 767867}], "successors": [{"name": "Perangkat_lunak_iOS", "id": 1101689}]}

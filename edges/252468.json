@@ -1,1 +1,1 @@
-{"name": "Templat_musik", "id": 252468, "predecessors": [{"name": "Templat_menurut_topik", "id": 252325}], "successors": [{"name": "Templat_navigasi_musik", "id": 252333}]}
+{"name": "Templat_musik", "id": 252468, "predecessors": [{"name": "Templat_menurut_topik", "id": 252325}], "successors": [{"name": "Templat_navigasi_musik", "id": 252333}, {"name": "Templat_kotak_info_musik", "id": 252345}]}

@@ -1,1 +1,1 @@
-{"name": "Masalah_ekonomi", "id": 316394, "predecessors": [{"name": "Ekonomi", "id": 8560}, {"name": "Kognisi", "id": 157949}], "successors": [{"name": "Kemiskinan", "id": 230831}]}
+{"name": "Masalah_ekonomi", "id": 316394, "predecessors": [{"name": "Ekonomi", "id": 8560}, {"name": "Kognisi", "id": 157949}], "successors": [{"name": "Kemiskinan", "id": 230831}, {"name": "Utang", "id": 304274}]}

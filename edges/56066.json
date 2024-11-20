@@ -1,1 +1,1 @@
-{"name": "Bandar_udara_di_Meksiko", "id": 56066, "predecessors": [{"name": "Ekonomi", "id": 8560}, {"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Meksiko", "id": 19607}], "successors": []}
+{"name": "Bandar_udara_di_Meksiko", "id": 56066, "predecessors": [{"name": "Bandar_udara", "id": 129298}, {"name": "Ekonomi", "id": 8560}, {"name": "Meksiko", "id": 19607}], "successors": []}
