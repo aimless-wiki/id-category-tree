@@ -1,1 +1,1 @@
-{"name": "Stasiun_kereta_api_di_Grobogan", "id": 3335354, "predecessors": [{"name": "Kabupaten_Grobogan", "id": 50644}, {"name": "Stasiun_kereta_api_di_Jawa_Tengah", "id": 340342}], "successors": []}
+{"name": "Stasiun_kereta_api_di_Grobogan", "id": 3335354, "predecessors": [{"name": "Stasiun_kereta_api_di_Jawa_Tengah", "id": 340342}, {"name": "Kabupaten_di_Jawa_Tengah", "id": 47967}], "successors": []}

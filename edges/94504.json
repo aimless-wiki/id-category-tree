@@ -1,1 +1,1 @@
-{"name": "Perusahaan_internet", "id": 94504, "predecessors": [{"name": "Internet", "id": 8541}, {"name": "Industri", "id": 30058}, {"name": "Jaringan_komputer", "id": 53462}], "successors": [{"name": "Perusahaan_daring", "id": 1101681}]}
+{"name": "Perusahaan_internet", "id": 94504, "predecessors": [{"name": "Internet", "id": 8541}, {"name": "Industri", "id": 30058}, {"name": "Jaringan_komputer", "id": 53462}], "successors": []}

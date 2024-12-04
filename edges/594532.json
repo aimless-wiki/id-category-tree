@@ -1,1 +1,1 @@
-{"name": "Propulsi_wahana_antariksa", "id": 594532, "predecessors": [{"name": "Astrodinamika", "id": 785695}, {"name": "Kendaraan", "id": 14396}], "successors": []}
+{"name": "Propulsi_wahana_antariksa", "id": 594532, "predecessors": [{"name": "Astrodinamika", "id": 785695}, {"name": "Kendaraan", "id": 14396}], "successors": [{"name": "Propulsi_roket", "id": 1400554}]}

@@ -1,1 +1,1 @@
-{"name": "Novel_Amerika_Serikat", "id": 300522, "predecessors": [{"name": "Buku_Amerika_Serikat", "id": 300544}, {"name": "Novel", "id": 21888}], "successors": [{"name": "Novelis_Amerika_Serikat", "id": 110530}, {"name": "Film_yang_berdasarkan_pada_novel_Amerika_Serikat", "id": 1428906}]}
+{"name": "Novel_Amerika_Serikat", "id": 300522, "predecessors": [{"name": "Novel", "id": 21888}, {"name": "Budaya_Amerika_Serikat", "id": 100311}], "successors": [{"name": "Novelis_Amerika_Serikat", "id": 110530}, {"name": "Film_yang_berdasarkan_pada_novel_Amerika_Serikat", "id": 1428906}]}

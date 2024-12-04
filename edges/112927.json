@@ -1,1 +1,1 @@
-{"name": "Teleskop_luar_angkasa", "id": 112927, "predecessors": [{"name": "Luar_angkasa", "id": 16871}, {"name": "Teleskop", "id": 60270}], "successors": [{"name": "Teleskop_sinar-X", "id": 307486}]}
+{"name": "Teleskop_luar_angkasa", "id": 112927, "predecessors": [{"name": "Teleskop", "id": 60270}, {"name": "Alam", "id": 70769}], "successors": [{"name": "Teleskop_sinar-X", "id": 307486}]}

@@ -1,1 +1,1 @@
-{"name": "Model_Korea_Selatan", "id": 968622, "predecessors": [{"name": "Model_menurut_kewarganegaraan", "id": 269753}, {"name": "Budaya_Korea_Selatan", "id": 101079}], "successors": [{"name": "Model_Pria_Korea_Selatan", "id": 968551}, {"name": "Model_wanita_Korea_Selatan", "id": 968628}]}
+{"name": "Model_Korea_Selatan", "id": 968622, "predecessors": [{"name": "Model_menurut_kewarganegaraan", "id": 269753}, {"name": "Asia", "id": 10800}], "successors": [{"name": "Model_Pria_Korea_Selatan", "id": 968551}, {"name": "Model_wanita_Korea_Selatan", "id": 968628}]}

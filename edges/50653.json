@@ -1,1 +1,1 @@
-{"name": "Kabupaten_Magelang", "id": 50653, "predecessors": [{"name": "Kabupaten_di_Jawa_Tengah", "id": 47967}], "successors": [{"name": "Kota_Magelang", "id": 50714}, {"name": "Kecamatan_di_Kabupaten_Magelang", "id": 72576}]}
+{"name": "Kabupaten_Magelang", "id": 50653, "predecessors": [{"name": "Kabupaten_di_Jawa_Tengah", "id": 47967}], "successors": [{"name": "Kota_Magelang", "id": 50714}, {"name": "Kecamatan_di_Kabupaten_Magelang", "id": 72576}, {"name": "Desa_di_Kabupaten_Magelang", "id": 2141542}]}

@@ -1,1 +1,1 @@
-{"name": "Gas", "id": 292720, "predecessors": [{"name": "Termodinamika", "id": 110179}], "successors": [{"name": "Gas_industri", "id": 1962104}, {"name": "Teknologi_gas", "id": 3359627}]}
+{"name": "Gas", "id": 292720, "predecessors": [{"name": "Termodinamika", "id": 110179}], "successors": [{"name": "Gas_industri", "id": 1962104}]}

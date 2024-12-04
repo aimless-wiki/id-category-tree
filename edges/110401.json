@@ -1,1 +1,1 @@
-{"name": "Mebel", "id": 110401, "predecessors": [{"name": "Desain_industri", "id": 284097}, {"name": "Rumah", "id": 38815}, {"name": "Manufaktur", "id": 130616}], "successors": []}
+{"name": "Mebel", "id": 110401, "predecessors": [{"name": "Rumah", "id": 38815}, {"name": "Desain", "id": 30062}, {"name": "Manufaktur", "id": 130616}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Antidepresan", "id": 3376359, "predecessors": [{"name": "Farmakologi", "id": 70754}, {"name": "Biokimia", "id": 48164}, {"name": "Emosi", "id": 43114}], "successors": []}
+{"name": "Antidepresan", "id": 3376359, "predecessors": [{"name": "Farmakologi", "id": 70754}, {"name": "Emosi", "id": 43114}, {"name": "Biokimia", "id": 48164}], "successors": []}

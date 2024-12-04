@@ -1,1 +1,1 @@
-{"name": "Prob_antariksa", "id": 1395317, "predecessors": [{"name": "Kendaraan", "id": 14396}], "successors": [{"name": "Wahana_antariksa_NASA", "id": 250769}, {"name": "Lander_Ekstraterestrial", "id": 1415736}, {"name": "Pendarat_(wahana_antariksa)", "id": 3113514}]}
+{"name": "Prob_antariksa", "id": 1395317, "predecessors": [{"name": "Kendaraan", "id": 14396}], "successors": [{"name": "Wahana_antariksa_NASA", "id": 250769}, {"name": "Pendarat_(wahana_antariksa)", "id": 3113514}]}

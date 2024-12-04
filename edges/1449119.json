@@ -1,1 +1,1 @@
-{"name": "Satelit_cuaca", "id": 1449119, "predecessors": [{"name": "Satelit_observasi_Bumi", "id": 406827}, {"name": "Penginderaan_jauh", "id": 773630}], "successors": []}
+{"name": "Satelit_cuaca", "id": 1449119, "predecessors": [{"name": "Satelit_observasi_Bumi", "id": 406827}], "successors": []}

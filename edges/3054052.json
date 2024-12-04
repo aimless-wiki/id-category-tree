@@ -1,1 +1,1 @@
-{"name": "Pemain_tenis_meja_putri_Amerika_Serikat", "id": 3054052, "predecessors": [{"name": "Jenis_kelamin", "id": 100838}, {"name": "Olahragawan_Amerika_Serikat", "id": 68037}], "successors": []}
+{"name": "Pemain_tenis_meja_putri_Amerika_Serikat", "id": 3054052, "predecessors": [{"name": "Jenis_kelamin", "id": 100838}, {"name": "Cabang_olahraga", "id": 140076}], "successors": []}

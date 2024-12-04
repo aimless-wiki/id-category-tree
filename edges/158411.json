@@ -1,1 +1,1 @@
-{"name": "Kelas_kata", "id": 158411, "predecessors": [{"name": "Kata", "id": 71114}, {"name": "Linguistik", "id": 456014}, {"name": "Tata_bahasa", "id": 132665}], "successors": []}
+{"name": "Kelas_kata", "id": 158411, "predecessors": [{"name": "Linguistik", "id": 456014}, {"name": "Tata_bahasa", "id": 132665}, {"name": "Filsafat", "id": 8559}], "successors": []}

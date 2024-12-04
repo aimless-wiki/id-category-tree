@@ -1,1 +1,1 @@
-{"name": "Film_horor", "id": 23549, "predecessors": [{"name": "Film", "id": 8544}, {"name": "Linguistik", "id": 456014}], "successors": [{"name": "Film_jagal", "id": 571841}, {"name": "Film_kuntilanak", "id": 609636}, {"name": "Film_pocong", "id": 609639}, {"name": "Film_jagal_Indonesia", "id": 661150}]}
+{"name": "Film_horor", "id": 23549, "predecessors": [{"name": "Film", "id": 8544}, {"name": "Linguistik", "id": 456014}], "successors": [{"name": "Film_jagal", "id": 571841}, {"name": "Film_kuntilanak", "id": 609636}, {"name": "Film_pocong", "id": 609639}]}

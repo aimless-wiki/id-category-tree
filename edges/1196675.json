@@ -1,1 +1,1 @@
-{"name": "Besi", "id": 1196675, "predecessors": [{"name": "Logam", "id": 61823}, {"name": "Logam_transisi", "id": 38851}, {"name": "Unsur_kimia", "id": 13767}], "successors": [{"name": "Baja", "id": 101813}]}
+{"name": "Besi", "id": 1196675, "predecessors": [{"name": "Logam", "id": 61823}, {"name": "Logam_transisi", "id": 38851}, {"name": "Unsur_kimia", "id": 13767}], "successors": []}

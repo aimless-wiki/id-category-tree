@@ -1,1 +1,1 @@
-{"name": "Tata_Surya", "id": 106094, "predecessors": [{"name": "Luar_angkasa", "id": 16871}, {"name": "Ilmu_keplanetan", "id": 143809}], "successors": [{"name": "Objek_trans-Neptunus", "id": 82114}, {"name": "Matahari", "id": 84549}]}
+{"name": "Tata_Surya", "id": 106094, "predecessors": [{"name": "Alam", "id": 70769}, {"name": "Ilmu_keplanetan", "id": 143809}], "successors": [{"name": "Objek_trans-Neptunus", "id": 82114}, {"name": "Matahari", "id": 84549}]}

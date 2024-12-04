@@ -1,1 +1,1 @@
-{"name": "Aktinida", "id": 102780, "predecessors": [{"name": "Logam", "id": 61823}, {"name": "Unsur_kimia", "id": 13767}], "successors": [{"name": "Uranium", "id": 102870}, {"name": "Senyawa_berkelium", "id": 4232357}, {"name": "Senyawa_uranium", "id": 3332436}]}
+{"name": "Aktinida", "id": 102780, "predecessors": [{"name": "Logam", "id": 61823}, {"name": "Unsur_kimia", "id": 13767}], "successors": [{"name": "Uranium", "id": 102870}, {"name": "Senyawa_uranium", "id": 3332436}]}

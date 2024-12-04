@@ -1,1 +1,1 @@
-{"name": "Teknik_pertanian", "id": 1168416, "predecessors": [{"name": "Disiplin_teknik", "id": 269991}, {"name": "Teknologi_pertanian", "id": 1173006}], "successors": [{"name": "Mesin_pertanian", "id": 1178506}]}
+{"name": "Teknik_pertanian", "id": 1168416, "predecessors": [{"name": "Disiplin_teknik", "id": 269991}, {"name": "Pertanian", "id": 8530}], "successors": []}

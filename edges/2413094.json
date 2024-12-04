@@ -1,1 +1,1 @@
-{"name": "Pemain_Piala_Dunia_FIFA_1982", "id": 2413094, "predecessors": [{"name": "Piala_Dunia_FIFA_1982", "id": 1962215}, {"name": "Olahraga", "id": 8565}], "successors": []}
+{"name": "Pemain_Piala_Dunia_FIFA_1982", "id": 2413094, "predecessors": [{"name": "Olahraga", "id": 8565}, {"name": "Ajang_olahraga", "id": 33663}], "successors": []}

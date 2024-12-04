@@ -1,1 +1,1 @@
-{"name": "Fonetik", "id": 148506, "predecessors": [{"name": "Fonologi", "id": 322540}, {"name": "Linguistik", "id": 456014}], "successors": [{"name": "Konsonan", "id": 148505}, {"name": "Vokal", "id": 508939}, {"name": "Anatomi_mulut", "id": 1426163}]}
+{"name": "Fonetik", "id": 148506, "predecessors": [{"name": "Fonologi", "id": 322540}, {"name": "Linguistik", "id": 456014}], "successors": [{"name": "Konsonan", "id": 148505}, {"name": "Vokal", "id": 508939}, {"name": "Gigi", "id": 37752}]}

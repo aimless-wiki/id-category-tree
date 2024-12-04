@@ -1,1 +1,1 @@
-{"name": "Tumbuhan_paku", "id": 283346, "predecessors": [{"name": "Eukariota", "id": 109692}, {"name": "Hasil_hutan_non-kayu", "id": 1188978}, {"name": "Taksonomi_tumbuhan", "id": 231699}], "successors": [{"name": "Polypodiaceae", "id": 763512}]}
+{"name": "Tumbuhan_paku", "id": 283346, "predecessors": [{"name": "Hasil_hutan_non-kayu", "id": 1188978}, {"name": "Taksonomi_tumbuhan", "id": 231699}, {"name": "Biologi", "id": 8524}], "successors": [{"name": "Polypodiaceae", "id": 763512}]}

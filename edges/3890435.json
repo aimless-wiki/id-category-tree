@@ -1,1 +1,1 @@
-{"name": "Hewan_domestik", "id": 3890435, "predecessors": [{"name": "Hewan", "id": 14568}, {"name": "Antropologi", "id": 8562}], "successors": [{"name": "Hewan_ternak", "id": 15861}, {"name": "Anjing", "id": 26339}, {"name": "Kuda", "id": 202172}, {"name": "Ternak_lebah", "id": 1465198}]}
+{"name": "Hewan_domestik", "id": 3890435, "predecessors": [{"name": "Hewan", "id": 14568}, {"name": "Antropologi", "id": 8562}], "successors": [{"name": "Hewan_ternak", "id": 15861}, {"name": "Anjing", "id": 26339}, {"name": "Kuda", "id": 202172}]}

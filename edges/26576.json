@@ -1,1 +1,1 @@
-{"name": "Asuransi", "id": 26576, "predecessors": [{"name": "Perusahaan_jasa_keuangan", "id": 221867}, {"name": "Industri", "id": 30058}, {"name": "Keuangan", "id": 15188}], "successors": [{"name": "Perusahaan_asuransi", "id": 120241}]}
+{"name": "Asuransi", "id": 26576, "predecessors": [{"name": "Industri", "id": 30058}, {"name": "Keuangan", "id": 15188}], "successors": [{"name": "Perusahaan_asuransi", "id": 120241}]}

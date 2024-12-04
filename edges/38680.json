@@ -1,1 +1,1 @@
-{"name": "Bandar_udara_di_Kanada", "id": 38680, "predecessors": [{"name": "Bandar_udara", "id": 129298}, {"name": "Kanada", "id": 15185}], "successors": [{"name": "Daftar_bandar_udara_di_Kanada", "id": 238581}, {"name": "Bandar_udara_di_Alberta", "id": 238617}]}
+{"name": "Bandar_udara_di_Kanada", "id": 38680, "predecessors": [{"name": "Bangunan_dan_struktur", "id": 128890}, {"name": "Kanada", "id": 15185}], "successors": [{"name": "Daftar_bandar_udara_di_Kanada", "id": 238581}, {"name": "Bandar_udara_di_Alberta", "id": 238617}]}

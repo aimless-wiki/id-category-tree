@@ -1,0 +1,1 @@
+{"name": "Propulsi_roket", "id": 1400554, "predecessors": [{"name": "Mesin_jet", "id": 183656}, {"name": "Propulsi_wahana_antariksa", "id": 594532}, {"name": "Roket", "id": 26373}], "successors": [{"name": "Mesin_roket", "id": 594530}, {"name": "Roket_berbahan_bakar_padat", "id": 1400107}, {"name": "Propelan_roket", "id": 1400546}]}

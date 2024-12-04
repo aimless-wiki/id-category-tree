@@ -1,1 +1,1 @@
-{"name": "Teknik_mesin", "id": 103474, "predecessors": [{"name": "Disiplin_teknik", "id": 269991}, {"name": "Ilmu_terapan", "id": 51290}], "successors": [{"name": "Mesin_pertanian", "id": 1178506}]}
+{"name": "Teknik_mesin", "id": 103474, "predecessors": [{"name": "Disiplin_teknik", "id": 269991}, {"name": "Ilmu_terapan", "id": 51290}], "successors": [{"name": "Irigasi", "id": 111152}]}

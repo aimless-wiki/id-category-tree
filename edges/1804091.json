@@ -1,1 +1,1 @@
-{"name": "Olahraga_elektronik", "id": 1804091, "predecessors": [{"name": "Cabang_olahraga", "id": 140076}, {"name": "Permainan_video", "id": 16866}], "successors": [{"name": "Pemain_Dota_2", "id": 3067406}, {"name": "Pemain_Counter-Strike", "id": 3070502}, {"name": "Tim_Counter_Strike:_Global_Offensive", "id": 3070800}]}
+{"name": "Olahraga_elektronik", "id": 1804091, "predecessors": [{"name": "Cabang_olahraga", "id": 140076}, {"name": "Permainan_video", "id": 16866}], "successors": [{"name": "Pemain_Dota_2", "id": 3067406}, {"name": "Pemain_Counter-Strike", "id": 3070502}]}

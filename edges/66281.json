@@ -1,1 +1,1 @@
-{"name": "Pemain_sepak_bola_Turki", "id": 66281, "predecessors": [{"name": "Budaya_Turki", "id": 134084}, {"name": "Pekerjaan", "id": 30061}, {"name": "Olahraga", "id": 8565}], "successors": []}
+{"name": "Pemain_sepak_bola_Turki", "id": 66281, "predecessors": [{"name": "Turki", "id": 16827}, {"name": "Pekerjaan", "id": 30061}, {"name": "Olahraga", "id": 8565}], "successors": []}

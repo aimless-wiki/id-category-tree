@@ -1,1 +1,1 @@
-{"name": "Genre_teater", "id": 815179, "predecessors": [{"name": "Teater", "id": 64181}, {"name": "Media", "id": 56383}], "successors": [{"name": "Balet", "id": 41563}, {"name": "Drama", "id": 106647}, {"name": "Komedi", "id": 131138}]}
+{"name": "Genre_teater", "id": 815179, "predecessors": [{"name": "Teater", "id": 64181}, {"name": "Media", "id": 56383}], "successors": [{"name": "Drama", "id": 106647}, {"name": "Komedi", "id": 131138}]}

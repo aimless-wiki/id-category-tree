@@ -1,1 +1,1 @@
-{"name": "Glukokortikoid", "id": 4299298, "predecessors": [{"name": "Antiinflamasi", "id": 4258600}, {"name": "Hormon", "id": 79749}, {"name": "Obat", "id": 34699}, {"name": "Kelenjar", "id": 82899}], "successors": []}
+{"name": "Glukokortikoid", "id": 4299298, "predecessors": [{"name": "Imunosupresan", "id": 336903}, {"name": "Antiinflamasi", "id": 4258600}, {"name": "Hormon", "id": 79749}, {"name": "Kelenjar", "id": 82899}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hotel_di_Bali", "id": 701318, "predecessors": [{"name": "Bangunan_dan_struktur_di_Bali", "id": 242584}, {"name": "Bangunan_dan_struktur_di_Indonesia", "id": 130008}, {"name": "Pariwisata_di_Indonesia", "id": 60211}, {"name": "Budaya_Bali", "id": 143407}], "successors": []}
+{"name": "Hotel_di_Bali", "id": 701318, "predecessors": [{"name": "Bali", "id": 26168}, {"name": "Bangunan_dan_struktur_di_Indonesia", "id": 130008}, {"name": "Pariwisata_di_Indonesia", "id": 60211}, {"name": "Budaya_Bali", "id": 143407}], "successors": []}

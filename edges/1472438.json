@@ -1,1 +1,1 @@
-{"name": "Maskapai_penerbangan_Tiongkok", "id": 1472438, "predecessors": [{"name": "Perusahaan_Tiongkok", "id": 1472426}, {"name": "Maskapai_penerbangan", "id": 15740}, {"name": "Transportasi_di_Tiongkok", "id": 1474835}], "successors": []}
+{"name": "Maskapai_penerbangan_Tiongkok", "id": 1472438, "predecessors": [{"name": "Perusahaan_Tiongkok", "id": 1472426}, {"name": "Maskapai_penerbangan", "id": 15740}, {"name": "Penerbangan", "id": 199725}], "successors": []}

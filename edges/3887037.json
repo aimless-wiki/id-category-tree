@@ -1,1 +1,1 @@
-{"name": "Baptis", "id": 3887037, "predecessors": [{"name": "Sakramen_Kristen", "id": 360429}, {"name": "Liturgi_Katolik", "id": 105917}, {"name": "Filsafat", "id": 8559}, {"name": "Agama_dan_ilmu_pengetahuan", "id": 2852801}], "successors": []}
+{"name": "Baptis", "id": 3887037, "predecessors": [{"name": "Liturgi_Katolik", "id": 105917}, {"name": "Kristen", "id": 11312}, {"name": "Filsafat", "id": 8559}, {"name": "Etika", "id": 70759}], "successors": []}

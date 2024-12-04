@@ -1,1 +1,1 @@
-{"name": "Penyair_Prancis", "id": 59050, "predecessors": [{"name": "Penulis_Prancis", "id": 51064}, {"name": "Sastra_Prancis", "id": 326501}, {"name": "Penyair", "id": 33760}], "successors": []}
+{"name": "Penyair_Prancis", "id": 59050, "predecessors": [{"name": "Penulis_Prancis", "id": 51064}, {"name": "Sastrawan", "id": 32276}, {"name": "Penyair", "id": 33760}], "successors": []}

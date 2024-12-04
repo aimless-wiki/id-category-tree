@@ -1,1 +1,1 @@
-{"name": "Pesawat_Sayap_Delta", "id": 993752, "predecessors": [{"name": "Konfigurasi_pesawat", "id": 993746}, {"name": "Desain_sayap_pesawat_terbang", "id": 1072301}], "successors": []}
+{"name": "Pesawat_Sayap_Delta", "id": 993752, "predecessors": [{"name": "Desain_sayap_pesawat_terbang", "id": 1072301}, {"name": "Desain", "id": 30062}], "successors": []}

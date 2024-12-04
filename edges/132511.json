@@ -1,1 +1,1 @@
-{"name": "Multimedia", "id": 132511, "predecessors": [{"name": "Perangkat_lunak", "id": 29565}, {"name": "Perangkat_keras", "id": 35390}, {"name": "Seni", "id": 8571}], "successors": [{"name": "Media_digital", "id": 132649}, {"name": "Cakram_optik", "id": 132797}, {"name": "Audio_digital", "id": 140022}]}
+{"name": "Multimedia", "id": 132511, "predecessors": [{"name": "Perangkat_lunak", "id": 29565}, {"name": "Perangkat_keras", "id": 35390}, {"name": "Seni", "id": 8571}], "successors": [{"name": "Media_digital", "id": 132649}]}

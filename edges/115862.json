@@ -1,1 +1,1 @@
-{"name": "Bilangan", "id": 115862, "predecessors": [{"name": "Matematika", "id": 8519}], "successors": [{"name": "Angka", "id": 16630}, {"name": "Bilangan_prima", "id": 55878}, {"name": "Sistem_bilangan", "id": 85690}, {"name": "Bilangan_bulat", "id": 188676}, {"name": "Bilangan_besar", "id": 3770013}]}
+{"name": "Bilangan", "id": 115862, "predecessors": [{"name": "Matematika", "id": 8519}], "successors": [{"name": "Angka", "id": 16630}, {"name": "Bilangan_prima", "id": 55878}, {"name": "Sistem_bilangan", "id": 85690}, {"name": "Bilangan_bulat", "id": 188676}]}

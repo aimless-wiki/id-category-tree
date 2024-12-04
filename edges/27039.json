@@ -1,1 +1,1 @@
-{"name": "Presiden_Meksiko", "id": 27039, "predecessors": [{"name": "Presiden", "id": 6120}, {"name": "Politikus", "id": 15479}, {"name": "Tokoh_Amerika", "id": 2136840}, {"name": "Tokoh_Meksiko", "id": 56104}], "successors": []}
+{"name": "Presiden_Meksiko", "id": 27039, "predecessors": [{"name": "Kepala_negara", "id": 49022}, {"name": "Politikus", "id": 15479}, {"name": "Pekerjaan", "id": 30061}, {"name": "Tokoh_Meksiko", "id": 56104}], "successors": []}

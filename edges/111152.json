@@ -1,1 +1,1 @@
-{"name": "Irigasi", "id": 111152, "predecessors": [{"name": "Agronomi", "id": 268571}, {"name": "Air", "id": 60051}, {"name": "Mesin_pertanian", "id": 1178506}, {"name": "Pertanian", "id": 8530}, {"name": "Teknologi_pertanian", "id": 1173006}, {"name": "Ekologi_perairan", "id": 132744}], "successors": []}
+{"name": "Irigasi", "id": 111152, "predecessors": [{"name": "Agronomi", "id": 268571}, {"name": "Air", "id": 60051}, {"name": "Pertanian", "id": 8530}, {"name": "Teknik_mesin", "id": 103474}, {"name": "Ekologi_perairan", "id": 132744}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Novelis_Prancis", "id": 112311, "predecessors": [{"name": "Penulis_Prancis", "id": 51064}, {"name": "Novelis", "id": 43156}, {"name": "Sastra_Prancis", "id": 326501}], "successors": [{"name": "Novelis_laki-laki_Prancis", "id": 3167307}]}
+{"name": "Novelis_Prancis", "id": 112311, "predecessors": [{"name": "Penulis_Prancis", "id": 51064}, {"name": "Novelis", "id": 43156}, {"name": "Buku", "id": 66447}], "successors": []}

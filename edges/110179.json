@@ -1,1 +1,1 @@
-{"name": "Termodinamika", "id": 110179, "predecessors": [{"name": "Fisika", "id": 8523}], "successors": [{"name": "Gas", "id": 292720}, {"name": "Perpindahan_panas", "id": 3277514}, {"name": "Pemanasan,_sirkulasi,_dan_pendinginan_udara", "id": 379885}, {"name": "Pendingin", "id": 3338946}]}
+{"name": "Termodinamika", "id": 110179, "predecessors": [{"name": "Fisika", "id": 8523}], "successors": [{"name": "Gas", "id": 292720}, {"name": "Perpindahan_panas", "id": 3277514}, {"name": "Pemanasan,_sirkulasi,_dan_pendinginan_udara", "id": 379885}]}

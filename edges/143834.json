@@ -1,1 +1,1 @@
-{"name": "Gastroenterologi", "id": 143834, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}], "successors": [{"name": "Penyakit_pencernaan", "id": 143218}, {"name": "Laksatif", "id": 2780972}, {"name": "Antiemetik", "id": 4281177}]}
+{"name": "Gastroenterologi", "id": 143834, "predecessors": [{"name": "Spesialisasi_medis", "id": 93822}], "successors": [{"name": "Penyakit_pencernaan", "id": 143218}, {"name": "Antiemetik", "id": 4281177}]}
