@@ -1,1 +1,1 @@
-{"name": "Obat_antineoplastik_hormonal", "id": 4243457, "predecessors": [{"name": "Hormon", "id": 79749}, {"name": "Obat", "id": 34699}], "successors": []}
+{"name": "Obat_antineoplastik_hormonal", "id": 4243457, "predecessors": [{"name": "Hormon", "id": 79749}, {"name": "Obat", "id": 34699}], "successors": [{"name": "Penghambat_aromatase", "id": 4245211}]}

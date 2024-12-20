@@ -1,1 +1,1 @@
-{"name": "Spektroskopi", "id": 123454, "predecessors": [{"name": "Fisika_atom", "id": 39026}, {"name": "Kimia_fisik", "id": 123039}, {"name": "Optika", "id": 452774}, {"name": "Pengukuran", "id": 83761}], "successors": []}
+{"name": "Spektroskopi", "id": 123454, "predecessors": [{"name": "Fisika_atom", "id": 39026}, {"name": "Fisika_molekular", "id": 127559}, {"name": "Kimia_fisik", "id": 123039}, {"name": "Optika", "id": 452774}, {"name": "Pengukuran", "id": 83761}], "successors": []}

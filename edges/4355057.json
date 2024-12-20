@@ -1,1 +1,1 @@
-{"name": "Wedang", "id": 4355057, "predecessors": [{"name": "Minuman_non-alkohol", "id": 282057}, {"name": "Hidangan_Jawa", "id": 708683}, {"name": "Rempah-rempah", "id": 269274}, {"name": "Minuman", "id": 16067}], "successors": []}
+{"name": "Wedang", "id": 4355057, "predecessors": [{"name": "Minuman_Jawa", "id": 3046439}, {"name": "Minuman_non-alkohol", "id": 282057}, {"name": "Rempah-rempah", "id": 269274}, {"name": "Minuman", "id": 16067}], "successors": []}

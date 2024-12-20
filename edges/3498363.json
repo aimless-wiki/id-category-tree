@@ -1,1 +1,1 @@
-{"name": "Bias_kognitif", "id": 3498363, "predecessors": [{"name": "Kepercayaan", "id": 10899}, {"name": "Kognisi", "id": 157949}, {"name": "Pengetahuan", "id": 125437}, {"name": "Psikologi", "id": 8555}, {"name": "Epistemologi", "id": 125439}], "successors": []}
+{"name": "Bias_kognitif", "id": 3498363, "predecessors": [{"name": "Bias", "id": 2885523}, {"name": "Kepercayaan", "id": 10899}, {"name": "Kognisi", "id": 157949}, {"name": "Psikologi", "id": 8555}, {"name": "Epistemologi", "id": 125439}], "successors": []}

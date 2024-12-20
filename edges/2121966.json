@@ -1,1 +1,1 @@
-{"name": "Organofluorida", "id": 2121966, "predecessors": [{"name": "Unsur_kimia", "id": 13767}, {"name": "Senyawa_karbon", "id": 132849}], "successors": [{"name": "Fluoroarena", "id": 4284521}]}
+{"name": "Organofluorida", "id": 2121966, "predecessors": [{"name": "Unsur_kimia", "id": 13767}, {"name": "Senyawa_karbon", "id": 132849}], "successors": [{"name": "Senyawa_trifluorometil", "id": 4206880}, {"name": "Fluoroarena", "id": 4284521}]}

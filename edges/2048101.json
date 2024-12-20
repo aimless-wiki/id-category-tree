@@ -1,1 +1,1 @@
-{"name": "Skandal", "id": 2048101, "predecessors": [{"name": "Moral", "id": 641063}, {"name": "Konflik", "id": 268107}], "successors": [{"name": "Skandal_militer", "id": 322282}]}
+{"name": "Skandal", "id": 2048101, "predecessors": [{"name": "Moral", "id": 641063}, {"name": "Konflik", "id": 268107}], "successors": [{"name": "Holokaus", "id": 47313}]}
