@@ -1,1 +1,1 @@
-{"name": "Stasiun_Nagoya_Railroad", "id": 3213372, "predecessors": [{"name": "Perusahaan_kereta_api_Jepang", "id": 505476}, {"name": "Transportasi_bus", "id": 307387}, {"name": "Kota_di_Jepang", "id": 48802}], "successors": []}
+{"name": "Stasiun_Nagoya_Railroad", "id": 3213372, "predecessors": [{"name": "Perusahaan_kereta_api_Jepang", "id": 505476}, {"name": "Transportasi_bus", "id": 307387}, {"name": "Bangunan_dan_struktur", "id": 128890}], "successors": []}

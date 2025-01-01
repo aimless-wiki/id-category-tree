@@ -1,1 +1,1 @@
-{"name": "Pemain_drum", "id": 30063, "predecessors": [{"name": "Pemusik", "id": 24071}, {"name": "Alat_musik", "id": 15020}], "successors": [{"name": "Pemain_drum_Indonesia", "id": 2978064}]}
+{"name": "Pemain_drum", "id": 30063, "predecessors": [{"name": "Desain_grafis", "id": 97244}], "successors": [{"name": "Pemain_drum_Indonesia", "id": 2978064}]}

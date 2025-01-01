@@ -1,1 +1,1 @@
-{"name": "Stasiun_U-Bahn_Wina", "id": 2796583, "predecessors": [{"name": "Stasiun_kereta_api", "id": 21433}, {"name": "Teknologi_berkelanjutan", "id": 279866}], "successors": []}
+{"name": "Stasiun_U-Bahn_Wina", "id": 2796583, "predecessors": [{"name": "Teknologi_berkelanjutan", "id": 279866}, {"name": "Ekonomi", "id": 8560}], "successors": []}

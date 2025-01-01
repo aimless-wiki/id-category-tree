@@ -1,1 +1,1 @@
-{"name": "Bahan_tambahan_pangan_bernomor_Uni_Eropa", "id": 3782979, "predecessors": [{"name": "Hukum_bisnis", "id": 222049}, {"name": "Eropa", "id": 15962}], "successors": []}
+{"name": "Bahan_tambahan_pangan_bernomor_Uni_Eropa", "id": 3782979, "predecessors": [{"name": "Bahan_tambahan_makanan", "id": 1603144}, {"name": "Hukum_bisnis", "id": 222049}, {"name": "Eropa", "id": 15962}], "successors": []}

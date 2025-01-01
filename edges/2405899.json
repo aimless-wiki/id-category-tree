@@ -1,1 +1,1 @@
-{"name": "Senyawa_fenil", "id": 2405899, "predecessors": [{"name": "Senyawa_kimia", "id": 16704}], "successors": [{"name": "Eter_fenol", "id": 4248141}]}
+{"name": "Senyawa_fenil", "id": 2405899, "predecessors": [{"name": "Senyawa_kimia", "id": 16704}], "successors": [{"name": "Fenetilamina", "id": 2354422}, {"name": "Eter_fenol", "id": 4248141}]}
