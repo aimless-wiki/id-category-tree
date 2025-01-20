@@ -1,1 +1,1 @@
-{"name": "Terorisme", "id": 14711, "predecessors": [{"name": "Kriminalitas", "id": 14145}, {"name": "Perilaku_manusia", "id": 268108}], "successors": [{"name": "Serangan_teroris", "id": 16963}, {"name": "Pembajakan_pesawat", "id": 125755}]}
+{"name": "Terorisme", "id": 14711, "predecessors": [{"name": "Kriminalitas", "id": 14145}, {"name": "Bencana", "id": 72215}], "successors": [{"name": "Serangan_teroris", "id": 16963}, {"name": "Pembajakan_pesawat", "id": 125755}]}

@@ -1,1 +1,1 @@
-{"name": "Olahraga_air", "id": 275467, "predecessors": [{"name": "Cabang_olahraga", "id": 140076}, {"name": "Perairan", "id": 204973}], "successors": []}
+{"name": "Olahraga_air", "id": 275467, "predecessors": [{"name": "Cabang_olahraga", "id": 140076}, {"name": "Perairan", "id": 204973}], "successors": [{"name": "Selam", "id": 231229}]}

@@ -1,1 +1,1 @@
-{"name": "Mineral_karbonat", "id": 1881623, "predecessors": [{"name": "Oksida", "id": 157516}, {"name": "Mineralogi", "id": 68242}], "successors": []}
+{"name": "Mineral_karbonat", "id": 1881623, "predecessors": [{"name": "Karbonat", "id": 1881624}, {"name": "Mineralogi", "id": 68242}], "successors": []}

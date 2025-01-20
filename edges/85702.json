@@ -1,1 +1,1 @@
-{"name": "Penipuan", "id": 85702, "predecessors": [{"name": "Kejahatan", "id": 82165}, {"name": "Kriminalitas", "id": 14145}, {"name": "Komunikasi", "id": 8533}], "successors": [{"name": "Hoaks", "id": 2099993}]}
+{"name": "Penipuan", "id": 85702, "predecessors": [{"name": "Kejahatan", "id": 82165}, {"name": "Kriminalitas", "id": 14145}, {"name": "Hukum_properti", "id": 3305272}, {"name": "Komunikasi", "id": 8533}], "successors": [{"name": "Hoaks", "id": 2099993}]}

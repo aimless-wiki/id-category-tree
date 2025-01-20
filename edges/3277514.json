@@ -1,1 +1,1 @@
-{"name": "Perpindahan_panas", "id": 3277514, "predecessors": [{"name": "Termodinamika", "id": 110179}, {"name": "Biologi_membran", "id": 1865773}], "successors": []}
+{"name": "Perpindahan_panas", "id": 3277514, "predecessors": [{"name": "Termodinamika", "id": 110179}, {"name": "Biologi_membran", "id": 1865773}], "successors": [{"name": "Pendingin", "id": 3338946}]}

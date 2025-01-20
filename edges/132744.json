@@ -1,1 +1,1 @@
-{"name": "Ekologi_perairan", "id": 132744, "predecessors": [{"name": "Air", "id": 60051}, {"name": "Ekologi", "id": 39724}], "successors": [{"name": "Pencemaran_air", "id": 1179872}, {"name": "Hutan_mangrove", "id": 3323120}, {"name": "Irigasi", "id": 111152}]}
+{"name": "Ekologi_perairan", "id": 132744, "predecessors": [{"name": "Air", "id": 60051}, {"name": "Ekologi", "id": 39724}], "successors": [{"name": "Pencemaran_air", "id": 1179872}, {"name": "Hutan_mangrove", "id": 3323120}, {"name": "Irigasi", "id": 111152}, {"name": "Mesin_pertanian", "id": 1178506}]}
